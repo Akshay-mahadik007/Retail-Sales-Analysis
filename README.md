@@ -42,4 +42,6 @@ Project Outputs
 
 Conclusion
 
-This project helps understand retail sales performance and provides useful insights for better business decisions.
+## Monthly Profit Chart
+
+![Monthly Profit](Monthly_Profit.png)
