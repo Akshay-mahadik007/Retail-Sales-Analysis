@@ -1,0 +1,1501 @@
+Order_ID,Order_Date,Customer_ID,Customer_Type,Gender,Region,City,Category,Product,Quantity,Unit_Price,Discount_Percent,Cost_Per_Unit,Payment_Mode,Sales,Total_Cost,Profit,Order_Status
+10001,2025-08-03,1129,New,Female,South,Bangalore,Furniture,Table,5,6000,5,3500,Card,28500.0,17500,11000.0,Delivered
+10002,2025-10-05,1091,New,Female,South,Hyderabad,Electronics,Keyboard,8,1200,20,600,Net Banking,7680.0,4800,2880.0,Delivered
+10003,2025-07-22,1092,New,Female,East,Patna,Electronics,Headphones,5,3000,15,1800,Net Banking,12750.0,9000,3750.0,Delivered
+10004,2025-03-15,1063,Returning,Male,North,Jaipur,Clothing,Jacket,8,3500,5,1900,Net Banking,26600.0,15200,11400.0,Delivered
+10005,2025-01-25,1029,Returning,Male,North,Jaipur,Clothing,Shoes,10,2500,15,1300,Net Banking,21250.0,13000,8250.0,Pending
+10006,2025-04-11,1210,Returning,Male,East,Bhubaneswar,Furniture,Sofa,1,25000,5,18000,Card,23750.0,18000,5750.0,Delivered
+10007,2025-06-25,1012,New,Female,East,Patna,Electronics,Headphones,10,3000,10,1800,UPI,27000.0,18000,9000.0,Delivered
+10008,2025-04-27,1297,Returning,Female,North,Delhi,Electronics,Monitor,9,12000,0,8500,Net Banking,108000.0,76500,31500.0,Delivered
+10009,2025-06-15,1130,New,Male,East,Kolkata,Furniture,Table,6,6000,0,3500,UPI,36000.0,21000,15000.0,Delivered
+10010,2025-02-10,1293,Returning,Male,South,Chennai,Clothing,Jeans,3,1500,15,800,Cash,3825.0,2400,1425.0,Delivered
+10011,2025-12-10,1173,New,Female,West,Pune,Electronics,Mouse,8,500,0,200,Cash,4000.0,1600,2400.0,Pending
+10012,2025-04-30,1208,Returning,Male,South,Hyderabad,Furniture,Table,9,6000,15,3500,Net Banking,45900.0,31500,14400.0,Delivered
+10013,2025-04-07,1024,Returning,Male,East,Bhubaneswar,Clothing,Shoes,6,2500,15,1300,Cash,12750.0,7800,4950.0,Cancelled
+10014,2025-05-25,1099,Returning,Female,North,Chandigarh,Clothing,Shoes,7,2500,15,1300,UPI,14875.0,9100,5775.0,Delivered
+10015,2025-08-04,1139,New,Female,North,Jaipur,Furniture,Sofa,1,25000,0,18000,UPI,25000.0,18000,7000.0,Delivered
+10016,2025-08-17,1174,New,Male,South,Hyderabad,Electronics,Monitor,5,12000,15,8500,Cash,51000.0,42500,8500.0,Delivered
+10017,2025-11-09,1029,New,Female,North,Chandigarh,Electronics,Keyboard,5,1200,0,600,Net Banking,6000.0,3000,3000.0,Delivered
+10018,2025-05-10,1143,Returning,Male,East,Kolkata,Furniture,Sofa,10,25000,15,18000,UPI,212500.0,180000,32500.0,Delivered
+10019,2025-12-18,1042,New,Female,South,Hyderabad,Furniture,Sofa,4,25000,20,18000,UPI,80000.0,72000,8000.0,Delivered
+10020,2025-11-14,1299,New,Female,North,Delhi,Electronics,Mouse,6,500,15,200,Card,2550.0,1200,1350.0,Delivered
+10021,2025-05-17,1208,New,Male,West,Mumbai,Furniture,Chair,7,2500,5,1500,Net Banking,16625.0,10500,6125.0,Delivered
+10022,2025-11-20,1192,New,Female,West,Nashik,Electronics,Monitor,9,12000,15,8500,Card,91800.0,76500,15300.0,Delivered
+10023,2025-12-03,1160,New,Male,East,Kolkata,Electronics,Mobile,1,20000,10,14000,Cash,18000.0,14000,4000.0,Pending
+10024,2025-09-30,1064,New,Female,North,Jaipur,Furniture,Sofa,6,25000,15,18000,Cash,127500.0,108000,19500.0,Delivered
+10025,2025-04-27,1243,Returning,Male,East,Patna,Clothing,TShirt,7,500,5,250,Card,3325.0,1750,1575.0,Delivered
+10026,2025-11-02,1258,Returning,Female,South,Hyderabad,Furniture,Bookshelf,3,4500,5,2800,Net Banking,12825.0,8400,4425.0,Delivered
+10027,2025-04-04,1152,New,Female,West,Pune,Furniture,Chair,8,2500,0,1500,UPI,20000.0,12000,8000.0,Delivered
+10028,2025-06-17,1215,Returning,Male,South,Bangalore,Electronics,Mobile,5,20000,20,14000,Cash,80000.0,70000,10000.0,Delivered
+10029,2025-07-22,1166,Returning,Female,North,Jaipur,Clothing,TShirt,9,500,15,250,Net Banking,3825.0,2250,1575.0,Delivered
+10030,2025-12-07,1031,New,Male,East,Bhubaneswar,Electronics,Monitor,5,12000,0,8500,Net Banking,60000.0,42500,17500.0,Delivered
+10031,2025-05-29,1232,New,Female,East,Bhubaneswar,Electronics,Laptop,9,50000,20,38000,Cash,360000.0,342000,18000.0,Delivered
+10032,2025-07-02,1282,Returning,Female,East,Kolkata,Clothing,TShirt,10,500,15,250,Cash,4250.0,2500,1750.0,Delivered
+10033,2025-06-01,1029,New,Male,South,Hyderabad,Clothing,Jeans,4,1500,10,800,Net Banking,5400.0,3200,2200.0,Delivered
+10034,2025-03-15,1195,Returning,Female,West,Pune,Furniture,Chair,9,2500,15,1500,UPI,19125.0,13500,5625.0,Delivered
+10035,2025-12-31,1256,Returning,Female,South,Hyderabad,Electronics,Headphones,5,3000,5,1800,Card,14250.0,9000,5250.0,Delivered
+10036,2025-10-01,1281,Returning,Male,South,Bangalore,Clothing,TShirt,10,500,5,250,Cash,4750.0,2500,2250.0,Delivered
+10037,2025-02-11,1294,New,Female,North,Chandigarh,Clothing,Shirt,9,800,10,400,Card,6480.0,3600,2880.0,Delivered
+10038,2025-07-31,1087,Returning,Male,North,Jaipur,Electronics,Laptop,3,50000,0,38000,Net Banking,150000.0,114000,36000.0,Delivered
+10039,2025-04-11,1149,New,Male,North,Delhi,Clothing,Shoes,4,2500,20,1300,Card,8000.0,5200,2800.0,Delivered
+10040,2025-02-14,1249,New,Male,West,Pune,Clothing,Shoes,9,2500,15,1300,UPI,19125.0,11700,7425.0,Delivered
+10041,2025-03-23,1283,New,Female,West,Mumbai,Clothing,Jacket,10,3500,5,1900,Net Banking,33250.0,19000,14250.0,Delivered
+10042,2025-01-17,1198,New,Female,North,Chandigarh,Clothing,Jeans,6,1500,0,800,UPI,9000.0,4800,4200.0,Delivered
+10043,2025-03-14,1044,New,Male,North,Delhi,Clothing,TShirt,2,500,10,250,Net Banking,900.0,500,400.0,Delivered
+10044,2025-01-14,1028,Returning,Female,West,Mumbai,Clothing,TShirt,7,500,5,250,UPI,3325.0,1750,1575.0,Delivered
+10045,2025-06-06,1017,New,Male,East,Bhubaneswar,Clothing,Jacket,2,3500,10,1900,Net Banking,6300.0,3800,2500.0,Delivered
+10046,2025-08-11,1127,New,Female,West,Pune,Furniture,Bookshelf,2,4500,15,2800,UPI,7650.0,5600,2050.0,Delivered
+10047,2025-05-12,1168,New,Male,West,Nashik,Furniture,Bookshelf,1,4500,20,2800,Net Banking,3600.0,2800,800.0,Delivered
+10048,2025-12-04,1244,New,Male,West,Mumbai,Clothing,Jacket,3,3500,5,1900,UPI,9975.0,5700,4275.0,Pending
+10049,2025-02-16,1076,New,Female,North,Chandigarh,Furniture,Bookshelf,6,4500,5,2800,Net Banking,25650.0,16800,8850.0,Delivered
+10050,2025-04-17,1231,Returning,Male,East,Kolkata,Electronics,Mouse,8,500,15,200,UPI,3400.0,1600,1800.0,Delivered
+10051,2025-04-18,1204,New,Male,West,Nashik,Clothing,TShirt,9,500,0,250,Cash,4500.0,2250,2250.0,Delivered
+10052,2025-09-22,1248,New,Female,North,Chandigarh,Furniture,Table,7,6000,20,3500,Card,33600.0,24500,9100.0,Delivered
+10053,2025-07-24,1214,Returning,Male,South,Chennai,Electronics,Keyboard,4,1200,5,600,Net Banking,4560.0,2400,2160.0,Delivered
+10054,2025-03-20,1215,New,Male,South,Bangalore,Clothing,Shirt,6,800,20,400,UPI,3840.0,2400,1440.0,Delivered
+10055,2025-06-04,1158,Returning,Female,West,Pune,Electronics,Mouse,5,500,5,200,Cash,2375.0,1000,1375.0,Delivered
+10056,2025-09-28,1069,Returning,Male,South,Bangalore,Electronics,Monitor,8,12000,20,8500,Net Banking,76800.0,68000,8800.0,Cancelled
+10057,2025-09-04,1085,Returning,Male,East,Bhubaneswar,Electronics,Mouse,1,500,10,200,Net Banking,450.0,200,250.0,Cancelled
+10058,2025-01-19,1267,Returning,Male,South,Bangalore,Furniture,Table,1,6000,5,3500,Net Banking,5700.0,3500,2200.0,Delivered
+10059,2025-12-12,1069,New,Male,South,Chennai,Electronics,Monitor,6,12000,20,8500,Card,57600.0,51000,6600.0,Cancelled
+10060,2025-01-26,1099,New,Male,East,Patna,Clothing,Shirt,10,800,0,400,UPI,8000.0,4000,4000.0,Delivered
+10061,2025-08-05,1216,Returning,Male,West,Pune,Furniture,Table,2,6000,10,3500,UPI,10800.0,7000,3800.0,Delivered
+10062,2025-06-03,1161,Returning,Male,West,Mumbai,Electronics,Mobile,5,20000,10,14000,Net Banking,90000.0,70000,20000.0,Delivered
+10063,2025-06-03,1094,New,Male,East,Patna,Electronics,Keyboard,1,1200,0,600,Net Banking,1200.0,600,600.0,Delivered
+10064,2025-06-23,1174,Returning,Female,East,Patna,Clothing,Shirt,7,800,20,400,Net Banking,4480.0,2800,1680.0,Delivered
+10065,2025-04-02,1165,Returning,Male,East,Patna,Clothing,TShirt,1,500,15,250,Cash,425.0,250,175.0,Cancelled
+10066,2025-12-04,1115,Returning,Male,South,Hyderabad,Furniture,Bookshelf,4,4500,0,2800,Net Banking,18000.0,11200,6800.0,Delivered
+10067,2025-06-30,1220,New,Female,East,Bhubaneswar,Electronics,Mobile,9,20000,20,14000,Card,144000.0,126000,18000.0,Delivered
+10068,2025-05-11,1031,Returning,Male,North,Delhi,Clothing,Jeans,1,1500,0,800,UPI,1500.0,800,700.0,Pending
+10069,2025-10-25,1011,New,Male,South,Bangalore,Clothing,Shirt,4,800,0,400,Card,3200.0,1600,1600.0,Delivered
+10070,2025-10-02,1130,New,Male,West,Pune,Clothing,Jeans,6,1500,5,800,Net Banking,8550.0,4800,3750.0,Delivered
+10071,2025-09-30,1105,New,Male,West,Nashik,Electronics,Monitor,6,12000,20,8500,Cash,57600.0,51000,6600.0,Delivered
+10072,2025-03-17,1027,Returning,Male,West,Pune,Electronics,Mobile,8,20000,15,14000,Net Banking,136000.0,112000,24000.0,Delivered
+10073,2025-06-26,1227,Returning,Male,South,Chennai,Electronics,Keyboard,1,1200,5,600,Net Banking,1140.0,600,540.0,Delivered
+10074,2025-07-03,1002,New,Female,North,Chandigarh,Clothing,TShirt,7,500,0,250,Net Banking,3500.0,1750,1750.0,Delivered
+10075,2025-11-15,1101,New,Female,East,Bhubaneswar,Clothing,Jacket,1,3500,0,1900,Net Banking,3500.0,1900,1600.0,Delivered
+10076,2025-05-11,1021,New,Female,East,Bhubaneswar,Clothing,TShirt,7,500,0,250,Net Banking,3500.0,1750,1750.0,Cancelled
+10077,2025-12-29,1058,Returning,Female,West,Mumbai,Furniture,Table,3,6000,20,3500,UPI,14400.0,10500,3900.0,Pending
+10078,2025-02-18,1180,Returning,Female,West,Mumbai,Clothing,TShirt,8,500,20,250,Card,3200.0,2000,1200.0,Delivered
+10079,2025-02-24,1020,New,Male,South,Chennai,Electronics,Headphones,3,3000,5,1800,Cash,8550.0,5400,3150.0,Delivered
+10080,2025-06-03,1255,New,Male,North,Delhi,Furniture,Sofa,1,25000,15,18000,Net Banking,21250.0,18000,3250.0,Delivered
+10081,2025-12-21,1038,Returning,Male,East,Bhubaneswar,Clothing,Jacket,8,3500,5,1900,Cash,26600.0,15200,11400.0,Cancelled
+10082,2025-07-19,1148,New,Male,South,Hyderabad,Electronics,Mouse,3,500,10,200,UPI,1350.0,600,750.0,Delivered
+10083,2025-11-04,1025,Returning,Male,East,Kolkata,Furniture,Bookshelf,2,4500,0,2800,Card,9000.0,5600,3400.0,Delivered
+10084,2025-12-22,1121,Returning,Female,West,Pune,Electronics,Laptop,1,50000,0,38000,Net Banking,50000.0,38000,12000.0,Delivered
+10085,2025-04-28,1026,New,Female,East,Patna,Electronics,Keyboard,3,1200,0,600,UPI,3600.0,1800,1800.0,Cancelled
+10086,2025-09-20,1169,New,Male,North,Delhi,Electronics,Mobile,2,20000,5,14000,UPI,38000.0,28000,10000.0,Delivered
+10087,2025-02-15,1225,Returning,Male,North,Jaipur,Furniture,Sofa,2,25000,5,18000,Card,47500.0,36000,11500.0,Delivered
+10088,2025-10-29,1001,Returning,Male,West,Pune,Electronics,Keyboard,6,1200,0,600,Net Banking,7200.0,3600,3600.0,Delivered
+10089,2025-12-22,1261,Returning,Female,North,Jaipur,Electronics,Mobile,1,20000,5,14000,Card,19000.0,14000,5000.0,Delivered
+10090,2025-07-08,1013,Returning,Female,North,Chandigarh,Furniture,Bookshelf,2,4500,20,2800,Card,7200.0,5600,1600.0,Delivered
+10091,2025-11-06,1048,Returning,Male,South,Hyderabad,Furniture,Chair,6,2500,20,1500,Cash,12000.0,9000,3000.0,Delivered
+10092,2025-11-14,1291,New,Female,East,Kolkata,Furniture,Chair,3,2500,5,1500,Cash,7125.0,4500,2625.0,Delivered
+10093,2025-05-09,1094,Returning,Male,West,Nashik,Clothing,Jeans,4,1500,0,800,Card,6000.0,3200,2800.0,Delivered
+10094,2025-02-18,1261,Returning,Female,West,Pune,Electronics,Keyboard,1,1200,5,600,Cash,1140.0,600,540.0,Delivered
+10095,2025-01-25,1278,Returning,Female,West,Nashik,Furniture,Chair,8,2500,5,1500,UPI,19000.0,12000,7000.0,Delivered
+10096,2025-09-23,1205,New,Male,West,Mumbai,Electronics,Headphones,7,3000,5,1800,Card,19950.0,12600,7350.0,Delivered
+10097,2025-04-28,1185,New,Female,West,Nashik,Clothing,Jacket,7,3500,10,1900,Net Banking,22050.0,13300,8750.0,Delivered
+10098,2025-05-24,1175,Returning,Female,North,Jaipur,Electronics,Mobile,3,20000,20,14000,Net Banking,48000.0,42000,6000.0,Delivered
+10099,2025-07-19,1069,Returning,Male,South,Chennai,Clothing,Jeans,10,1500,15,800,UPI,12750.0,8000,4750.0,Delivered
+10100,2025-06-06,1104,New,Female,West,Mumbai,Clothing,TShirt,10,500,15,250,Net Banking,4250.0,2500,1750.0,Delivered
+10101,2025-12-14,1246,New,Male,South,Hyderabad,Electronics,Mobile,3,20000,10,14000,Net Banking,54000.0,42000,12000.0,Delivered
+10102,2025-05-14,1161,New,Female,South,Hyderabad,Clothing,Jeans,2,1500,5,800,Card,2850.0,1600,1250.0,Delivered
+10103,2025-05-28,1200,New,Male,North,Chandigarh,Furniture,Bookshelf,1,4500,10,2800,UPI,4050.0,2800,1250.0,Pending
+10104,2025-12-02,1216,Returning,Male,West,Pune,Electronics,Keyboard,7,1200,10,600,Card,7560.0,4200,3360.0,Delivered
+10105,2025-03-12,1212,New,Female,North,Delhi,Furniture,Bookshelf,7,4500,0,2800,UPI,31500.0,19600,11900.0,Delivered
+10106,2025-08-21,1016,Returning,Female,West,Nashik,Clothing,Jacket,2,3500,20,1900,Card,5600.0,3800,1800.0,Delivered
+10107,2025-11-30,1205,Returning,Male,North,Jaipur,Clothing,Jacket,7,3500,15,1900,Card,20825.0,13300,7525.0,Delivered
+10108,2025-10-26,1039,New,Female,South,Chennai,Furniture,Sofa,8,25000,5,18000,Cash,190000.0,144000,46000.0,Cancelled
+10109,2025-06-03,1089,New,Female,West,Pune,Furniture,Bookshelf,1,4500,15,2800,Net Banking,3825.0,2800,1025.0,Delivered
+10110,2025-03-31,1256,New,Female,East,Bhubaneswar,Furniture,Table,9,6000,15,3500,UPI,45900.0,31500,14400.0,Delivered
+10111,2025-11-30,1254,New,Male,South,Hyderabad,Clothing,TShirt,7,500,20,250,Net Banking,2800.0,1750,1050.0,Delivered
+10112,2025-07-18,1216,Returning,Male,East,Bhubaneswar,Clothing,Shirt,3,800,15,400,Cash,2040.0,1200,840.0,Delivered
+10113,2025-06-10,1172,Returning,Male,South,Hyderabad,Furniture,Bookshelf,8,4500,15,2800,UPI,30600.0,22400,8200.0,Delivered
+10114,2025-01-26,1137,Returning,Female,North,Chandigarh,Furniture,Sofa,7,25000,10,18000,Cash,157500.0,126000,31500.0,Pending
+10115,2025-05-01,1178,New,Female,West,Nashik,Electronics,Monitor,8,12000,20,8500,Net Banking,76800.0,68000,8800.0,Pending
+10116,2025-10-28,1077,Returning,Male,South,Hyderabad,Electronics,Headphones,6,3000,0,1800,Card,18000.0,10800,7200.0,Delivered
+10117,2025-07-31,1188,New,Male,North,Chandigarh,Electronics,Mobile,9,20000,5,14000,Cash,171000.0,126000,45000.0,Delivered
+10118,2025-03-04,1015,Returning,Female,West,Nashik,Clothing,Jacket,5,3500,15,1900,Cash,14875.0,9500,5375.0,Delivered
+10119,2025-03-09,1292,New,Female,West,Pune,Electronics,Monitor,3,12000,5,8500,Card,34200.0,25500,8700.0,Delivered
+10120,2025-09-10,1214,Returning,Female,South,Hyderabad,Furniture,Sofa,3,25000,0,18000,Net Banking,75000.0,54000,21000.0,Delivered
+10121,2025-01-02,1208,Returning,Female,West,Mumbai,Clothing,Jeans,1,1500,5,800,Cash,1425.0,800,625.0,Delivered
+10122,2025-04-18,1169,New,Male,South,Chennai,Clothing,Shirt,8,800,0,400,Net Banking,6400.0,3200,3200.0,Pending
+10123,2025-10-13,1280,Returning,Female,West,Nashik,Clothing,TShirt,2,500,10,250,Card,900.0,500,400.0,Delivered
+10124,2025-02-18,1146,Returning,Female,East,Kolkata,Clothing,TShirt,3,500,15,250,UPI,1275.0,750,525.0,Delivered
+10125,2025-05-20,1263,New,Male,North,Chandigarh,Clothing,TShirt,8,500,0,250,Cash,4000.0,2000,2000.0,Pending
+10126,2025-08-06,1004,New,Male,East,Kolkata,Electronics,Headphones,8,3000,5,1800,Net Banking,22800.0,14400,8400.0,Delivered
+10127,2025-02-13,1090,New,Female,South,Bangalore,Clothing,Shirt,4,800,15,400,Card,2720.0,1600,1120.0,Delivered
+10128,2025-09-26,1060,New,Male,East,Kolkata,Electronics,Headphones,4,3000,10,1800,Card,10800.0,7200,3600.0,Delivered
+10129,2025-03-19,1016,New,Female,South,Bangalore,Clothing,Jacket,5,3500,15,1900,Cash,14875.0,9500,5375.0,Delivered
+10130,2025-08-04,1227,Returning,Female,West,Pune,Electronics,Headphones,6,3000,0,1800,UPI,18000.0,10800,7200.0,Delivered
+10131,2025-04-08,1029,New,Male,West,Pune,Electronics,Laptop,5,50000,10,38000,Cash,225000.0,190000,35000.0,Delivered
+10132,2025-08-24,1151,Returning,Male,South,Bangalore,Clothing,Shirt,7,800,5,400,Net Banking,5320.0,2800,2520.0,Delivered
+10133,2025-10-09,1245,Returning,Female,East,Bhubaneswar,Furniture,Table,2,6000,10,3500,Card,10800.0,7000,3800.0,Delivered
+10134,2025-05-29,1270,New,Male,West,Mumbai,Clothing,Shirt,7,800,10,400,UPI,5040.0,2800,2240.0,Cancelled
+10135,2025-10-31,1079,Returning,Female,North,Jaipur,Furniture,Sofa,10,25000,20,18000,Net Banking,200000.0,180000,20000.0,Delivered
+10136,2025-03-07,1289,Returning,Female,West,Nashik,Electronics,Laptop,7,50000,10,38000,Cash,315000.0,266000,49000.0,Delivered
+10137,2025-08-22,1153,New,Female,North,Jaipur,Clothing,TShirt,1,500,10,250,Card,450.0,250,200.0,Delivered
+10138,2025-03-28,1277,Returning,Male,East,Patna,Furniture,Sofa,7,25000,15,18000,Cash,148750.0,126000,22750.0,Delivered
+10139,2025-03-20,1279,New,Female,North,Chandigarh,Furniture,Sofa,5,25000,5,18000,UPI,118750.0,90000,28750.0,Delivered
+10140,2025-07-24,1057,New,Female,North,Delhi,Clothing,Jacket,3,3500,15,1900,UPI,8925.0,5700,3225.0,Delivered
+10141,2025-10-06,1186,New,Female,North,Delhi,Clothing,Shoes,3,2500,15,1300,UPI,6375.0,3900,2475.0,Delivered
+10142,2025-12-03,1093,Returning,Male,North,Delhi,Electronics,Mouse,4,500,0,200,UPI,2000.0,800,1200.0,Delivered
+10143,2025-09-11,1276,Returning,Female,West,Mumbai,Electronics,Laptop,2,50000,15,38000,UPI,85000.0,76000,9000.0,Delivered
+10144,2025-10-31,1158,Returning,Female,North,Chandigarh,Furniture,Sofa,2,25000,20,18000,Cash,40000.0,36000,4000.0,Delivered
+10145,2025-05-10,1275,Returning,Female,West,Nashik,Electronics,Mouse,1,500,20,200,UPI,400.0,200,200.0,Delivered
+10146,2025-03-25,1181,New,Male,North,Chandigarh,Electronics,Mouse,5,500,0,200,UPI,2500.0,1000,1500.0,Delivered
+10147,2025-10-03,1077,Returning,Female,South,Chennai,Electronics,Laptop,4,50000,5,38000,Card,190000.0,152000,38000.0,Delivered
+10148,2025-07-06,1151,New,Female,East,Bhubaneswar,Clothing,Shoes,10,2500,5,1300,UPI,23750.0,13000,10750.0,Delivered
+10149,2025-02-15,1238,Returning,Male,North,Delhi,Electronics,Monitor,2,12000,15,8500,Card,20400.0,17000,3400.0,Delivered
+10150,2025-07-02,1289,Returning,Male,South,Chennai,Clothing,Jeans,3,1500,15,800,Card,3825.0,2400,1425.0,Pending
+10151,2025-09-25,1231,Returning,Female,North,Delhi,Furniture,Table,7,6000,15,3500,Card,35700.0,24500,11200.0,Delivered
+10152,2025-10-23,1018,Returning,Female,North,Delhi,Clothing,Jeans,7,1500,5,800,Cash,9975.0,5600,4375.0,Delivered
+10153,2025-11-18,1073,Returning,Female,North,Chandigarh,Clothing,Shirt,4,800,10,400,Cash,2880.0,1600,1280.0,Delivered
+10154,2025-04-10,1189,New,Male,South,Hyderabad,Clothing,TShirt,5,500,20,250,Net Banking,2000.0,1250,750.0,Pending
+10155,2025-03-19,1017,Returning,Male,East,Kolkata,Furniture,Table,5,6000,10,3500,Net Banking,27000.0,17500,9500.0,Delivered
+10156,2025-09-29,1019,Returning,Female,South,Bangalore,Clothing,Shirt,6,800,10,400,Card,4320.0,2400,1920.0,Delivered
+10157,2025-12-05,1219,Returning,Male,East,Patna,Furniture,Sofa,9,25000,5,18000,Cash,213750.0,162000,51750.0,Delivered
+10158,2025-06-11,1120,Returning,Female,North,Chandigarh,Clothing,TShirt,2,500,10,250,UPI,900.0,500,400.0,Delivered
+10159,2025-02-13,1101,New,Female,West,Pune,Electronics,Mobile,5,20000,0,14000,Net Banking,100000.0,70000,30000.0,Delivered
+10160,2025-08-26,1034,Returning,Male,North,Jaipur,Electronics,Laptop,3,50000,15,38000,Cash,127500.0,114000,13500.0,Pending
+10161,2025-05-14,1084,New,Female,East,Patna,Furniture,Table,4,6000,0,3500,UPI,24000.0,14000,10000.0,Delivered
+10162,2025-07-11,1196,Returning,Male,South,Bangalore,Furniture,Table,10,6000,20,3500,UPI,48000.0,35000,13000.0,Delivered
+10163,2025-12-22,1202,New,Male,North,Jaipur,Furniture,Bookshelf,6,4500,15,2800,Cash,22950.0,16800,6150.0,Delivered
+10164,2025-10-05,1011,New,Female,South,Chennai,Furniture,Sofa,8,25000,10,18000,Net Banking,180000.0,144000,36000.0,Pending
+10165,2025-01-18,1218,New,Male,South,Bangalore,Electronics,Monitor,1,12000,20,8500,Cash,9600.0,8500,1100.0,Delivered
+10166,2025-01-12,1253,New,Female,South,Hyderabad,Electronics,Mouse,10,500,15,200,Net Banking,4250.0,2000,2250.0,Delivered
+10167,2025-06-29,1222,New,Male,North,Chandigarh,Clothing,TShirt,8,500,10,250,Card,3600.0,2000,1600.0,Delivered
+10168,2025-05-03,1080,Returning,Female,South,Chennai,Furniture,Sofa,7,25000,0,18000,Cash,175000.0,126000,49000.0,Cancelled
+10169,2025-09-03,1007,New,Female,South,Bangalore,Furniture,Chair,1,2500,15,1500,Cash,2125.0,1500,625.0,Pending
+10170,2025-08-10,1272,Returning,Female,North,Chandigarh,Clothing,Shoes,2,2500,10,1300,Net Banking,4500.0,2600,1900.0,Delivered
+10171,2025-02-20,1227,New,Male,South,Chennai,Electronics,Mouse,3,500,0,200,Net Banking,1500.0,600,900.0,Delivered
+10172,2025-03-12,1016,New,Female,North,Jaipur,Electronics,Laptop,1,50000,20,38000,Cash,40000.0,38000,2000.0,Delivered
+10173,2025-02-17,1012,Returning,Male,East,Kolkata,Electronics,Mouse,9,500,20,200,UPI,3600.0,1800,1800.0,Cancelled
+10174,2025-01-19,1291,New,Male,East,Patna,Electronics,Monitor,8,12000,20,8500,UPI,76800.0,68000,8800.0,Delivered
+10175,2025-09-19,1241,New,Male,East,Bhubaneswar,Clothing,Jacket,2,3500,20,1900,UPI,5600.0,3800,1800.0,Delivered
+10176,2025-03-25,1021,New,Male,South,Bangalore,Furniture,Bookshelf,9,4500,5,2800,Card,38475.0,25200,13275.0,Delivered
+10177,2025-06-04,1178,New,Male,West,Nashik,Electronics,Mouse,7,500,15,200,Card,2975.0,1400,1575.0,Pending
+10178,2025-02-22,1228,Returning,Female,West,Nashik,Electronics,Laptop,9,50000,15,38000,Net Banking,382500.0,342000,40500.0,Delivered
+10179,2025-04-17,1273,New,Male,South,Hyderabad,Electronics,Monitor,6,12000,5,8500,Card,68400.0,51000,17400.0,Delivered
+10180,2025-12-23,1288,New,Female,West,Pune,Clothing,Jeans,6,1500,10,800,UPI,8100.0,4800,3300.0,Pending
+10181,2025-10-31,1297,Returning,Female,North,Jaipur,Furniture,Table,4,6000,10,3500,Cash,21600.0,14000,7600.0,Delivered
+10182,2025-05-15,1134,Returning,Male,West,Nashik,Clothing,Jacket,10,3500,20,1900,Card,28000.0,19000,9000.0,Delivered
+10183,2025-03-10,1283,New,Female,South,Hyderabad,Furniture,Bookshelf,10,4500,0,2800,Card,45000.0,28000,17000.0,Cancelled
+10184,2025-01-11,1153,New,Female,South,Bangalore,Furniture,Table,2,6000,10,3500,UPI,10800.0,7000,3800.0,Cancelled
+10185,2025-05-23,1066,Returning,Male,North,Delhi,Clothing,Shoes,7,2500,0,1300,Card,17500.0,9100,8400.0,Pending
+10186,2025-07-11,1137,New,Female,East,Patna,Clothing,Shirt,5,800,15,400,Net Banking,3400.0,2000,1400.0,Delivered
+10187,2025-03-10,1092,Returning,Male,South,Chennai,Clothing,Jacket,6,3500,0,1900,Cash,21000.0,11400,9600.0,Delivered
+10188,2025-01-23,1259,New,Male,North,Delhi,Clothing,Jacket,2,3500,15,1900,UPI,5950.0,3800,2150.0,Pending
+10189,2025-06-30,1103,Returning,Male,West,Nashik,Clothing,Jeans,5,1500,5,800,Net Banking,7125.0,4000,3125.0,Delivered
+10190,2025-10-20,1055,Returning,Female,West,Pune,Clothing,Jeans,10,1500,5,800,UPI,14250.0,8000,6250.0,Pending
+10191,2025-01-09,1257,Returning,Female,North,Chandigarh,Clothing,TShirt,4,500,20,250,Net Banking,1600.0,1000,600.0,Pending
+10192,2025-09-28,1101,New,Female,North,Delhi,Electronics,Headphones,9,3000,10,1800,Cash,24300.0,16200,8100.0,Delivered
+10193,2025-04-03,1198,New,Female,South,Chennai,Electronics,Mouse,6,500,20,200,Cash,2400.0,1200,1200.0,Pending
+10194,2025-01-17,1226,New,Male,West,Pune,Clothing,Jacket,2,3500,15,1900,Net Banking,5950.0,3800,2150.0,Delivered
+10195,2025-06-03,1237,New,Male,North,Delhi,Furniture,Table,1,6000,20,3500,Net Banking,4800.0,3500,1300.0,Delivered
+10196,2025-11-24,1026,Returning,Female,West,Pune,Electronics,Laptop,5,50000,0,38000,Net Banking,250000.0,190000,60000.0,Delivered
+10197,2025-05-29,1121,Returning,Male,North,Delhi,Electronics,Keyboard,9,1200,15,600,Net Banking,9180.0,5400,3780.0,Delivered
+10198,2025-09-24,1182,Returning,Female,West,Pune,Electronics,Headphones,6,3000,5,1800,Net Banking,17100.0,10800,6300.0,Delivered
+10199,2025-11-24,1199,New,Male,East,Kolkata,Electronics,Keyboard,10,1200,10,600,Net Banking,10800.0,6000,4800.0,Delivered
+10200,2025-04-16,1255,New,Male,South,Chennai,Furniture,Bookshelf,7,4500,15,2800,Cash,26775.0,19600,7175.0,Delivered
+10201,2025-02-04,1122,New,Male,West,Nashik,Electronics,Monitor,5,12000,15,8500,Net Banking,51000.0,42500,8500.0,Pending
+10202,2025-04-29,1031,Returning,Male,East,Bhubaneswar,Furniture,Table,10,6000,0,3500,Card,60000.0,35000,25000.0,Cancelled
+10203,2025-01-14,1285,New,Male,West,Nashik,Furniture,Table,6,6000,10,3500,Cash,32400.0,21000,11400.0,Delivered
+10204,2025-01-14,1106,New,Female,West,Pune,Electronics,Headphones,5,3000,5,1800,UPI,14250.0,9000,5250.0,Delivered
+10205,2025-09-23,1224,Returning,Female,East,Patna,Clothing,Jacket,9,3500,15,1900,Cash,26775.0,17100,9675.0,Delivered
+10206,2025-05-20,1273,Returning,Male,West,Nashik,Clothing,Shoes,6,2500,15,1300,UPI,12750.0,7800,4950.0,Cancelled
+10207,2025-10-21,1232,New,Female,West,Nashik,Electronics,Headphones,8,3000,0,1800,UPI,24000.0,14400,9600.0,Delivered
+10208,2025-12-30,1256,Returning,Male,South,Bangalore,Electronics,Keyboard,2,1200,20,600,Card,1920.0,1200,720.0,Delivered
+10209,2025-04-29,1024,New,Male,East,Kolkata,Electronics,Headphones,9,3000,5,1800,Net Banking,25650.0,16200,9450.0,Cancelled
+10210,2025-08-26,1109,Returning,Male,East,Kolkata,Furniture,Table,5,6000,10,3500,Net Banking,27000.0,17500,9500.0,Delivered
+10211,2025-02-03,1191,Returning,Male,North,Chandigarh,Clothing,Shoes,7,2500,15,1300,Cash,14875.0,9100,5775.0,Pending
+10212,2025-06-18,1025,Returning,Female,West,Nashik,Electronics,Mouse,10,500,15,200,Net Banking,4250.0,2000,2250.0,Pending
+10213,2025-01-10,1187,New,Male,South,Hyderabad,Furniture,Chair,1,2500,5,1500,Card,2375.0,1500,875.0,Cancelled
+10214,2025-05-02,1288,New,Female,West,Mumbai,Clothing,TShirt,10,500,20,250,Cash,4000.0,2500,1500.0,Delivered
+10215,2025-05-25,1116,New,Male,West,Pune,Electronics,Mobile,5,20000,15,14000,Cash,85000.0,70000,15000.0,Delivered
+10216,2025-08-11,1037,Returning,Male,North,Chandigarh,Clothing,Jeans,10,1500,5,800,Cash,14250.0,8000,6250.0,Pending
+10217,2025-09-14,1282,Returning,Female,West,Pune,Electronics,Headphones,2,3000,0,1800,Net Banking,6000.0,3600,2400.0,Delivered
+10218,2025-09-25,1137,Returning,Male,South,Chennai,Furniture,Bookshelf,6,4500,20,2800,Net Banking,21600.0,16800,4800.0,Delivered
+10219,2025-12-25,1227,Returning,Male,South,Chennai,Clothing,Shirt,1,800,10,400,Net Banking,720.0,400,320.0,Delivered
+10220,2025-01-04,1182,New,Female,North,Delhi,Electronics,Monitor,3,12000,15,8500,Cash,30600.0,25500,5100.0,Delivered
+10221,2025-12-20,1086,New,Female,West,Pune,Furniture,Chair,5,2500,5,1500,Cash,11875.0,7500,4375.0,Delivered
+10222,2025-04-16,1053,New,Female,South,Hyderabad,Clothing,TShirt,4,500,0,250,UPI,2000.0,1000,1000.0,Delivered
+10223,2025-03-26,1235,Returning,Male,West,Mumbai,Clothing,TShirt,3,500,10,250,UPI,1350.0,750,600.0,Delivered
+10224,2025-08-02,1267,Returning,Male,West,Nashik,Clothing,TShirt,10,500,5,250,Net Banking,4750.0,2500,2250.0,Delivered
+10225,2025-05-01,1287,New,Female,West,Nashik,Clothing,TShirt,5,500,5,250,Cash,2375.0,1250,1125.0,Delivered
+10226,2025-05-12,1100,Returning,Female,North,Delhi,Electronics,Keyboard,8,1200,10,600,Net Banking,8640.0,4800,3840.0,Delivered
+10227,2025-12-04,1087,New,Male,West,Nashik,Furniture,Bookshelf,4,4500,0,2800,Net Banking,18000.0,11200,6800.0,Delivered
+10228,2025-07-16,1015,Returning,Male,South,Hyderabad,Furniture,Bookshelf,1,4500,0,2800,UPI,4500.0,2800,1700.0,Delivered
+10229,2025-01-19,1101,Returning,Female,West,Mumbai,Clothing,Shoes,7,2500,20,1300,Card,14000.0,9100,4900.0,Delivered
+10230,2025-05-10,1165,New,Female,South,Hyderabad,Clothing,Jeans,8,1500,15,800,Net Banking,10200.0,6400,3800.0,Delivered
+10231,2025-01-12,1029,New,Female,West,Pune,Furniture,Table,3,6000,10,3500,Card,16200.0,10500,5700.0,Delivered
+10232,2025-03-22,1114,Returning,Female,South,Hyderabad,Clothing,TShirt,6,500,10,250,Card,2700.0,1500,1200.0,Delivered
+10233,2025-11-26,1107,New,Male,South,Chennai,Clothing,Shirt,2,800,10,400,Cash,1440.0,800,640.0,Delivered
+10234,2025-12-20,1130,New,Male,West,Nashik,Furniture,Table,7,6000,0,3500,Cash,42000.0,24500,17500.0,Delivered
+10235,2025-09-19,1084,Returning,Male,West,Mumbai,Furniture,Bookshelf,8,4500,15,2800,Net Banking,30600.0,22400,8200.0,Delivered
+10236,2025-05-05,1271,Returning,Male,South,Bangalore,Electronics,Laptop,6,50000,20,38000,UPI,240000.0,228000,12000.0,Delivered
+10237,2025-11-03,1244,Returning,Female,East,Bhubaneswar,Electronics,Laptop,6,50000,5,38000,UPI,285000.0,228000,57000.0,Pending
+10238,2025-09-24,1214,New,Male,North,Delhi,Clothing,Shirt,5,800,5,400,Net Banking,3800.0,2000,1800.0,Delivered
+10239,2025-05-20,1166,Returning,Female,East,Bhubaneswar,Clothing,Shoes,8,2500,10,1300,Net Banking,18000.0,10400,7600.0,Cancelled
+10240,2025-11-25,1279,Returning,Male,East,Kolkata,Furniture,Bookshelf,1,4500,15,2800,UPI,3825.0,2800,1025.0,Delivered
+10241,2025-01-02,1059,Returning,Male,West,Pune,Clothing,Shirt,10,800,0,400,Card,8000.0,4000,4000.0,Delivered
+10242,2025-01-08,1090,Returning,Male,North,Chandigarh,Electronics,Keyboard,4,1200,15,600,Net Banking,4080.0,2400,1680.0,Delivered
+10243,2025-09-07,1194,Returning,Female,East,Patna,Electronics,Headphones,4,3000,15,1800,Card,10200.0,7200,3000.0,Delivered
+10244,2025-05-19,1123,New,Male,West,Pune,Clothing,Shirt,3,800,0,400,Net Banking,2400.0,1200,1200.0,Delivered
+10245,2025-05-04,1136,Returning,Female,East,Bhubaneswar,Electronics,Mouse,3,500,10,200,Net Banking,1350.0,600,750.0,Delivered
+10246,2025-11-05,1139,Returning,Female,East,Patna,Furniture,Table,4,6000,15,3500,Card,20400.0,14000,6400.0,Delivered
+10247,2025-08-16,1229,New,Male,West,Nashik,Furniture,Chair,1,2500,5,1500,Card,2375.0,1500,875.0,Delivered
+10248,2025-01-10,1274,Returning,Female,West,Pune,Furniture,Sofa,2,25000,0,18000,UPI,50000.0,36000,14000.0,Delivered
+10249,2025-07-31,1050,Returning,Male,West,Nashik,Clothing,Shoes,9,2500,20,1300,Net Banking,18000.0,11700,6300.0,Delivered
+10250,2025-04-22,1118,New,Female,North,Chandigarh,Clothing,Shirt,10,800,10,400,Cash,7200.0,4000,3200.0,Pending
+10251,2025-01-08,1202,Returning,Male,East,Kolkata,Furniture,Bookshelf,2,4500,0,2800,Cash,9000.0,5600,3400.0,Delivered
+10252,2025-10-19,1191,New,Female,West,Nashik,Electronics,Monitor,5,12000,20,8500,Net Banking,48000.0,42500,5500.0,Delivered
+10253,2025-12-28,1181,Returning,Female,South,Hyderabad,Electronics,Laptop,9,50000,20,38000,Net Banking,360000.0,342000,18000.0,Delivered
+10254,2025-09-10,1078,New,Male,East,Patna,Electronics,Mouse,9,500,15,200,Net Banking,3825.0,1800,2025.0,Delivered
+10255,2025-01-14,1075,New,Male,South,Hyderabad,Clothing,Jeans,8,1500,15,800,Card,10200.0,6400,3800.0,Delivered
+10256,2025-08-28,1295,Returning,Male,North,Delhi,Clothing,TShirt,1,500,15,250,Cash,425.0,250,175.0,Delivered
+10257,2025-08-30,1281,New,Male,West,Pune,Furniture,Sofa,1,25000,0,18000,Cash,25000.0,18000,7000.0,Delivered
+10258,2025-12-08,1021,New,Female,South,Chennai,Clothing,Jacket,9,3500,0,1900,Cash,31500.0,17100,14400.0,Pending
+10259,2025-05-29,1171,Returning,Female,North,Delhi,Clothing,Shoes,8,2500,10,1300,Net Banking,18000.0,10400,7600.0,Delivered
+10260,2025-08-24,1015,Returning,Female,West,Pune,Furniture,Chair,10,2500,15,1500,Card,21250.0,15000,6250.0,Cancelled
+10261,2025-11-02,1211,New,Female,South,Chennai,Furniture,Sofa,9,25000,20,18000,Net Banking,180000.0,162000,18000.0,Cancelled
+10262,2025-06-16,1048,Returning,Male,South,Chennai,Clothing,Shirt,7,800,5,400,UPI,5320.0,2800,2520.0,Pending
+10263,2025-01-20,1086,New,Female,North,Jaipur,Electronics,Keyboard,3,1200,10,600,UPI,3240.0,1800,1440.0,Delivered
+10264,2025-08-04,1149,New,Male,West,Mumbai,Electronics,Laptop,3,50000,0,38000,Cash,150000.0,114000,36000.0,Delivered
+10265,2025-12-09,1188,Returning,Female,West,Mumbai,Furniture,Bookshelf,2,4500,10,2800,Net Banking,8100.0,5600,2500.0,Delivered
+10266,2025-05-15,1151,Returning,Male,South,Chennai,Electronics,Laptop,5,50000,10,38000,UPI,225000.0,190000,35000.0,Delivered
+10267,2025-05-09,1141,New,Male,South,Chennai,Clothing,Jeans,3,1500,10,800,UPI,4050.0,2400,1650.0,Delivered
+10268,2025-10-21,1069,Returning,Male,South,Bangalore,Electronics,Keyboard,6,1200,10,600,Net Banking,6480.0,3600,2880.0,Delivered
+10269,2025-09-03,1260,Returning,Male,West,Mumbai,Clothing,TShirt,2,500,5,250,Card,950.0,500,450.0,Delivered
+10270,2025-07-08,1009,New,Male,North,Delhi,Furniture,Bookshelf,3,4500,15,2800,Net Banking,11475.0,8400,3075.0,Delivered
+10271,2025-02-13,1121,New,Female,North,Jaipur,Furniture,Table,5,6000,20,3500,Net Banking,24000.0,17500,6500.0,Delivered
+10272,2025-03-27,1101,New,Male,West,Pune,Electronics,Mobile,1,20000,10,14000,Card,18000.0,14000,4000.0,Delivered
+10273,2025-02-13,1149,New,Female,East,Bhubaneswar,Electronics,Mouse,1,500,10,200,Cash,450.0,200,250.0,Delivered
+10274,2025-11-26,1146,New,Female,North,Delhi,Electronics,Laptop,10,50000,10,38000,Cash,450000.0,380000,70000.0,Delivered
+10275,2025-05-25,1243,New,Male,South,Chennai,Electronics,Monitor,9,12000,15,8500,Cash,91800.0,76500,15300.0,Delivered
+10276,2025-02-20,1241,Returning,Female,East,Kolkata,Electronics,Laptop,7,50000,0,38000,Card,350000.0,266000,84000.0,Delivered
+10277,2025-08-30,1043,New,Female,East,Patna,Furniture,Sofa,1,25000,0,18000,UPI,25000.0,18000,7000.0,Delivered
+10278,2025-10-21,1095,Returning,Female,North,Delhi,Electronics,Laptop,8,50000,5,38000,Card,380000.0,304000,76000.0,Delivered
+10279,2025-02-20,1226,Returning,Male,East,Patna,Clothing,Shoes,3,2500,0,1300,Net Banking,7500.0,3900,3600.0,Delivered
+10280,2025-09-23,1006,New,Male,East,Bhubaneswar,Electronics,Laptop,8,50000,10,38000,Card,360000.0,304000,56000.0,Delivered
+10281,2025-04-30,1214,Returning,Male,North,Chandigarh,Electronics,Mobile,5,20000,10,14000,UPI,90000.0,70000,20000.0,Delivered
+10282,2025-07-19,1206,New,Male,North,Delhi,Electronics,Mobile,1,20000,10,14000,UPI,18000.0,14000,4000.0,Delivered
+10283,2025-09-05,1067,Returning,Female,East,Patna,Clothing,TShirt,7,500,5,250,Net Banking,3325.0,1750,1575.0,Delivered
+10284,2025-03-11,1100,New,Female,South,Chennai,Furniture,Chair,5,2500,10,1500,Cash,11250.0,7500,3750.0,Delivered
+10285,2025-12-07,1012,New,Female,West,Mumbai,Furniture,Table,6,6000,0,3500,UPI,36000.0,21000,15000.0,Delivered
+10286,2025-02-26,1237,New,Female,East,Patna,Electronics,Monitor,6,12000,15,8500,UPI,61200.0,51000,10200.0,Pending
+10287,2025-02-08,1258,New,Female,East,Kolkata,Electronics,Laptop,8,50000,15,38000,UPI,340000.0,304000,36000.0,Delivered
+10288,2025-10-16,1135,Returning,Female,South,Chennai,Electronics,Laptop,9,50000,20,38000,Net Banking,360000.0,342000,18000.0,Pending
+10289,2025-01-18,1222,Returning,Male,East,Kolkata,Electronics,Mouse,2,500,0,200,UPI,1000.0,400,600.0,Delivered
+10290,2025-08-08,1156,Returning,Female,East,Patna,Furniture,Bookshelf,9,4500,10,2800,Cash,36450.0,25200,11250.0,Delivered
+10291,2025-11-09,1142,Returning,Female,West,Mumbai,Electronics,Mobile,10,20000,15,14000,Net Banking,170000.0,140000,30000.0,Delivered
+10292,2025-09-01,1158,Returning,Female,West,Pune,Electronics,Monitor,9,12000,0,8500,Cash,108000.0,76500,31500.0,Delivered
+10293,2025-12-18,1262,New,Male,West,Nashik,Clothing,TShirt,10,500,15,250,UPI,4250.0,2500,1750.0,Delivered
+10294,2025-10-31,1283,New,Female,North,Jaipur,Clothing,Jeans,10,1500,10,800,UPI,13500.0,8000,5500.0,Delivered
+10295,2025-10-25,1229,New,Female,North,Delhi,Furniture,Chair,7,2500,15,1500,Cash,14875.0,10500,4375.0,Delivered
+10296,2025-10-10,1280,New,Male,West,Nashik,Furniture,Table,1,6000,20,3500,Net Banking,4800.0,3500,1300.0,Delivered
+10297,2025-03-15,1290,New,Female,West,Pune,Electronics,Keyboard,7,1200,20,600,Net Banking,6720.0,4200,2520.0,Delivered
+10298,2025-04-20,1168,Returning,Male,North,Chandigarh,Furniture,Table,10,6000,15,3500,Cash,51000.0,35000,16000.0,Pending
+10299,2025-06-29,1047,New,Male,South,Chennai,Clothing,Shoes,5,2500,0,1300,UPI,12500.0,6500,6000.0,Delivered
+10300,2025-02-01,1203,New,Female,East,Bhubaneswar,Furniture,Sofa,6,25000,0,18000,Card,150000.0,108000,42000.0,Delivered
+10301,2025-08-22,1214,Returning,Female,East,Kolkata,Clothing,Shoes,10,2500,0,1300,Cash,25000.0,13000,12000.0,Delivered
+10302,2025-10-09,1246,Returning,Male,West,Pune,Electronics,Laptop,7,50000,15,38000,Cash,297500.0,266000,31500.0,Delivered
+10303,2025-01-25,1024,New,Female,South,Chennai,Clothing,Jacket,5,3500,0,1900,Cash,17500.0,9500,8000.0,Cancelled
+10304,2025-11-27,1274,New,Female,North,Delhi,Furniture,Chair,7,2500,10,1500,UPI,15750.0,10500,5250.0,Pending
+10305,2025-10-06,1044,Returning,Male,West,Nashik,Furniture,Sofa,9,25000,20,18000,Net Banking,180000.0,162000,18000.0,Delivered
+10306,2025-08-14,1156,New,Male,South,Bangalore,Electronics,Monitor,3,12000,10,8500,UPI,32400.0,25500,6900.0,Delivered
+10307,2025-02-26,1199,New,Female,South,Bangalore,Electronics,Keyboard,8,1200,0,600,Cash,9600.0,4800,4800.0,Delivered
+10308,2025-06-29,1162,New,Male,South,Hyderabad,Electronics,Mobile,2,20000,10,14000,UPI,36000.0,28000,8000.0,Delivered
+10309,2025-08-20,1234,Returning,Female,North,Delhi,Furniture,Chair,7,2500,0,1500,UPI,17500.0,10500,7000.0,Cancelled
+10310,2025-12-09,1163,New,Female,North,Jaipur,Furniture,Chair,2,2500,15,1500,Cash,4250.0,3000,1250.0,Delivered
+10311,2025-10-14,1116,New,Female,East,Patna,Clothing,Shoes,4,2500,10,1300,UPI,9000.0,5200,3800.0,Delivered
+10312,2025-03-05,1093,Returning,Female,East,Patna,Clothing,Jacket,7,3500,15,1900,Card,20825.0,13300,7525.0,Delivered
+10313,2025-08-20,1042,Returning,Male,South,Bangalore,Electronics,Laptop,3,50000,15,38000,UPI,127500.0,114000,13500.0,Delivered
+10314,2025-10-16,1284,Returning,Female,South,Chennai,Clothing,Shirt,2,800,5,400,UPI,1520.0,800,720.0,Cancelled
+10315,2025-08-01,1210,New,Male,North,Jaipur,Clothing,TShirt,10,500,0,250,Net Banking,5000.0,2500,2500.0,Delivered
+10316,2025-09-15,1206,Returning,Female,East,Patna,Clothing,Shoes,7,2500,20,1300,Net Banking,14000.0,9100,4900.0,Delivered
+10317,2025-01-18,1220,New,Female,South,Chennai,Furniture,Chair,1,2500,0,1500,Cash,2500.0,1500,1000.0,Delivered
+10318,2025-06-24,1280,Returning,Male,East,Patna,Electronics,Headphones,8,3000,20,1800,Cash,19200.0,14400,4800.0,Delivered
+10319,2025-08-17,1136,New,Female,East,Patna,Electronics,Mouse,3,500,0,200,Net Banking,1500.0,600,900.0,Delivered
+10320,2025-08-14,1106,Returning,Male,South,Bangalore,Electronics,Keyboard,2,1200,15,600,Card,2040.0,1200,840.0,Pending
+10321,2025-03-25,1118,New,Male,North,Jaipur,Clothing,TShirt,3,500,10,250,UPI,1350.0,750,600.0,Delivered
+10322,2025-10-18,1237,New,Female,South,Chennai,Clothing,Shoes,5,2500,10,1300,Card,11250.0,6500,4750.0,Delivered
+10323,2025-09-03,1100,Returning,Female,South,Hyderabad,Electronics,Keyboard,8,1200,5,600,Card,9120.0,4800,4320.0,Delivered
+10324,2025-04-20,1261,Returning,Female,East,Kolkata,Electronics,Mouse,10,500,20,200,Net Banking,4000.0,2000,2000.0,Delivered
+10325,2025-09-11,1286,New,Female,South,Bangalore,Clothing,Jeans,7,1500,20,800,Cash,8400.0,5600,2800.0,Pending
+10326,2025-03-29,1103,Returning,Male,North,Delhi,Electronics,Mouse,7,500,20,200,UPI,2800.0,1400,1400.0,Delivered
+10327,2025-03-13,1063,New,Female,South,Bangalore,Clothing,Jacket,7,3500,15,1900,Cash,20825.0,13300,7525.0,Delivered
+10328,2025-01-30,1175,Returning,Female,North,Jaipur,Electronics,Mouse,8,500,20,200,Card,3200.0,1600,1600.0,Delivered
+10329,2025-06-21,1282,Returning,Female,North,Jaipur,Electronics,Keyboard,1,1200,10,600,Card,1080.0,600,480.0,Delivered
+10330,2025-11-05,1293,New,Female,East,Bhubaneswar,Furniture,Table,4,6000,15,3500,Cash,20400.0,14000,6400.0,Delivered
+10331,2025-12-09,1226,Returning,Female,West,Nashik,Electronics,Keyboard,6,1200,0,600,Cash,7200.0,3600,3600.0,Delivered
+10332,2025-06-26,1007,Returning,Male,West,Mumbai,Clothing,Shirt,9,800,20,400,Net Banking,5760.0,3600,2160.0,Delivered
+10333,2025-05-19,1127,New,Female,East,Bhubaneswar,Electronics,Laptop,2,50000,20,38000,Cash,80000.0,76000,4000.0,Delivered
+10334,2025-07-13,1092,New,Male,South,Hyderabad,Furniture,Sofa,1,25000,0,18000,Cash,25000.0,18000,7000.0,Delivered
+10335,2025-07-05,1190,Returning,Female,East,Kolkata,Furniture,Table,10,6000,20,3500,Net Banking,48000.0,35000,13000.0,Pending
+10336,2025-08-06,1053,New,Female,North,Delhi,Electronics,Mobile,2,20000,0,14000,Cash,40000.0,28000,12000.0,Delivered
+10337,2025-06-13,1242,Returning,Female,West,Nashik,Furniture,Sofa,7,25000,15,18000,Card,148750.0,126000,22750.0,Delivered
+10338,2025-06-10,1132,Returning,Male,East,Patna,Electronics,Laptop,3,50000,10,38000,Cash,135000.0,114000,21000.0,Delivered
+10339,2025-01-13,1112,New,Female,South,Hyderabad,Clothing,Shoes,10,2500,0,1300,UPI,25000.0,13000,12000.0,Delivered
+10340,2025-10-23,1007,New,Male,East,Bhubaneswar,Clothing,TShirt,2,500,5,250,Card,950.0,500,450.0,Delivered
+10341,2025-03-30,1230,New,Male,West,Pune,Clothing,Shirt,7,800,0,400,Net Banking,5600.0,2800,2800.0,Delivered
+10342,2025-11-20,1156,New,Female,East,Patna,Clothing,Shirt,2,800,20,400,Card,1280.0,800,480.0,Delivered
+10343,2025-02-11,1197,New,Male,East,Kolkata,Electronics,Mobile,3,20000,15,14000,Net Banking,51000.0,42000,9000.0,Delivered
+10344,2025-07-29,1223,New,Female,West,Mumbai,Furniture,Table,7,6000,15,3500,UPI,35700.0,24500,11200.0,Delivered
+10345,2025-08-17,1250,Returning,Female,North,Chandigarh,Clothing,Jacket,4,3500,0,1900,UPI,14000.0,7600,6400.0,Delivered
+10346,2025-12-16,1083,Returning,Male,North,Jaipur,Furniture,Bookshelf,1,4500,10,2800,Card,4050.0,2800,1250.0,Delivered
+10347,2025-10-02,1240,New,Female,West,Mumbai,Clothing,Jeans,5,1500,5,800,Cash,7125.0,4000,3125.0,Delivered
+10348,2025-10-06,1263,Returning,Female,East,Bhubaneswar,Electronics,Mouse,9,500,15,200,Card,3825.0,1800,2025.0,Delivered
+10349,2025-09-08,1189,Returning,Male,West,Pune,Furniture,Table,8,6000,20,3500,Card,38400.0,28000,10400.0,Delivered
+10350,2025-11-06,1290,Returning,Male,North,Chandigarh,Clothing,TShirt,9,500,20,250,UPI,3600.0,2250,1350.0,Pending
+10351,2025-07-27,1058,Returning,Male,South,Bangalore,Clothing,Jeans,10,1500,10,800,Net Banking,13500.0,8000,5500.0,Cancelled
+10352,2025-11-17,1009,New,Male,East,Kolkata,Clothing,Shirt,9,800,15,400,Card,6120.0,3600,2520.0,Delivered
+10353,2025-05-20,1115,Returning,Male,North,Jaipur,Electronics,Keyboard,7,1200,0,600,Cash,8400.0,4200,4200.0,Delivered
+10354,2025-10-07,1210,Returning,Male,East,Bhubaneswar,Clothing,TShirt,4,500,20,250,UPI,1600.0,1000,600.0,Delivered
+10355,2025-02-03,1041,New,Female,West,Pune,Electronics,Laptop,5,50000,10,38000,Card,225000.0,190000,35000.0,Delivered
+10356,2025-11-05,1173,New,Male,South,Bangalore,Electronics,Mobile,1,20000,15,14000,Card,17000.0,14000,3000.0,Cancelled
+10357,2025-01-18,1234,New,Male,West,Mumbai,Electronics,Laptop,1,50000,15,38000,Cash,42500.0,38000,4500.0,Delivered
+10358,2025-02-26,1281,New,Female,South,Hyderabad,Furniture,Bookshelf,3,4500,15,2800,Card,11475.0,8400,3075.0,Delivered
+10359,2025-04-22,1078,Returning,Female,East,Bhubaneswar,Clothing,TShirt,8,500,15,250,Card,3400.0,2000,1400.0,Delivered
+10360,2025-01-05,1108,New,Male,East,Bhubaneswar,Electronics,Monitor,2,12000,15,8500,Card,20400.0,17000,3400.0,Delivered
+10361,2025-07-01,1281,Returning,Male,West,Pune,Electronics,Monitor,4,12000,20,8500,Card,38400.0,34000,4400.0,Delivered
+10362,2025-01-13,1039,Returning,Female,South,Hyderabad,Clothing,Shoes,2,2500,10,1300,Cash,4500.0,2600,1900.0,Delivered
+10363,2025-12-05,1119,New,Male,South,Hyderabad,Furniture,Table,5,6000,15,3500,Card,25500.0,17500,8000.0,Delivered
+10364,2025-10-12,1027,New,Male,East,Kolkata,Clothing,Shirt,9,800,5,400,Card,6840.0,3600,3240.0,Delivered
+10365,2025-09-16,1104,New,Female,West,Mumbai,Clothing,Shirt,1,800,5,400,Card,760.0,400,360.0,Delivered
+10366,2025-03-31,1074,New,Male,South,Hyderabad,Electronics,Mouse,5,500,10,200,UPI,2250.0,1000,1250.0,Delivered
+10367,2025-04-14,1191,New,Female,East,Bhubaneswar,Electronics,Mouse,9,500,0,200,Cash,4500.0,1800,2700.0,Delivered
+10368,2025-07-05,1147,New,Male,North,Delhi,Electronics,Mouse,1,500,0,200,UPI,500.0,200,300.0,Delivered
+10369,2025-09-07,1255,Returning,Female,West,Nashik,Electronics,Keyboard,9,1200,0,600,UPI,10800.0,5400,5400.0,Pending
+10370,2025-09-12,1284,Returning,Female,North,Jaipur,Furniture,Sofa,8,25000,5,18000,Cash,190000.0,144000,46000.0,Delivered
+10371,2025-03-17,1213,Returning,Female,West,Pune,Furniture,Chair,4,2500,0,1500,UPI,10000.0,6000,4000.0,Delivered
+10372,2025-04-18,1123,Returning,Male,East,Patna,Furniture,Sofa,10,25000,20,18000,UPI,200000.0,180000,20000.0,Delivered
+10373,2025-06-05,1206,New,Female,South,Hyderabad,Electronics,Laptop,5,50000,15,38000,UPI,212500.0,190000,22500.0,Delivered
+10374,2025-03-23,1240,New,Male,South,Bangalore,Furniture,Sofa,5,25000,5,18000,Cash,118750.0,90000,28750.0,Delivered
+10375,2025-03-18,1286,Returning,Female,South,Hyderabad,Electronics,Keyboard,6,1200,10,600,Card,6480.0,3600,2880.0,Delivered
+10376,2025-09-15,1022,Returning,Female,West,Nashik,Clothing,Shoes,7,2500,10,1300,Net Banking,15750.0,9100,6650.0,Pending
+10377,2025-05-07,1259,Returning,Female,East,Kolkata,Electronics,Laptop,8,50000,15,38000,Net Banking,340000.0,304000,36000.0,Delivered
+10378,2025-10-09,1105,New,Male,North,Delhi,Furniture,Sofa,8,25000,5,18000,Cash,190000.0,144000,46000.0,Cancelled
+10379,2025-03-29,1258,New,Male,East,Kolkata,Electronics,Keyboard,2,1200,0,600,Net Banking,2400.0,1200,1200.0,Cancelled
+10380,2025-07-23,1204,New,Female,North,Jaipur,Furniture,Chair,9,2500,0,1500,Cash,22500.0,13500,9000.0,Pending
+10381,2025-01-16,1262,Returning,Male,West,Nashik,Furniture,Sofa,7,25000,20,18000,Cash,140000.0,126000,14000.0,Delivered
+10382,2025-05-31,1107,Returning,Male,West,Mumbai,Electronics,Keyboard,4,1200,20,600,Net Banking,3840.0,2400,1440.0,Delivered
+10383,2025-09-11,1251,New,Male,North,Chandigarh,Furniture,Bookshelf,4,4500,0,2800,UPI,18000.0,11200,6800.0,Delivered
+10384,2025-07-07,1221,New,Female,North,Jaipur,Electronics,Mouse,8,500,10,200,Card,3600.0,1600,2000.0,Delivered
+10385,2025-11-25,1222,Returning,Male,North,Jaipur,Furniture,Bookshelf,4,4500,10,2800,Net Banking,16200.0,11200,5000.0,Delivered
+10386,2025-02-01,1258,Returning,Female,East,Kolkata,Clothing,Shirt,6,800,20,400,Net Banking,3840.0,2400,1440.0,Delivered
+10387,2025-09-28,1201,New,Female,North,Delhi,Electronics,Mouse,5,500,15,200,Net Banking,2125.0,1000,1125.0,Delivered
+10388,2025-01-05,1258,Returning,Female,West,Nashik,Clothing,Shirt,3,800,0,400,Net Banking,2400.0,1200,1200.0,Pending
+10389,2025-11-26,1225,New,Male,West,Mumbai,Electronics,Headphones,10,3000,20,1800,Cash,24000.0,18000,6000.0,Delivered
+10390,2025-11-04,1202,New,Female,South,Hyderabad,Electronics,Mobile,2,20000,20,14000,Cash,32000.0,28000,4000.0,Delivered
+10391,2025-11-29,1226,Returning,Male,North,Delhi,Furniture,Bookshelf,9,4500,0,2800,Card,40500.0,25200,15300.0,Delivered
+10392,2025-06-18,1236,Returning,Male,East,Bhubaneswar,Electronics,Mobile,10,20000,0,14000,Card,200000.0,140000,60000.0,Delivered
+10393,2025-06-30,1183,Returning,Female,East,Bhubaneswar,Electronics,Mobile,9,20000,10,14000,Net Banking,162000.0,126000,36000.0,Delivered
+10394,2025-06-27,1200,New,Female,East,Bhubaneswar,Furniture,Chair,1,2500,15,1500,Net Banking,2125.0,1500,625.0,Cancelled
+10395,2025-05-23,1246,Returning,Female,South,Hyderabad,Electronics,Mouse,10,500,15,200,Net Banking,4250.0,2000,2250.0,Delivered
+10396,2025-12-28,1111,Returning,Male,West,Pune,Electronics,Headphones,3,3000,0,1800,Card,9000.0,5400,3600.0,Delivered
+10397,2025-09-05,1006,New,Male,East,Bhubaneswar,Clothing,Shirt,8,800,5,400,Net Banking,6080.0,3200,2880.0,Pending
+10398,2025-05-07,1236,New,Female,West,Mumbai,Electronics,Keyboard,6,1200,20,600,UPI,5760.0,3600,2160.0,Delivered
+10399,2025-09-20,1127,Returning,Female,South,Chennai,Electronics,Laptop,5,50000,20,38000,Card,200000.0,190000,10000.0,Delivered
+10400,2025-02-09,1104,New,Male,North,Jaipur,Electronics,Keyboard,5,1200,0,600,UPI,6000.0,3000,3000.0,Pending
+10401,2025-12-21,1237,New,Male,North,Chandigarh,Electronics,Laptop,6,50000,5,38000,Net Banking,285000.0,228000,57000.0,Delivered
+10402,2025-09-12,1155,New,Female,North,Jaipur,Furniture,Bookshelf,7,4500,10,2800,Cash,28350.0,19600,8750.0,Delivered
+10403,2025-05-23,1257,Returning,Male,East,Bhubaneswar,Electronics,Monitor,1,12000,0,8500,UPI,12000.0,8500,3500.0,Delivered
+10404,2025-08-28,1235,Returning,Male,North,Delhi,Electronics,Keyboard,9,1200,0,600,Card,10800.0,5400,5400.0,Delivered
+10405,2025-08-16,1289,New,Male,East,Bhubaneswar,Furniture,Sofa,3,25000,20,18000,UPI,60000.0,54000,6000.0,Pending
+10406,2025-12-07,1040,New,Male,South,Chennai,Furniture,Sofa,4,25000,0,18000,Card,100000.0,72000,28000.0,Delivered
+10407,2025-07-17,1288,New,Male,South,Bangalore,Furniture,Table,10,6000,0,3500,Net Banking,60000.0,35000,25000.0,Delivered
+10408,2025-03-06,1197,Returning,Male,East,Bhubaneswar,Electronics,Mouse,1,500,0,200,UPI,500.0,200,300.0,Pending
+10409,2025-01-11,1273,New,Female,West,Mumbai,Electronics,Laptop,10,50000,20,38000,Cash,400000.0,380000,20000.0,Cancelled
+10410,2025-04-18,1264,New,Male,North,Delhi,Electronics,Laptop,3,50000,10,38000,UPI,135000.0,114000,21000.0,Pending
+10411,2025-01-26,1057,Returning,Female,North,Jaipur,Clothing,TShirt,2,500,10,250,Cash,900.0,500,400.0,Delivered
+10412,2025-05-31,1298,New,Female,North,Delhi,Clothing,Shoes,2,2500,0,1300,Card,5000.0,2600,2400.0,Delivered
+10413,2025-08-09,1098,Returning,Male,East,Patna,Electronics,Mouse,1,500,20,200,Net Banking,400.0,200,200.0,Delivered
+10414,2025-12-07,1137,Returning,Female,South,Bangalore,Furniture,Chair,8,2500,10,1500,Net Banking,18000.0,12000,6000.0,Delivered
+10415,2025-08-25,1087,Returning,Female,North,Chandigarh,Furniture,Table,3,6000,10,3500,Cash,16200.0,10500,5700.0,Delivered
+10416,2025-08-25,1242,New,Female,South,Bangalore,Furniture,Chair,3,2500,10,1500,Card,6750.0,4500,2250.0,Delivered
+10417,2025-08-07,1199,New,Male,North,Chandigarh,Furniture,Bookshelf,6,4500,20,2800,Net Banking,21600.0,16800,4800.0,Delivered
+10418,2025-05-31,1084,Returning,Female,North,Chandigarh,Furniture,Bookshelf,8,4500,20,2800,Card,28800.0,22400,6400.0,Cancelled
+10419,2025-05-03,1242,New,Male,East,Kolkata,Furniture,Chair,9,2500,0,1500,Cash,22500.0,13500,9000.0,Delivered
+10420,2025-05-24,1281,Returning,Female,West,Nashik,Furniture,Chair,9,2500,15,1500,Cash,19125.0,13500,5625.0,Delivered
+10421,2025-07-08,1252,New,Female,East,Kolkata,Electronics,Headphones,4,3000,10,1800,UPI,10800.0,7200,3600.0,Delivered
+10422,2025-09-12,1190,Returning,Female,North,Delhi,Electronics,Mouse,5,500,15,200,Net Banking,2125.0,1000,1125.0,Delivered
+10423,2025-03-09,1152,Returning,Female,North,Chandigarh,Furniture,Chair,2,2500,20,1500,Net Banking,4000.0,3000,1000.0,Delivered
+10424,2025-04-14,1278,New,Male,West,Nashik,Furniture,Sofa,9,25000,20,18000,UPI,180000.0,162000,18000.0,Delivered
+10425,2025-12-02,1139,New,Female,South,Chennai,Clothing,Shoes,8,2500,20,1300,Cash,16000.0,10400,5600.0,Delivered
+10426,2025-06-08,1176,New,Female,South,Hyderabad,Clothing,Shoes,3,2500,15,1300,Cash,6375.0,3900,2475.0,Delivered
+10427,2025-11-05,1008,New,Male,North,Jaipur,Electronics,Mobile,9,20000,20,14000,Cash,144000.0,126000,18000.0,Delivered
+10428,2025-12-28,1295,Returning,Male,South,Hyderabad,Electronics,Monitor,3,12000,0,8500,Cash,36000.0,25500,10500.0,Delivered
+10429,2025-10-27,1235,Returning,Male,North,Delhi,Furniture,Bookshelf,9,4500,20,2800,Card,32400.0,25200,7200.0,Delivered
+10430,2025-03-31,1163,New,Female,West,Nashik,Electronics,Laptop,2,50000,5,38000,Net Banking,95000.0,76000,19000.0,Delivered
+10431,2025-12-23,1049,New,Male,West,Mumbai,Clothing,TShirt,10,500,15,250,Net Banking,4250.0,2500,1750.0,Delivered
+10432,2025-09-13,1038,Returning,Male,North,Delhi,Clothing,Jacket,9,3500,5,1900,Cash,29925.0,17100,12825.0,Delivered
+10433,2025-12-19,1136,New,Male,West,Mumbai,Electronics,Laptop,8,50000,20,38000,Cash,320000.0,304000,16000.0,Delivered
+10434,2025-08-08,1219,New,Male,East,Patna,Electronics,Monitor,9,12000,0,8500,Cash,108000.0,76500,31500.0,Delivered
+10435,2025-01-09,1296,New,Male,East,Bhubaneswar,Clothing,TShirt,5,500,10,250,Net Banking,2250.0,1250,1000.0,Pending
+10436,2025-01-12,1034,New,Male,West,Mumbai,Electronics,Headphones,2,3000,20,1800,Net Banking,4800.0,3600,1200.0,Delivered
+10437,2025-11-21,1079,Returning,Female,North,Delhi,Electronics,Mouse,8,500,0,200,Cash,4000.0,1600,2400.0,Cancelled
+10438,2025-09-01,1236,Returning,Male,North,Jaipur,Electronics,Keyboard,6,1200,15,600,Card,6120.0,3600,2520.0,Delivered
+10439,2025-07-01,1273,New,Female,West,Nashik,Electronics,Mouse,8,500,5,200,UPI,3800.0,1600,2200.0,Delivered
+10440,2025-10-11,1161,Returning,Male,South,Hyderabad,Electronics,Laptop,5,50000,5,38000,UPI,237500.0,190000,47500.0,Delivered
+10441,2025-11-08,1175,New,Male,East,Patna,Electronics,Laptop,10,50000,5,38000,UPI,475000.0,380000,95000.0,Delivered
+10442,2025-04-09,1221,New,Male,South,Chennai,Clothing,TShirt,2,500,15,250,Net Banking,850.0,500,350.0,Delivered
+10443,2025-07-16,1009,New,Female,North,Chandigarh,Clothing,TShirt,6,500,0,250,Net Banking,3000.0,1500,1500.0,Delivered
+10444,2025-08-14,1289,Returning,Male,North,Jaipur,Furniture,Bookshelf,5,4500,15,2800,UPI,19125.0,14000,5125.0,Delivered
+10445,2025-11-29,1113,Returning,Male,South,Hyderabad,Electronics,Headphones,5,3000,5,1800,UPI,14250.0,9000,5250.0,Delivered
+10446,2025-04-13,1205,Returning,Male,West,Nashik,Furniture,Bookshelf,1,4500,20,2800,Card,3600.0,2800,800.0,Cancelled
+10447,2025-04-16,1186,Returning,Male,South,Bangalore,Electronics,Monitor,2,12000,10,8500,Net Banking,21600.0,17000,4600.0,Pending
+10448,2025-12-31,1197,Returning,Female,South,Bangalore,Furniture,Chair,8,2500,15,1500,Net Banking,17000.0,12000,5000.0,Delivered
+10449,2025-02-27,1266,New,Female,East,Bhubaneswar,Electronics,Mouse,3,500,15,200,UPI,1275.0,600,675.0,Delivered
+10450,2025-03-19,1262,New,Female,East,Bhubaneswar,Clothing,TShirt,10,500,0,250,Card,5000.0,2500,2500.0,Cancelled
+10451,2025-03-16,1248,Returning,Female,South,Hyderabad,Clothing,Shirt,3,800,0,400,Card,2400.0,1200,1200.0,Delivered
+10452,2025-02-11,1115,Returning,Female,South,Hyderabad,Electronics,Monitor,8,12000,15,8500,UPI,81600.0,68000,13600.0,Delivered
+10453,2025-11-20,1121,Returning,Male,North,Chandigarh,Furniture,Sofa,8,25000,5,18000,UPI,190000.0,144000,46000.0,Pending
+10454,2025-06-30,1141,New,Male,East,Bhubaneswar,Electronics,Headphones,2,3000,10,1800,Net Banking,5400.0,3600,1800.0,Delivered
+10455,2025-02-02,1065,Returning,Male,East,Patna,Electronics,Laptop,8,50000,0,38000,UPI,400000.0,304000,96000.0,Delivered
+10456,2025-03-12,1276,New,Female,North,Chandigarh,Furniture,Bookshelf,1,4500,5,2800,Cash,4275.0,2800,1475.0,Delivered
+10457,2025-02-25,1239,New,Male,West,Pune,Electronics,Monitor,6,12000,20,8500,Card,57600.0,51000,6600.0,Delivered
+10458,2025-04-15,1010,Returning,Female,East,Patna,Clothing,Jacket,8,3500,0,1900,UPI,28000.0,15200,12800.0,Cancelled
+10459,2025-07-19,1233,New,Male,East,Bhubaneswar,Electronics,Mouse,3,500,5,200,Cash,1425.0,600,825.0,Delivered
+10460,2025-04-11,1195,New,Female,West,Nashik,Clothing,TShirt,8,500,5,250,Card,3800.0,2000,1800.0,Cancelled
+10461,2025-09-13,1012,Returning,Male,East,Patna,Electronics,Laptop,1,50000,10,38000,Cash,45000.0,38000,7000.0,Pending
+10462,2025-11-03,1177,New,Male,East,Patna,Electronics,Keyboard,9,1200,10,600,Cash,9720.0,5400,4320.0,Delivered
+10463,2025-03-15,1177,Returning,Male,West,Nashik,Clothing,Jacket,9,3500,20,1900,UPI,25200.0,17100,8100.0,Delivered
+10464,2025-06-20,1217,New,Male,West,Nashik,Electronics,Headphones,5,3000,5,1800,Card,14250.0,9000,5250.0,Delivered
+10465,2025-05-23,1011,Returning,Female,South,Chennai,Electronics,Monitor,10,12000,5,8500,Cash,114000.0,85000,29000.0,Delivered
+10466,2025-06-15,1118,Returning,Male,North,Jaipur,Furniture,Table,4,6000,10,3500,Net Banking,21600.0,14000,7600.0,Delivered
+10467,2025-09-18,1164,New,Male,North,Jaipur,Electronics,Laptop,6,50000,0,38000,Card,300000.0,228000,72000.0,Delivered
+10468,2025-08-09,1039,Returning,Male,West,Mumbai,Electronics,Mouse,7,500,0,200,Net Banking,3500.0,1400,2100.0,Delivered
+10469,2025-03-24,1053,New,Female,West,Pune,Electronics,Mobile,5,20000,15,14000,UPI,85000.0,70000,15000.0,Delivered
+10470,2025-07-01,1218,New,Male,East,Kolkata,Clothing,Shirt,10,800,10,400,Net Banking,7200.0,4000,3200.0,Delivered
+10471,2025-11-03,1206,Returning,Male,South,Hyderabad,Clothing,Jeans,9,1500,15,800,Card,11475.0,7200,4275.0,Cancelled
+10472,2025-01-10,1056,New,Male,South,Hyderabad,Clothing,Jacket,3,3500,10,1900,Cash,9450.0,5700,3750.0,Delivered
+10473,2025-01-04,1118,Returning,Male,West,Pune,Furniture,Chair,7,2500,20,1500,Cash,14000.0,10500,3500.0,Pending
+10474,2025-12-17,1253,New,Male,East,Bhubaneswar,Clothing,Jeans,10,1500,5,800,Card,14250.0,8000,6250.0,Delivered
+10475,2025-12-02,1286,New,Female,East,Bhubaneswar,Electronics,Mouse,10,500,20,200,Cash,4000.0,2000,2000.0,Delivered
+10476,2025-10-19,1268,Returning,Female,North,Chandigarh,Furniture,Sofa,5,25000,10,18000,Net Banking,112500.0,90000,22500.0,Delivered
+10477,2025-10-08,1291,New,Female,North,Chandigarh,Furniture,Bookshelf,7,4500,5,2800,Cash,29925.0,19600,10325.0,Delivered
+10478,2025-08-03,1180,New,Male,East,Kolkata,Furniture,Sofa,2,25000,0,18000,Cash,50000.0,36000,14000.0,Delivered
+10479,2025-04-08,1235,New,Female,North,Delhi,Electronics,Mobile,4,20000,0,14000,Net Banking,80000.0,56000,24000.0,Delivered
+10480,2025-04-11,1196,New,Male,West,Pune,Clothing,Jacket,2,3500,15,1900,Net Banking,5950.0,3800,2150.0,Delivered
+10481,2025-01-09,1080,New,Male,East,Patna,Furniture,Chair,7,2500,10,1500,Net Banking,15750.0,10500,5250.0,Delivered
+10482,2025-03-02,1135,New,Male,North,Jaipur,Furniture,Table,2,6000,10,3500,UPI,10800.0,7000,3800.0,Delivered
+10483,2025-11-05,1022,New,Male,South,Hyderabad,Electronics,Mobile,1,20000,0,14000,Net Banking,20000.0,14000,6000.0,Delivered
+10484,2025-05-26,1225,New,Female,East,Bhubaneswar,Clothing,Jacket,9,3500,20,1900,Net Banking,25200.0,17100,8100.0,Delivered
+10485,2025-03-04,1058,Returning,Female,East,Kolkata,Clothing,Shoes,1,2500,5,1300,UPI,2375.0,1300,1075.0,Delivered
+10486,2025-05-01,1093,New,Female,South,Bangalore,Clothing,Jeans,8,1500,20,800,Cash,9600.0,6400,3200.0,Cancelled
+10487,2025-08-14,1192,New,Male,West,Pune,Electronics,Mobile,2,20000,20,14000,Net Banking,32000.0,28000,4000.0,Pending
+10488,2025-04-15,1103,Returning,Female,South,Bangalore,Clothing,Jeans,8,1500,0,800,Card,12000.0,6400,5600.0,Cancelled
+10489,2025-09-17,1007,Returning,Female,East,Kolkata,Electronics,Laptop,3,50000,0,38000,Net Banking,150000.0,114000,36000.0,Delivered
+10490,2025-12-15,1128,Returning,Male,West,Mumbai,Furniture,Sofa,6,25000,0,18000,Net Banking,150000.0,108000,42000.0,Delivered
+10491,2025-09-12,1055,New,Female,North,Delhi,Electronics,Laptop,3,50000,15,38000,UPI,127500.0,114000,13500.0,Delivered
+10492,2025-07-26,1231,Returning,Male,North,Delhi,Clothing,Shirt,7,800,20,400,Card,4480.0,2800,1680.0,Delivered
+10493,2025-01-28,1062,Returning,Female,North,Jaipur,Clothing,Shoes,10,2500,10,1300,Cash,22500.0,13000,9500.0,Pending
+10494,2025-06-19,1240,New,Female,East,Patna,Furniture,Chair,9,2500,5,1500,Cash,21375.0,13500,7875.0,Delivered
+10495,2025-12-02,1090,New,Female,South,Bangalore,Furniture,Table,2,6000,15,3500,Card,10200.0,7000,3200.0,Delivered
+10496,2025-03-17,1232,Returning,Male,West,Pune,Electronics,Headphones,5,3000,10,1800,Net Banking,13500.0,9000,4500.0,Delivered
+10497,2025-04-26,1233,Returning,Female,North,Chandigarh,Clothing,Jeans,6,1500,20,800,UPI,7200.0,4800,2400.0,Pending
+10498,2025-03-10,1292,New,Female,West,Mumbai,Furniture,Table,4,6000,0,3500,Card,24000.0,14000,10000.0,Delivered
+10499,2025-12-20,1152,New,Female,East,Bhubaneswar,Clothing,Jeans,4,1500,20,800,Card,4800.0,3200,1600.0,Delivered
+10500,2025-08-22,1145,New,Female,North,Jaipur,Electronics,Mouse,4,500,5,200,Cash,1900.0,800,1100.0,Delivered
+10501,2025-01-01,1130,New,Male,East,Patna,Electronics,Mobile,2,20000,15,14000,UPI,34000.0,28000,6000.0,Delivered
+10502,2025-06-16,1141,New,Male,South,Hyderabad,Clothing,Shirt,4,800,15,400,Card,2720.0,1600,1120.0,Pending
+10503,2025-12-18,1093,Returning,Female,East,Patna,Furniture,Sofa,1,25000,5,18000,UPI,23750.0,18000,5750.0,Delivered
+10504,2025-08-06,1114,New,Female,East,Kolkata,Electronics,Headphones,6,3000,10,1800,Net Banking,16200.0,10800,5400.0,Delivered
+10505,2025-09-30,1284,New,Female,South,Hyderabad,Clothing,TShirt,1,500,10,250,Cash,450.0,250,200.0,Cancelled
+10506,2025-09-08,1143,New,Male,West,Mumbai,Clothing,Jeans,10,1500,15,800,Net Banking,12750.0,8000,4750.0,Delivered
+10507,2025-12-13,1223,New,Female,South,Hyderabad,Furniture,Table,6,6000,15,3500,UPI,30600.0,21000,9600.0,Delivered
+10508,2025-12-10,1232,New,Female,South,Chennai,Clothing,Shirt,1,800,0,400,Net Banking,800.0,400,400.0,Delivered
+10509,2025-06-23,1033,Returning,Male,East,Bhubaneswar,Electronics,Keyboard,6,1200,10,600,Cash,6480.0,3600,2880.0,Delivered
+10510,2025-06-19,1276,New,Male,West,Nashik,Electronics,Headphones,10,3000,5,1800,UPI,28500.0,18000,10500.0,Delivered
+10511,2025-09-03,1170,Returning,Male,North,Delhi,Electronics,Keyboard,8,1200,10,600,Card,8640.0,4800,3840.0,Delivered
+10512,2025-03-31,1140,New,Female,South,Chennai,Electronics,Laptop,2,50000,0,38000,Net Banking,100000.0,76000,24000.0,Pending
+10513,2025-02-18,1201,Returning,Male,West,Mumbai,Furniture,Sofa,2,25000,15,18000,Cash,42500.0,36000,6500.0,Delivered
+10514,2025-10-21,1023,Returning,Male,South,Chennai,Furniture,Bookshelf,4,4500,15,2800,Card,15300.0,11200,4100.0,Cancelled
+10515,2025-05-30,1224,New,Female,South,Bangalore,Furniture,Bookshelf,3,4500,0,2800,Cash,13500.0,8400,5100.0,Delivered
+10516,2025-05-12,1270,New,Male,South,Hyderabad,Clothing,TShirt,4,500,5,250,UPI,1900.0,1000,900.0,Delivered
+10517,2025-02-28,1153,New,Female,South,Bangalore,Electronics,Mouse,7,500,15,200,UPI,2975.0,1400,1575.0,Pending
+10518,2025-11-20,1085,New,Female,East,Patna,Furniture,Table,1,6000,20,3500,Net Banking,4800.0,3500,1300.0,Delivered
+10519,2025-07-18,1109,New,Male,West,Pune,Clothing,Jacket,6,3500,15,1900,Cash,17850.0,11400,6450.0,Delivered
+10520,2025-08-03,1031,Returning,Female,West,Nashik,Clothing,TShirt,3,500,20,250,Cash,1200.0,750,450.0,Delivered
+10521,2025-02-18,1229,New,Male,West,Pune,Electronics,Mobile,10,20000,0,14000,Cash,200000.0,140000,60000.0,Delivered
+10522,2025-08-20,1240,New,Male,South,Bangalore,Electronics,Mobile,7,20000,0,14000,UPI,140000.0,98000,42000.0,Delivered
+10523,2025-09-04,1141,Returning,Male,East,Bhubaneswar,Furniture,Table,10,6000,15,3500,Net Banking,51000.0,35000,16000.0,Delivered
+10524,2025-08-27,1156,New,Female,South,Chennai,Clothing,Jacket,2,3500,10,1900,Cash,6300.0,3800,2500.0,Delivered
+10525,2025-06-17,1299,Returning,Male,South,Chennai,Furniture,Chair,2,2500,20,1500,Cash,4000.0,3000,1000.0,Delivered
+10526,2025-02-17,1099,New,Female,West,Mumbai,Electronics,Mouse,4,500,5,200,Card,1900.0,800,1100.0,Pending
+10527,2025-02-20,1047,Returning,Female,South,Bangalore,Clothing,Shirt,1,800,15,400,Cash,680.0,400,280.0,Cancelled
+10528,2025-10-26,1067,New,Female,North,Chandigarh,Clothing,Jeans,3,1500,5,800,Net Banking,4275.0,2400,1875.0,Delivered
+10529,2025-04-08,1062,Returning,Male,South,Chennai,Clothing,Jacket,9,3500,15,1900,Card,26775.0,17100,9675.0,Pending
+10530,2025-08-04,1109,Returning,Female,North,Delhi,Furniture,Bookshelf,7,4500,10,2800,Card,28350.0,19600,8750.0,Delivered
+10531,2025-06-26,1167,New,Female,South,Hyderabad,Electronics,Headphones,7,3000,10,1800,Card,18900.0,12600,6300.0,Delivered
+10532,2025-03-21,1037,New,Male,East,Patna,Furniture,Chair,4,2500,10,1500,UPI,9000.0,6000,3000.0,Delivered
+10533,2025-07-04,1119,New,Male,East,Patna,Clothing,Jeans,2,1500,10,800,Card,2700.0,1600,1100.0,Delivered
+10534,2025-01-27,1086,Returning,Female,West,Nashik,Clothing,Jeans,4,1500,0,800,Cash,6000.0,3200,2800.0,Delivered
+10535,2025-07-14,1052,Returning,Female,South,Hyderabad,Furniture,Chair,6,2500,0,1500,UPI,15000.0,9000,6000.0,Delivered
+10536,2025-08-02,1091,Returning,Male,North,Delhi,Electronics,Laptop,3,50000,20,38000,UPI,120000.0,114000,6000.0,Delivered
+10537,2025-12-08,1289,New,Female,North,Jaipur,Electronics,Keyboard,1,1200,5,600,UPI,1140.0,600,540.0,Delivered
+10538,2025-04-24,1298,New,Female,South,Chennai,Clothing,Jeans,8,1500,15,800,UPI,10200.0,6400,3800.0,Cancelled
+10539,2025-08-30,1204,Returning,Female,North,Jaipur,Furniture,Chair,5,2500,15,1500,UPI,10625.0,7500,3125.0,Delivered
+10540,2025-05-04,1238,New,Female,East,Bhubaneswar,Clothing,Jacket,5,3500,0,1900,UPI,17500.0,9500,8000.0,Delivered
+10541,2025-11-01,1155,Returning,Male,North,Delhi,Furniture,Chair,4,2500,15,1500,UPI,8500.0,6000,2500.0,Delivered
+10542,2025-03-17,1240,New,Female,West,Pune,Clothing,Shoes,6,2500,0,1300,Card,15000.0,7800,7200.0,Delivered
+10543,2025-11-07,1136,New,Male,East,Bhubaneswar,Clothing,TShirt,3,500,20,250,Net Banking,1200.0,750,450.0,Delivered
+10544,2025-11-08,1064,Returning,Female,East,Patna,Electronics,Monitor,9,12000,5,8500,Cash,102600.0,76500,26100.0,Delivered
+10545,2025-07-15,1123,New,Male,East,Kolkata,Electronics,Laptop,5,50000,20,38000,Cash,200000.0,190000,10000.0,Delivered
+10546,2025-12-17,1254,New,Female,South,Chennai,Furniture,Sofa,3,25000,10,18000,Card,67500.0,54000,13500.0,Cancelled
+10547,2025-02-13,1114,New,Male,South,Bangalore,Electronics,Monitor,1,12000,10,8500,Card,10800.0,8500,2300.0,Delivered
+10548,2025-07-05,1020,New,Female,East,Kolkata,Clothing,TShirt,10,500,10,250,UPI,4500.0,2500,2000.0,Pending
+10549,2025-12-09,1016,New,Male,South,Chennai,Clothing,TShirt,6,500,20,250,Net Banking,2400.0,1500,900.0,Pending
+10550,2025-09-03,1145,Returning,Female,North,Jaipur,Clothing,TShirt,2,500,15,250,UPI,850.0,500,350.0,Delivered
+10551,2025-03-25,1208,New,Female,South,Bangalore,Electronics,Monitor,3,12000,5,8500,Card,34200.0,25500,8700.0,Delivered
+10552,2025-07-26,1019,Returning,Male,South,Hyderabad,Furniture,Table,1,6000,10,3500,UPI,5400.0,3500,1900.0,Delivered
+10553,2025-05-31,1166,New,Male,East,Kolkata,Electronics,Keyboard,9,1200,10,600,Cash,9720.0,5400,4320.0,Delivered
+10554,2025-06-05,1038,New,Male,West,Pune,Furniture,Chair,8,2500,10,1500,Cash,18000.0,12000,6000.0,Delivered
+10555,2025-01-16,1181,Returning,Male,West,Pune,Electronics,Headphones,2,3000,5,1800,UPI,5700.0,3600,2100.0,Delivered
+10556,2025-06-14,1105,Returning,Male,West,Nashik,Electronics,Keyboard,8,1200,10,600,Net Banking,8640.0,4800,3840.0,Delivered
+10557,2025-05-25,1100,New,Female,North,Delhi,Furniture,Bookshelf,9,4500,5,2800,UPI,38475.0,25200,13275.0,Pending
+10558,2025-02-06,1090,New,Male,South,Bangalore,Clothing,Jacket,1,3500,10,1900,UPI,3150.0,1900,1250.0,Delivered
+10559,2025-11-29,1300,Returning,Male,West,Mumbai,Electronics,Mouse,5,500,20,200,Net Banking,2000.0,1000,1000.0,Cancelled
+10560,2025-02-14,1079,Returning,Female,East,Patna,Furniture,Table,8,6000,20,3500,Net Banking,38400.0,28000,10400.0,Delivered
+10561,2025-07-25,1073,Returning,Male,West,Mumbai,Furniture,Sofa,2,25000,5,18000,Net Banking,47500.0,36000,11500.0,Cancelled
+10562,2025-03-03,1176,Returning,Male,West,Nashik,Electronics,Keyboard,4,1200,20,600,Cash,3840.0,2400,1440.0,Delivered
+10563,2025-12-22,1096,New,Male,South,Chennai,Electronics,Headphones,7,3000,5,1800,UPI,19950.0,12600,7350.0,Delivered
+10564,2025-11-04,1103,New,Female,South,Chennai,Electronics,Mobile,3,20000,20,14000,Card,48000.0,42000,6000.0,Delivered
+10565,2025-01-19,1224,New,Male,South,Bangalore,Clothing,TShirt,5,500,20,250,Net Banking,2000.0,1250,750.0,Delivered
+10566,2025-12-31,1006,New,Female,North,Chandigarh,Clothing,Jeans,8,1500,5,800,Net Banking,11400.0,6400,5000.0,Delivered
+10567,2025-10-27,1122,New,Female,North,Jaipur,Furniture,Bookshelf,10,4500,15,2800,UPI,38250.0,28000,10250.0,Delivered
+10568,2025-01-07,1236,Returning,Male,West,Pune,Electronics,Mouse,3,500,20,200,Card,1200.0,600,600.0,Delivered
+10569,2025-09-06,1116,Returning,Female,South,Bangalore,Electronics,Laptop,4,50000,10,38000,UPI,180000.0,152000,28000.0,Delivered
+10570,2025-04-27,1163,Returning,Male,West,Mumbai,Furniture,Sofa,9,25000,15,18000,UPI,191250.0,162000,29250.0,Delivered
+10571,2025-03-09,1226,New,Male,East,Bhubaneswar,Clothing,Jacket,7,3500,5,1900,Net Banking,23275.0,13300,9975.0,Delivered
+10572,2025-02-03,1230,Returning,Male,East,Kolkata,Electronics,Mouse,1,500,15,200,Net Banking,425.0,200,225.0,Delivered
+10573,2025-07-13,1182,New,Male,South,Hyderabad,Clothing,TShirt,4,500,0,250,Cash,2000.0,1000,1000.0,Cancelled
+10574,2025-11-21,1249,New,Male,South,Chennai,Clothing,Jeans,4,1500,0,800,Card,6000.0,3200,2800.0,Delivered
+10575,2025-02-24,1210,New,Female,East,Bhubaneswar,Furniture,Table,9,6000,20,3500,Card,43200.0,31500,11700.0,Delivered
+10576,2025-09-23,1144,Returning,Female,South,Hyderabad,Clothing,Jeans,6,1500,20,800,Net Banking,7200.0,4800,2400.0,Cancelled
+10577,2025-02-11,1096,New,Female,North,Chandigarh,Electronics,Monitor,9,12000,10,8500,Net Banking,97200.0,76500,20700.0,Delivered
+10578,2025-10-24,1244,New,Female,North,Jaipur,Clothing,Jeans,6,1500,15,800,Net Banking,7650.0,4800,2850.0,Delivered
+10579,2025-08-19,1086,Returning,Male,South,Bangalore,Electronics,Monitor,6,12000,0,8500,Card,72000.0,51000,21000.0,Delivered
+10580,2025-01-10,1184,New,Male,East,Patna,Furniture,Bookshelf,5,4500,20,2800,Cash,18000.0,14000,4000.0,Delivered
+10581,2025-12-24,1121,Returning,Female,West,Mumbai,Furniture,Table,5,6000,15,3500,Card,25500.0,17500,8000.0,Delivered
+10582,2025-05-08,1092,New,Male,South,Hyderabad,Clothing,Jacket,2,3500,20,1900,Net Banking,5600.0,3800,1800.0,Delivered
+10583,2025-06-28,1070,Returning,Female,South,Hyderabad,Clothing,Shirt,8,800,20,400,Net Banking,5120.0,3200,1920.0,Delivered
+10584,2025-07-12,1133,New,Female,West,Nashik,Clothing,TShirt,8,500,0,250,Cash,4000.0,2000,2000.0,Delivered
+10585,2025-04-02,1279,New,Female,South,Hyderabad,Electronics,Monitor,1,12000,0,8500,UPI,12000.0,8500,3500.0,Delivered
+10586,2025-08-19,1137,Returning,Female,West,Nashik,Electronics,Laptop,8,50000,20,38000,UPI,320000.0,304000,16000.0,Cancelled
+10587,2025-03-19,1187,New,Male,East,Kolkata,Clothing,Jeans,5,1500,5,800,Card,7125.0,4000,3125.0,Delivered
+10588,2025-03-26,1221,Returning,Male,North,Delhi,Clothing,Jeans,2,1500,20,800,UPI,2400.0,1600,800.0,Cancelled
+10589,2025-01-30,1046,New,Female,East,Bhubaneswar,Electronics,Laptop,2,50000,20,38000,UPI,80000.0,76000,4000.0,Cancelled
+10590,2025-08-01,1278,Returning,Female,North,Jaipur,Clothing,Jacket,6,3500,10,1900,Card,18900.0,11400,7500.0,Delivered
+10591,2025-02-18,1192,New,Female,West,Pune,Electronics,Mobile,9,20000,10,14000,Net Banking,162000.0,126000,36000.0,Delivered
+10592,2025-09-22,1008,New,Female,North,Chandigarh,Furniture,Bookshelf,1,4500,10,2800,UPI,4050.0,2800,1250.0,Delivered
+10593,2025-05-25,1276,New,Female,East,Kolkata,Furniture,Chair,6,2500,5,1500,Net Banking,14250.0,9000,5250.0,Pending
+10594,2025-03-10,1179,Returning,Male,North,Jaipur,Clothing,Shirt,9,800,5,400,Card,6840.0,3600,3240.0,Delivered
+10595,2025-02-27,1039,Returning,Female,West,Pune,Furniture,Sofa,8,25000,20,18000,Net Banking,160000.0,144000,16000.0,Cancelled
+10596,2025-07-04,1293,Returning,Female,North,Jaipur,Electronics,Headphones,6,3000,10,1800,Net Banking,16200.0,10800,5400.0,Delivered
+10597,2025-03-03,1178,Returning,Male,South,Hyderabad,Electronics,Monitor,3,12000,5,8500,Card,34200.0,25500,8700.0,Delivered
+10598,2025-11-04,1162,Returning,Male,East,Patna,Electronics,Laptop,8,50000,0,38000,Net Banking,400000.0,304000,96000.0,Delivered
+10599,2025-10-23,1104,New,Male,South,Chennai,Electronics,Headphones,9,3000,20,1800,UPI,21600.0,16200,5400.0,Delivered
+10600,2025-06-15,1161,New,Male,West,Pune,Furniture,Table,1,6000,15,3500,UPI,5100.0,3500,1600.0,Delivered
+10601,2025-06-20,1287,New,Male,North,Jaipur,Clothing,Jacket,9,3500,20,1900,UPI,25200.0,17100,8100.0,Delivered
+10602,2025-03-04,1123,New,Male,South,Bangalore,Electronics,Monitor,6,12000,15,8500,UPI,61200.0,51000,10200.0,Delivered
+10603,2025-05-27,1054,New,Male,South,Hyderabad,Furniture,Chair,6,2500,10,1500,Net Banking,13500.0,9000,4500.0,Delivered
+10604,2025-11-02,1034,Returning,Male,North,Chandigarh,Electronics,Headphones,4,3000,15,1800,UPI,10200.0,7200,3000.0,Pending
+10605,2025-06-10,1242,New,Male,North,Delhi,Furniture,Table,1,6000,10,3500,Net Banking,5400.0,3500,1900.0,Pending
+10606,2025-05-21,1113,Returning,Female,East,Kolkata,Electronics,Mouse,10,500,0,200,Cash,5000.0,2000,3000.0,Delivered
+10607,2025-11-30,1023,New,Male,South,Hyderabad,Clothing,TShirt,8,500,15,250,Net Banking,3400.0,2000,1400.0,Delivered
+10608,2025-04-07,1046,Returning,Female,South,Chennai,Clothing,Jeans,2,1500,20,800,UPI,2400.0,1600,800.0,Delivered
+10609,2025-08-09,1135,Returning,Female,West,Pune,Electronics,Mouse,1,500,10,200,Cash,450.0,200,250.0,Delivered
+10610,2025-02-12,1118,Returning,Female,East,Bhubaneswar,Electronics,Monitor,2,12000,20,8500,Card,19200.0,17000,2200.0,Delivered
+10611,2025-10-19,1189,New,Female,West,Pune,Furniture,Chair,1,2500,5,1500,Net Banking,2375.0,1500,875.0,Delivered
+10612,2025-04-18,1131,New,Female,South,Bangalore,Clothing,Shirt,1,800,10,400,UPI,720.0,400,320.0,Pending
+10613,2025-09-23,1212,New,Female,West,Pune,Electronics,Headphones,9,3000,15,1800,UPI,22950.0,16200,6750.0,Pending
+10614,2025-04-05,1113,New,Female,South,Chennai,Furniture,Bookshelf,1,4500,10,2800,UPI,4050.0,2800,1250.0,Delivered
+10615,2025-09-19,1044,Returning,Female,South,Chennai,Clothing,TShirt,4,500,20,250,Card,1600.0,1000,600.0,Delivered
+10616,2025-11-09,1128,Returning,Male,West,Nashik,Electronics,Monitor,10,12000,0,8500,Cash,120000.0,85000,35000.0,Delivered
+10617,2025-03-12,1158,Returning,Female,West,Mumbai,Clothing,Jacket,6,3500,10,1900,Cash,18900.0,11400,7500.0,Delivered
+10618,2025-08-07,1273,Returning,Female,North,Jaipur,Electronics,Laptop,7,50000,15,38000,UPI,297500.0,266000,31500.0,Delivered
+10619,2025-01-21,1045,New,Female,North,Chandigarh,Furniture,Bookshelf,2,4500,5,2800,Net Banking,8550.0,5600,2950.0,Delivered
+10620,2025-04-02,1108,Returning,Female,North,Jaipur,Furniture,Bookshelf,6,4500,0,2800,UPI,27000.0,16800,10200.0,Delivered
+10621,2025-05-07,1219,New,Male,South,Bangalore,Furniture,Bookshelf,7,4500,5,2800,UPI,29925.0,19600,10325.0,Pending
+10622,2025-03-21,1177,Returning,Female,West,Pune,Electronics,Keyboard,10,1200,10,600,Net Banking,10800.0,6000,4800.0,Delivered
+10623,2025-11-08,1228,Returning,Male,East,Kolkata,Electronics,Monitor,10,12000,20,8500,UPI,96000.0,85000,11000.0,Pending
+10624,2025-08-26,1191,Returning,Male,South,Chennai,Clothing,TShirt,2,500,20,250,Card,800.0,500,300.0,Pending
+10625,2025-07-01,1160,New,Female,East,Kolkata,Clothing,Jeans,2,1500,15,800,UPI,2550.0,1600,950.0,Cancelled
+10626,2025-01-25,1267,New,Female,West,Pune,Clothing,Jeans,10,1500,20,800,Card,12000.0,8000,4000.0,Delivered
+10627,2025-06-05,1190,Returning,Male,South,Bangalore,Electronics,Monitor,7,12000,0,8500,UPI,84000.0,59500,24500.0,Delivered
+10628,2025-01-05,1175,Returning,Female,East,Patna,Furniture,Table,1,6000,20,3500,Cash,4800.0,3500,1300.0,Delivered
+10629,2025-04-30,1290,Returning,Female,East,Patna,Electronics,Keyboard,8,1200,15,600,Net Banking,8160.0,4800,3360.0,Delivered
+10630,2025-10-04,1145,New,Male,North,Chandigarh,Electronics,Laptop,3,50000,10,38000,Cash,135000.0,114000,21000.0,Delivered
+10631,2025-01-18,1232,New,Male,North,Chandigarh,Furniture,Bookshelf,6,4500,10,2800,UPI,24300.0,16800,7500.0,Delivered
+10632,2025-07-17,1204,New,Female,North,Delhi,Furniture,Bookshelf,9,4500,20,2800,UPI,32400.0,25200,7200.0,Delivered
+10633,2025-02-26,1213,Returning,Female,South,Chennai,Electronics,Monitor,6,12000,5,8500,Card,68400.0,51000,17400.0,Delivered
+10634,2025-04-03,1040,New,Female,West,Mumbai,Furniture,Table,9,6000,10,3500,UPI,48600.0,31500,17100.0,Pending
+10635,2025-01-19,1275,Returning,Male,West,Nashik,Clothing,Jeans,7,1500,20,800,UPI,8400.0,5600,2800.0,Delivered
+10636,2025-12-19,1082,New,Female,North,Delhi,Clothing,Jeans,9,1500,15,800,UPI,11475.0,7200,4275.0,Delivered
+10637,2025-07-12,1181,Returning,Male,North,Delhi,Furniture,Chair,2,2500,20,1500,Cash,4000.0,3000,1000.0,Delivered
+10638,2025-08-25,1083,Returning,Male,North,Chandigarh,Electronics,Monitor,8,12000,10,8500,Card,86400.0,68000,18400.0,Delivered
+10639,2025-10-04,1262,New,Female,East,Patna,Electronics,Keyboard,8,1200,15,600,Cash,8160.0,4800,3360.0,Delivered
+10640,2025-08-15,1272,Returning,Male,North,Delhi,Electronics,Mobile,2,20000,20,14000,Card,32000.0,28000,4000.0,Delivered
+10641,2025-08-21,1200,Returning,Female,East,Bhubaneswar,Electronics,Keyboard,4,1200,0,600,Cash,4800.0,2400,2400.0,Delivered
+10642,2025-02-09,1240,Returning,Female,West,Pune,Clothing,Jacket,7,3500,15,1900,UPI,20825.0,13300,7525.0,Delivered
+10643,2025-11-19,1180,New,Male,South,Hyderabad,Clothing,Jeans,4,1500,0,800,Cash,6000.0,3200,2800.0,Delivered
+10644,2025-06-02,1171,Returning,Female,South,Bangalore,Clothing,Jeans,4,1500,5,800,Cash,5700.0,3200,2500.0,Delivered
+10645,2025-05-07,1295,New,Male,South,Chennai,Electronics,Mouse,6,500,15,200,Card,2550.0,1200,1350.0,Delivered
+10646,2025-08-25,1177,New,Male,South,Chennai,Clothing,Jeans,10,1500,0,800,Card,15000.0,8000,7000.0,Delivered
+10647,2025-02-24,1237,Returning,Female,East,Bhubaneswar,Electronics,Laptop,6,50000,10,38000,Cash,270000.0,228000,42000.0,Delivered
+10648,2025-06-21,1138,New,Female,East,Bhubaneswar,Furniture,Sofa,10,25000,10,18000,Card,225000.0,180000,45000.0,Cancelled
+10649,2025-04-19,1129,Returning,Female,North,Chandigarh,Electronics,Monitor,3,12000,5,8500,Card,34200.0,25500,8700.0,Cancelled
+10650,2025-12-20,1049,New,Female,East,Patna,Electronics,Headphones,9,3000,15,1800,Card,22950.0,16200,6750.0,Delivered
+10651,2025-07-03,1164,Returning,Male,North,Jaipur,Electronics,Keyboard,10,1200,15,600,Net Banking,10200.0,6000,4200.0,Delivered
+10652,2025-07-17,1277,New,Male,North,Delhi,Furniture,Sofa,2,25000,15,18000,Card,42500.0,36000,6500.0,Delivered
+10653,2025-03-28,1293,Returning,Male,South,Chennai,Furniture,Table,6,6000,5,3500,Net Banking,34200.0,21000,13200.0,Delivered
+10654,2025-07-20,1116,Returning,Female,East,Kolkata,Electronics,Mobile,7,20000,15,14000,Net Banking,119000.0,98000,21000.0,Delivered
+10655,2025-12-03,1024,Returning,Male,East,Bhubaneswar,Electronics,Laptop,9,50000,10,38000,Card,405000.0,342000,63000.0,Delivered
+10656,2025-11-18,1025,Returning,Male,North,Chandigarh,Clothing,TShirt,3,500,0,250,Cash,1500.0,750,750.0,Delivered
+10657,2025-10-02,1127,New,Female,North,Jaipur,Clothing,Shoes,10,2500,10,1300,Card,22500.0,13000,9500.0,Delivered
+10658,2025-07-30,1234,New,Female,West,Nashik,Electronics,Keyboard,3,1200,10,600,UPI,3240.0,1800,1440.0,Delivered
+10659,2025-04-28,1209,Returning,Female,West,Nashik,Furniture,Sofa,7,25000,0,18000,Cash,175000.0,126000,49000.0,Delivered
+10660,2025-07-10,1093,New,Male,North,Jaipur,Clothing,TShirt,4,500,10,250,Net Banking,1800.0,1000,800.0,Delivered
+10661,2025-02-11,1094,Returning,Female,West,Mumbai,Electronics,Mobile,8,20000,5,14000,Net Banking,152000.0,112000,40000.0,Delivered
+10662,2025-02-11,1225,Returning,Male,West,Pune,Electronics,Mouse,7,500,0,200,Cash,3500.0,1400,2100.0,Delivered
+10663,2025-11-11,1280,New,Male,North,Delhi,Clothing,TShirt,5,500,10,250,Cash,2250.0,1250,1000.0,Delivered
+10664,2025-10-03,1011,New,Male,North,Jaipur,Electronics,Laptop,7,50000,20,38000,Card,280000.0,266000,14000.0,Delivered
+10665,2025-11-25,1012,Returning,Male,East,Patna,Electronics,Laptop,3,50000,10,38000,Net Banking,135000.0,114000,21000.0,Delivered
+10666,2025-01-17,1035,New,Male,North,Chandigarh,Electronics,Headphones,2,3000,5,1800,UPI,5700.0,3600,2100.0,Delivered
+10667,2025-10-10,1228,Returning,Female,North,Jaipur,Electronics,Mouse,6,500,15,200,Card,2550.0,1200,1350.0,Delivered
+10668,2025-09-15,1220,New,Male,South,Chennai,Clothing,Shoes,2,2500,10,1300,Cash,4500.0,2600,1900.0,Delivered
+10669,2025-03-04,1141,New,Female,East,Kolkata,Electronics,Monitor,3,12000,15,8500,Net Banking,30600.0,25500,5100.0,Delivered
+10670,2025-03-03,1023,New,Male,East,Bhubaneswar,Clothing,TShirt,6,500,20,250,Cash,2400.0,1500,900.0,Delivered
+10671,2025-04-10,1083,New,Male,East,Kolkata,Electronics,Mouse,5,500,10,200,Cash,2250.0,1000,1250.0,Delivered
+10672,2025-01-19,1229,New,Female,South,Bangalore,Electronics,Laptop,8,50000,0,38000,Cash,400000.0,304000,96000.0,Pending
+10673,2025-01-17,1080,Returning,Male,North,Chandigarh,Electronics,Laptop,9,50000,15,38000,Card,382500.0,342000,40500.0,Cancelled
+10674,2025-11-21,1290,New,Male,East,Bhubaneswar,Furniture,Sofa,3,25000,20,18000,UPI,60000.0,54000,6000.0,Delivered
+10675,2025-09-03,1159,New,Female,East,Bhubaneswar,Clothing,Jeans,10,1500,0,800,UPI,15000.0,8000,7000.0,Cancelled
+10676,2025-09-08,1128,Returning,Female,West,Pune,Clothing,Shoes,3,2500,0,1300,Net Banking,7500.0,3900,3600.0,Delivered
+10677,2025-03-22,1190,Returning,Male,East,Bhubaneswar,Clothing,TShirt,3,500,0,250,Cash,1500.0,750,750.0,Delivered
+10678,2025-02-08,1031,Returning,Male,North,Chandigarh,Electronics,Headphones,6,3000,0,1800,UPI,18000.0,10800,7200.0,Delivered
+10679,2025-02-05,1015,New,Male,North,Chandigarh,Electronics,Headphones,1,3000,10,1800,Cash,2700.0,1800,900.0,Pending
+10680,2025-07-16,1075,New,Female,West,Mumbai,Clothing,TShirt,7,500,10,250,Net Banking,3150.0,1750,1400.0,Delivered
+10681,2025-06-07,1034,Returning,Male,East,Kolkata,Clothing,Jacket,1,3500,10,1900,Cash,3150.0,1900,1250.0,Pending
+10682,2025-07-23,1196,Returning,Female,East,Patna,Furniture,Bookshelf,5,4500,20,2800,UPI,18000.0,14000,4000.0,Delivered
+10683,2025-07-15,1029,Returning,Female,East,Kolkata,Electronics,Mobile,10,20000,20,14000,Cash,160000.0,140000,20000.0,Delivered
+10684,2025-08-04,1194,Returning,Male,South,Chennai,Electronics,Headphones,8,3000,20,1800,UPI,19200.0,14400,4800.0,Delivered
+10685,2025-10-12,1016,New,Female,East,Kolkata,Electronics,Mouse,4,500,5,200,Net Banking,1900.0,800,1100.0,Delivered
+10686,2025-07-15,1077,New,Male,North,Chandigarh,Electronics,Mobile,5,20000,20,14000,Cash,80000.0,70000,10000.0,Delivered
+10687,2025-11-03,1293,New,Male,North,Delhi,Electronics,Mouse,4,500,10,200,UPI,1800.0,800,1000.0,Delivered
+10688,2025-06-01,1081,New,Female,South,Chennai,Furniture,Table,4,6000,10,3500,Net Banking,21600.0,14000,7600.0,Delivered
+10689,2025-01-14,1124,New,Female,South,Bangalore,Electronics,Laptop,8,50000,5,38000,Cash,380000.0,304000,76000.0,Delivered
+10690,2025-11-21,1019,Returning,Female,East,Bhubaneswar,Clothing,Jeans,2,1500,5,800,Net Banking,2850.0,1600,1250.0,Delivered
+10691,2025-05-26,1102,New,Female,West,Pune,Furniture,Sofa,1,25000,20,18000,UPI,20000.0,18000,2000.0,Pending
+10692,2025-02-26,1077,Returning,Female,South,Hyderabad,Electronics,Headphones,3,3000,15,1800,Cash,7650.0,5400,2250.0,Delivered
+10693,2025-07-30,1229,Returning,Female,South,Hyderabad,Clothing,Jeans,9,1500,5,800,Cash,12825.0,7200,5625.0,Delivered
+10694,2025-09-25,1297,Returning,Male,East,Patna,Clothing,Jeans,4,1500,0,800,Cash,6000.0,3200,2800.0,Delivered
+10695,2025-07-29,1203,New,Male,East,Bhubaneswar,Clothing,Jeans,10,1500,10,800,Net Banking,13500.0,8000,5500.0,Delivered
+10696,2025-01-17,1061,Returning,Male,South,Hyderabad,Furniture,Bookshelf,5,4500,0,2800,Net Banking,22500.0,14000,8500.0,Pending
+10697,2025-10-13,1026,New,Female,West,Mumbai,Electronics,Mobile,2,20000,10,14000,UPI,36000.0,28000,8000.0,Pending
+10698,2025-12-10,1071,Returning,Female,South,Hyderabad,Electronics,Mouse,4,500,10,200,Card,1800.0,800,1000.0,Delivered
+10699,2025-07-22,1103,New,Female,East,Bhubaneswar,Clothing,Shirt,2,800,5,400,Cash,1520.0,800,720.0,Delivered
+10700,2025-04-09,1157,Returning,Male,East,Bhubaneswar,Furniture,Table,2,6000,5,3500,Cash,11400.0,7000,4400.0,Pending
+10701,2025-10-06,1194,New,Male,South,Hyderabad,Electronics,Keyboard,4,1200,0,600,UPI,4800.0,2400,2400.0,Pending
+10702,2025-07-28,1275,Returning,Female,West,Pune,Clothing,Jeans,6,1500,10,800,Cash,8100.0,4800,3300.0,Pending
+10703,2025-05-09,1186,Returning,Female,South,Bangalore,Electronics,Monitor,7,12000,0,8500,Net Banking,84000.0,59500,24500.0,Pending
+10704,2025-12-01,1113,Returning,Female,South,Hyderabad,Electronics,Mobile,10,20000,15,14000,Net Banking,170000.0,140000,30000.0,Delivered
+10705,2025-10-15,1165,Returning,Female,East,Bhubaneswar,Electronics,Headphones,3,3000,0,1800,Cash,9000.0,5400,3600.0,Delivered
+10706,2025-09-09,1061,New,Male,West,Pune,Clothing,Shoes,3,2500,20,1300,Cash,6000.0,3900,2100.0,Delivered
+10707,2025-09-22,1092,New,Male,North,Chandigarh,Electronics,Headphones,10,3000,0,1800,Net Banking,30000.0,18000,12000.0,Delivered
+10708,2025-09-28,1286,New,Male,West,Pune,Furniture,Sofa,6,25000,20,18000,Cash,120000.0,108000,12000.0,Delivered
+10709,2025-07-07,1153,Returning,Female,South,Bangalore,Electronics,Keyboard,3,1200,20,600,Net Banking,2880.0,1800,1080.0,Delivered
+10710,2025-08-02,1225,Returning,Male,South,Bangalore,Clothing,Shirt,2,800,20,400,Card,1280.0,800,480.0,Delivered
+10711,2025-10-10,1127,Returning,Female,South,Hyderabad,Electronics,Monitor,8,12000,15,8500,Card,81600.0,68000,13600.0,Delivered
+10712,2025-07-30,1193,Returning,Female,West,Nashik,Electronics,Headphones,5,3000,0,1800,Cash,15000.0,9000,6000.0,Delivered
+10713,2025-12-31,1115,Returning,Female,East,Bhubaneswar,Clothing,Shirt,1,800,0,400,Cash,800.0,400,400.0,Delivered
+10714,2025-03-17,1262,Returning,Male,South,Chennai,Electronics,Keyboard,3,1200,15,600,Cash,3060.0,1800,1260.0,Delivered
+10715,2025-05-28,1018,New,Male,South,Hyderabad,Clothing,Jeans,10,1500,10,800,Net Banking,13500.0,8000,5500.0,Pending
+10716,2025-11-17,1010,New,Female,West,Nashik,Electronics,Monitor,8,12000,5,8500,Card,91200.0,68000,23200.0,Pending
+10717,2025-08-01,1092,New,Male,North,Delhi,Clothing,Shirt,4,800,0,400,Card,3200.0,1600,1600.0,Delivered
+10718,2025-04-19,1139,New,Female,North,Chandigarh,Furniture,Sofa,7,25000,5,18000,UPI,166250.0,126000,40250.0,Delivered
+10719,2025-05-09,1052,New,Female,East,Kolkata,Electronics,Mouse,10,500,15,200,UPI,4250.0,2000,2250.0,Delivered
+10720,2025-01-10,1195,New,Female,East,Bhubaneswar,Electronics,Laptop,2,50000,10,38000,Cash,90000.0,76000,14000.0,Delivered
+10721,2025-02-16,1206,New,Male,South,Bangalore,Electronics,Mouse,7,500,10,200,Net Banking,3150.0,1400,1750.0,Delivered
+10722,2025-11-11,1287,New,Male,West,Nashik,Electronics,Keyboard,5,1200,10,600,Cash,5400.0,3000,2400.0,Delivered
+10723,2025-04-06,1093,Returning,Female,South,Bangalore,Electronics,Mobile,5,20000,15,14000,Card,85000.0,70000,15000.0,Pending
+10724,2025-04-13,1145,Returning,Male,East,Patna,Electronics,Laptop,6,50000,20,38000,Cash,240000.0,228000,12000.0,Delivered
+10725,2025-12-08,1086,Returning,Male,West,Mumbai,Furniture,Table,9,6000,20,3500,Cash,43200.0,31500,11700.0,Delivered
+10726,2025-05-26,1153,Returning,Male,West,Mumbai,Furniture,Sofa,6,25000,5,18000,Card,142500.0,108000,34500.0,Delivered
+10727,2025-01-27,1002,Returning,Male,East,Kolkata,Furniture,Table,8,6000,20,3500,Card,38400.0,28000,10400.0,Delivered
+10728,2025-08-08,1260,Returning,Female,North,Chandigarh,Furniture,Bookshelf,7,4500,20,2800,Card,25200.0,19600,5600.0,Delivered
+10729,2025-01-18,1164,Returning,Male,North,Chandigarh,Electronics,Monitor,9,12000,10,8500,Card,97200.0,76500,20700.0,Pending
+10730,2025-06-16,1006,New,Female,West,Nashik,Clothing,TShirt,4,500,10,250,UPI,1800.0,1000,800.0,Delivered
+10731,2025-03-23,1149,New,Female,South,Chennai,Electronics,Laptop,2,50000,5,38000,Net Banking,95000.0,76000,19000.0,Delivered
+10732,2025-03-13,1205,Returning,Male,North,Jaipur,Furniture,Table,7,6000,0,3500,Net Banking,42000.0,24500,17500.0,Delivered
+10733,2025-11-06,1118,New,Female,South,Bangalore,Electronics,Headphones,6,3000,5,1800,Card,17100.0,10800,6300.0,Delivered
+10734,2025-09-11,1089,New,Female,North,Jaipur,Furniture,Table,1,6000,5,3500,Net Banking,5700.0,3500,2200.0,Delivered
+10735,2025-06-11,1154,New,Male,North,Delhi,Clothing,Shirt,9,800,15,400,Net Banking,6120.0,3600,2520.0,Delivered
+10736,2025-11-23,1167,New,Female,South,Bangalore,Electronics,Mouse,9,500,15,200,Net Banking,3825.0,1800,2025.0,Delivered
+10737,2025-02-07,1161,New,Female,East,Kolkata,Clothing,Shirt,2,800,5,400,Net Banking,1520.0,800,720.0,Delivered
+10738,2025-07-20,1270,Returning,Male,North,Jaipur,Furniture,Bookshelf,3,4500,5,2800,Card,12825.0,8400,4425.0,Pending
+10739,2025-07-19,1056,New,Male,North,Chandigarh,Electronics,Laptop,5,50000,5,38000,Cash,237500.0,190000,47500.0,Delivered
+10740,2025-09-12,1228,Returning,Male,South,Chennai,Electronics,Laptop,5,50000,20,38000,Cash,200000.0,190000,10000.0,Delivered
+10741,2025-06-28,1149,Returning,Male,East,Kolkata,Furniture,Bookshelf,1,4500,15,2800,Cash,3825.0,2800,1025.0,Delivered
+10742,2025-02-04,1046,Returning,Male,North,Delhi,Electronics,Keyboard,8,1200,5,600,UPI,9120.0,4800,4320.0,Delivered
+10743,2025-03-23,1144,New,Female,North,Jaipur,Clothing,Shirt,8,800,10,400,Net Banking,5760.0,3200,2560.0,Delivered
+10744,2025-08-08,1238,Returning,Female,East,Kolkata,Furniture,Chair,4,2500,10,1500,Card,9000.0,6000,3000.0,Delivered
+10745,2025-06-07,1272,Returning,Male,North,Delhi,Electronics,Headphones,7,3000,20,1800,Card,16800.0,12600,4200.0,Delivered
+10746,2025-01-04,1120,Returning,Male,East,Patna,Clothing,Shoes,10,2500,20,1300,UPI,20000.0,13000,7000.0,Delivered
+10747,2025-06-16,1220,Returning,Female,East,Patna,Electronics,Mouse,3,500,0,200,Card,1500.0,600,900.0,Delivered
+10748,2025-07-23,1008,New,Male,South,Chennai,Electronics,Laptop,6,50000,0,38000,Cash,300000.0,228000,72000.0,Delivered
+10749,2025-07-13,1275,Returning,Male,West,Mumbai,Electronics,Keyboard,10,1200,0,600,UPI,12000.0,6000,6000.0,Delivered
+10750,2025-08-23,1066,Returning,Female,East,Kolkata,Clothing,TShirt,10,500,20,250,Card,4000.0,2500,1500.0,Delivered
+10751,2025-07-25,1079,Returning,Female,South,Hyderabad,Electronics,Headphones,9,3000,20,1800,UPI,21600.0,16200,5400.0,Cancelled
+10752,2025-05-30,1086,Returning,Female,West,Nashik,Clothing,Shirt,1,800,20,400,UPI,640.0,400,240.0,Delivered
+10753,2025-06-08,1124,New,Male,North,Jaipur,Electronics,Mouse,5,500,10,200,Card,2250.0,1000,1250.0,Delivered
+10754,2025-10-06,1202,Returning,Female,West,Nashik,Clothing,TShirt,4,500,20,250,Cash,1600.0,1000,600.0,Delivered
+10755,2025-10-31,1150,Returning,Male,East,Kolkata,Clothing,Shirt,8,800,10,400,Card,5760.0,3200,2560.0,Delivered
+10756,2025-06-15,1046,Returning,Female,East,Bhubaneswar,Furniture,Table,1,6000,0,3500,Net Banking,6000.0,3500,2500.0,Delivered
+10757,2025-11-07,1113,Returning,Male,East,Kolkata,Clothing,TShirt,9,500,0,250,Net Banking,4500.0,2250,2250.0,Pending
+10758,2025-03-09,1091,Returning,Male,East,Patna,Furniture,Bookshelf,6,4500,0,2800,Card,27000.0,16800,10200.0,Delivered
+10759,2025-03-29,1141,Returning,Male,East,Patna,Clothing,Jacket,4,3500,5,1900,Cash,13300.0,7600,5700.0,Cancelled
+10760,2025-08-05,1289,New,Female,South,Bangalore,Electronics,Keyboard,9,1200,5,600,Net Banking,10260.0,5400,4860.0,Delivered
+10761,2025-01-01,1218,Returning,Female,East,Bhubaneswar,Electronics,Mouse,5,500,15,200,Net Banking,2125.0,1000,1125.0,Delivered
+10762,2025-05-15,1077,New,Female,South,Chennai,Clothing,Jeans,5,1500,15,800,Card,6375.0,4000,2375.0,Delivered
+10763,2025-07-04,1152,New,Male,North,Jaipur,Clothing,Jacket,5,3500,15,1900,Card,14875.0,9500,5375.0,Delivered
+10764,2025-12-17,1239,Returning,Female,East,Bhubaneswar,Electronics,Monitor,1,12000,5,8500,Card,11400.0,8500,2900.0,Delivered
+10765,2025-05-20,1115,New,Female,East,Bhubaneswar,Electronics,Monitor,1,12000,5,8500,UPI,11400.0,8500,2900.0,Pending
+10766,2025-04-16,1094,Returning,Male,West,Mumbai,Electronics,Mouse,8,500,15,200,UPI,3400.0,1600,1800.0,Delivered
+10767,2025-05-13,1048,New,Male,North,Chandigarh,Clothing,TShirt,8,500,15,250,UPI,3400.0,2000,1400.0,Pending
+10768,2025-04-18,1191,Returning,Female,East,Bhubaneswar,Clothing,Shirt,6,800,20,400,Card,3840.0,2400,1440.0,Pending
+10769,2025-06-27,1012,New,Female,East,Bhubaneswar,Electronics,Keyboard,4,1200,15,600,Cash,4080.0,2400,1680.0,Cancelled
+10770,2025-10-25,1156,New,Female,North,Delhi,Clothing,Shoes,2,2500,20,1300,Net Banking,4000.0,2600,1400.0,Delivered
+10771,2025-12-24,1172,Returning,Male,South,Bangalore,Electronics,Monitor,2,12000,10,8500,UPI,21600.0,17000,4600.0,Delivered
+10772,2025-12-25,1296,New,Female,East,Patna,Electronics,Keyboard,9,1200,5,600,Cash,10260.0,5400,4860.0,Delivered
+10773,2025-05-26,1177,New,Male,West,Mumbai,Electronics,Monitor,5,12000,15,8500,Card,51000.0,42500,8500.0,Delivered
+10774,2025-03-15,1057,New,Male,East,Patna,Furniture,Table,4,6000,5,3500,UPI,22800.0,14000,8800.0,Delivered
+10775,2025-04-18,1203,New,Female,West,Nashik,Clothing,Shirt,10,800,5,400,Card,7600.0,4000,3600.0,Delivered
+10776,2025-05-02,1185,New,Female,West,Pune,Furniture,Table,1,6000,5,3500,Cash,5700.0,3500,2200.0,Delivered
+10777,2025-01-17,1121,Returning,Male,East,Patna,Electronics,Headphones,7,3000,10,1800,UPI,18900.0,12600,6300.0,Pending
+10778,2025-07-15,1226,New,Male,East,Bhubaneswar,Electronics,Monitor,3,12000,0,8500,UPI,36000.0,25500,10500.0,Pending
+10779,2025-11-23,1202,New,Female,West,Pune,Clothing,Jeans,6,1500,15,800,UPI,7650.0,4800,2850.0,Delivered
+10780,2025-11-14,1216,Returning,Female,North,Delhi,Clothing,Jeans,5,1500,0,800,UPI,7500.0,4000,3500.0,Delivered
+10781,2025-10-24,1043,Returning,Female,North,Delhi,Furniture,Table,5,6000,0,3500,Cash,30000.0,17500,12500.0,Delivered
+10782,2025-09-09,1023,Returning,Male,East,Kolkata,Furniture,Bookshelf,5,4500,0,2800,UPI,22500.0,14000,8500.0,Delivered
+10783,2025-04-29,1155,New,Male,South,Bangalore,Clothing,Jacket,1,3500,5,1900,Net Banking,3325.0,1900,1425.0,Delivered
+10784,2025-06-11,1186,New,Female,North,Jaipur,Clothing,Jeans,1,1500,20,800,Net Banking,1200.0,800,400.0,Delivered
+10785,2025-07-17,1249,New,Male,East,Patna,Electronics,Monitor,3,12000,5,8500,Card,34200.0,25500,8700.0,Delivered
+10786,2025-02-14,1237,New,Male,North,Chandigarh,Electronics,Mouse,10,500,5,200,UPI,4750.0,2000,2750.0,Delivered
+10787,2025-11-10,1293,Returning,Female,South,Chennai,Furniture,Table,4,6000,0,3500,Net Banking,24000.0,14000,10000.0,Delivered
+10788,2025-06-28,1134,Returning,Male,East,Patna,Electronics,Headphones,5,3000,5,1800,Net Banking,14250.0,9000,5250.0,Delivered
+10789,2025-02-13,1022,New,Female,South,Chennai,Clothing,Shoes,2,2500,0,1300,Net Banking,5000.0,2600,2400.0,Cancelled
+10790,2025-09-28,1088,New,Female,East,Bhubaneswar,Clothing,Shoes,8,2500,20,1300,Cash,16000.0,10400,5600.0,Delivered
+10791,2025-03-19,1153,New,Male,South,Bangalore,Electronics,Mobile,2,20000,15,14000,UPI,34000.0,28000,6000.0,Delivered
+10792,2025-11-22,1125,New,Male,North,Jaipur,Clothing,Jacket,9,3500,0,1900,Cash,31500.0,17100,14400.0,Delivered
+10793,2025-06-27,1079,Returning,Female,North,Chandigarh,Clothing,TShirt,2,500,20,250,Cash,800.0,500,300.0,Delivered
+10794,2025-12-23,1051,Returning,Male,South,Hyderabad,Clothing,Shirt,9,800,15,400,Net Banking,6120.0,3600,2520.0,Delivered
+10795,2025-01-03,1216,New,Female,South,Hyderabad,Clothing,Jeans,7,1500,10,800,Net Banking,9450.0,5600,3850.0,Delivered
+10796,2025-08-02,1176,Returning,Male,South,Bangalore,Clothing,Jeans,8,1500,0,800,Card,12000.0,6400,5600.0,Delivered
+10797,2025-12-08,1253,New,Male,East,Patna,Clothing,TShirt,2,500,0,250,UPI,1000.0,500,500.0,Delivered
+10798,2025-03-15,1246,New,Male,North,Chandigarh,Electronics,Laptop,7,50000,10,38000,UPI,315000.0,266000,49000.0,Delivered
+10799,2025-02-20,1227,Returning,Female,East,Kolkata,Electronics,Headphones,6,3000,10,1800,Net Banking,16200.0,10800,5400.0,Delivered
+10800,2025-03-08,1106,New,Male,North,Chandigarh,Furniture,Chair,4,2500,0,1500,Net Banking,10000.0,6000,4000.0,Delivered
+10801,2025-11-28,1193,Returning,Female,West,Nashik,Furniture,Table,7,6000,10,3500,UPI,37800.0,24500,13300.0,Delivered
+10802,2025-04-03,1036,New,Female,East,Bhubaneswar,Furniture,Bookshelf,4,4500,5,2800,Card,17100.0,11200,5900.0,Delivered
+10803,2025-06-25,1204,Returning,Female,North,Chandigarh,Electronics,Headphones,2,3000,15,1800,Net Banking,5100.0,3600,1500.0,Pending
+10804,2025-05-25,1267,New,Male,North,Chandigarh,Furniture,Sofa,10,25000,15,18000,Card,212500.0,180000,32500.0,Cancelled
+10805,2025-01-07,1268,Returning,Female,East,Kolkata,Clothing,Jeans,7,1500,15,800,Cash,8925.0,5600,3325.0,Delivered
+10806,2025-09-26,1170,New,Female,East,Patna,Clothing,Shirt,8,800,5,400,Net Banking,6080.0,3200,2880.0,Cancelled
+10807,2025-11-18,1039,New,Male,North,Jaipur,Electronics,Mobile,2,20000,10,14000,Cash,36000.0,28000,8000.0,Delivered
+10808,2025-01-04,1139,Returning,Female,East,Patna,Clothing,Shoes,5,2500,20,1300,Net Banking,10000.0,6500,3500.0,Cancelled
+10809,2025-05-18,1292,New,Female,South,Chennai,Clothing,Jeans,1,1500,10,800,Cash,1350.0,800,550.0,Delivered
+10810,2025-08-19,1052,Returning,Male,East,Kolkata,Electronics,Mobile,7,20000,0,14000,Net Banking,140000.0,98000,42000.0,Delivered
+10811,2025-03-29,1287,Returning,Female,East,Kolkata,Electronics,Monitor,8,12000,15,8500,Card,81600.0,68000,13600.0,Pending
+10812,2025-01-17,1289,New,Male,East,Kolkata,Electronics,Headphones,6,3000,10,1800,Card,16200.0,10800,5400.0,Delivered
+10813,2025-02-21,1141,New,Female,North,Chandigarh,Electronics,Monitor,5,12000,20,8500,Card,48000.0,42500,5500.0,Delivered
+10814,2025-05-14,1146,New,Female,South,Hyderabad,Furniture,Chair,6,2500,0,1500,Cash,15000.0,9000,6000.0,Delivered
+10815,2025-07-30,1184,New,Male,West,Nashik,Electronics,Mouse,2,500,5,200,Card,950.0,400,550.0,Delivered
+10816,2025-11-21,1152,Returning,Female,West,Pune,Furniture,Sofa,1,25000,5,18000,Cash,23750.0,18000,5750.0,Delivered
+10817,2025-08-07,1201,New,Female,South,Hyderabad,Electronics,Headphones,7,3000,20,1800,Net Banking,16800.0,12600,4200.0,Delivered
+10818,2025-07-24,1128,New,Female,South,Chennai,Electronics,Laptop,7,50000,0,38000,Cash,350000.0,266000,84000.0,Cancelled
+10819,2025-07-30,1287,New,Male,South,Hyderabad,Furniture,Chair,10,2500,15,1500,Net Banking,21250.0,15000,6250.0,Delivered
+10820,2025-10-04,1253,Returning,Male,North,Jaipur,Electronics,Keyboard,10,1200,10,600,UPI,10800.0,6000,4800.0,Cancelled
+10821,2025-01-24,1266,New,Male,West,Nashik,Electronics,Laptop,2,50000,0,38000,UPI,100000.0,76000,24000.0,Cancelled
+10822,2025-01-04,1188,Returning,Male,South,Hyderabad,Clothing,Jacket,2,3500,5,1900,UPI,6650.0,3800,2850.0,Delivered
+10823,2025-06-01,1230,New,Male,North,Delhi,Furniture,Table,1,6000,20,3500,Cash,4800.0,3500,1300.0,Delivered
+10824,2025-09-16,1271,Returning,Female,West,Nashik,Clothing,Shirt,10,800,20,400,UPI,6400.0,4000,2400.0,Pending
+10825,2025-11-20,1259,New,Male,East,Bhubaneswar,Electronics,Headphones,8,3000,10,1800,UPI,21600.0,14400,7200.0,Delivered
+10826,2025-12-23,1299,New,Male,North,Delhi,Electronics,Keyboard,8,1200,20,600,UPI,7680.0,4800,2880.0,Delivered
+10827,2025-06-17,1198,Returning,Male,West,Pune,Electronics,Keyboard,1,1200,20,600,Net Banking,960.0,600,360.0,Delivered
+10828,2025-06-25,1056,New,Female,North,Delhi,Furniture,Chair,8,2500,0,1500,Card,20000.0,12000,8000.0,Delivered
+10829,2025-11-06,1203,New,Female,West,Mumbai,Clothing,TShirt,9,500,15,250,Cash,3825.0,2250,1575.0,Delivered
+10830,2025-10-18,1271,New,Male,West,Pune,Clothing,Jacket,4,3500,10,1900,UPI,12600.0,7600,5000.0,Delivered
+10831,2025-02-25,1109,Returning,Female,East,Bhubaneswar,Electronics,Mouse,1,500,0,200,Net Banking,500.0,200,300.0,Delivered
+10832,2025-04-18,1116,New,Female,North,Jaipur,Electronics,Headphones,1,3000,15,1800,Card,2550.0,1800,750.0,Delivered
+10833,2025-10-23,1092,Returning,Female,South,Hyderabad,Clothing,TShirt,3,500,0,250,Card,1500.0,750,750.0,Pending
+10834,2025-11-20,1138,Returning,Female,East,Bhubaneswar,Furniture,Chair,5,2500,0,1500,Card,12500.0,7500,5000.0,Delivered
+10835,2025-10-29,1057,Returning,Male,East,Patna,Furniture,Table,5,6000,20,3500,Net Banking,24000.0,17500,6500.0,Cancelled
+10836,2025-11-30,1050,New,Male,West,Mumbai,Clothing,Shoes,9,2500,15,1300,UPI,19125.0,11700,7425.0,Delivered
+10837,2025-05-21,1071,Returning,Female,South,Chennai,Clothing,Jeans,10,1500,10,800,Card,13500.0,8000,5500.0,Delivered
+10838,2025-06-04,1082,Returning,Female,North,Chandigarh,Clothing,Jeans,2,1500,10,800,Net Banking,2700.0,1600,1100.0,Delivered
+10839,2025-09-19,1105,New,Female,South,Chennai,Electronics,Mouse,2,500,15,200,Net Banking,850.0,400,450.0,Cancelled
+10840,2025-09-30,1088,Returning,Female,South,Chennai,Furniture,Table,6,6000,20,3500,Cash,28800.0,21000,7800.0,Delivered
+10841,2025-08-20,1002,Returning,Male,South,Hyderabad,Furniture,Bookshelf,9,4500,5,2800,Net Banking,38475.0,25200,13275.0,Delivered
+10842,2025-08-29,1084,New,Female,South,Bangalore,Electronics,Mouse,1,500,0,200,Card,500.0,200,300.0,Cancelled
+10843,2025-12-21,1043,New,Male,South,Chennai,Electronics,Headphones,9,3000,20,1800,Card,21600.0,16200,5400.0,Delivered
+10844,2025-12-03,1154,Returning,Female,West,Nashik,Electronics,Headphones,9,3000,15,1800,Net Banking,22950.0,16200,6750.0,Delivered
+10845,2025-09-15,1094,New,Male,West,Nashik,Electronics,Mobile,9,20000,0,14000,Card,180000.0,126000,54000.0,Delivered
+10846,2025-09-06,1298,New,Female,East,Patna,Clothing,TShirt,5,500,10,250,Net Banking,2250.0,1250,1000.0,Pending
+10847,2025-03-18,1133,New,Male,West,Mumbai,Furniture,Bookshelf,9,4500,5,2800,Card,38475.0,25200,13275.0,Delivered
+10848,2025-06-29,1065,Returning,Male,East,Patna,Clothing,Jeans,4,1500,10,800,Cash,5400.0,3200,2200.0,Delivered
+10849,2025-03-07,1290,Returning,Male,East,Kolkata,Electronics,Keyboard,2,1200,15,600,UPI,2040.0,1200,840.0,Pending
+10850,2025-11-04,1257,New,Female,North,Delhi,Clothing,TShirt,6,500,0,250,Cash,3000.0,1500,1500.0,Delivered
+10851,2025-12-14,1213,Returning,Male,South,Bangalore,Furniture,Sofa,4,25000,15,18000,Cash,85000.0,72000,13000.0,Delivered
+10852,2025-06-20,1148,New,Female,West,Mumbai,Electronics,Headphones,6,3000,0,1800,UPI,18000.0,10800,7200.0,Delivered
+10853,2025-01-22,1061,New,Male,North,Jaipur,Clothing,Jacket,3,3500,20,1900,Card,8400.0,5700,2700.0,Delivered
+10854,2025-04-17,1149,New,Male,West,Nashik,Clothing,Shirt,6,800,5,400,UPI,4560.0,2400,2160.0,Delivered
+10855,2025-11-19,1088,New,Female,East,Bhubaneswar,Furniture,Table,2,6000,20,3500,Net Banking,9600.0,7000,2600.0,Pending
+10856,2025-08-15,1278,New,Male,West,Nashik,Electronics,Laptop,2,50000,20,38000,UPI,80000.0,76000,4000.0,Delivered
+10857,2025-08-04,1082,Returning,Female,South,Hyderabad,Electronics,Mouse,9,500,15,200,Cash,3825.0,1800,2025.0,Delivered
+10858,2025-03-10,1129,Returning,Female,East,Bhubaneswar,Electronics,Headphones,7,3000,5,1800,UPI,19950.0,12600,7350.0,Delivered
+10859,2025-03-25,1286,Returning,Female,East,Bhubaneswar,Clothing,TShirt,3,500,0,250,Card,1500.0,750,750.0,Delivered
+10860,2025-04-13,1280,Returning,Female,North,Jaipur,Furniture,Bookshelf,1,4500,0,2800,Cash,4500.0,2800,1700.0,Delivered
+10861,2025-02-08,1270,New,Male,South,Bangalore,Clothing,Shirt,8,800,10,400,Net Banking,5760.0,3200,2560.0,Delivered
+10862,2025-01-13,1292,New,Male,East,Bhubaneswar,Clothing,Jacket,6,3500,0,1900,Card,21000.0,11400,9600.0,Delivered
+10863,2025-10-24,1203,Returning,Female,South,Chennai,Clothing,TShirt,7,500,15,250,Cash,2975.0,1750,1225.0,Delivered
+10864,2025-11-09,1024,Returning,Male,West,Nashik,Electronics,Laptop,9,50000,20,38000,Net Banking,360000.0,342000,18000.0,Delivered
+10865,2025-06-30,1208,New,Male,South,Hyderabad,Clothing,Shirt,5,800,20,400,Card,3200.0,2000,1200.0,Delivered
+10866,2025-09-25,1280,New,Female,East,Kolkata,Furniture,Sofa,1,25000,20,18000,Net Banking,20000.0,18000,2000.0,Pending
+10867,2025-01-13,1205,New,Male,North,Delhi,Electronics,Laptop,10,50000,5,38000,UPI,475000.0,380000,95000.0,Delivered
+10868,2025-04-30,1152,Returning,Female,East,Kolkata,Furniture,Chair,7,2500,0,1500,UPI,17500.0,10500,7000.0,Delivered
+10869,2025-12-19,1026,New,Male,South,Hyderabad,Electronics,Monitor,5,12000,15,8500,Net Banking,51000.0,42500,8500.0,Cancelled
+10870,2025-02-26,1194,New,Male,South,Hyderabad,Furniture,Chair,3,2500,5,1500,UPI,7125.0,4500,2625.0,Delivered
+10871,2025-02-09,1238,Returning,Female,East,Bhubaneswar,Clothing,Jeans,9,1500,10,800,Net Banking,12150.0,7200,4950.0,Delivered
+10872,2025-12-02,1075,Returning,Male,South,Bangalore,Clothing,TShirt,1,500,15,250,Card,425.0,250,175.0,Delivered
+10873,2025-05-08,1163,Returning,Male,West,Pune,Electronics,Headphones,1,3000,15,1800,Cash,2550.0,1800,750.0,Delivered
+10874,2025-06-22,1299,New,Female,East,Bhubaneswar,Electronics,Headphones,1,3000,15,1800,Net Banking,2550.0,1800,750.0,Delivered
+10875,2025-02-04,1029,New,Male,North,Chandigarh,Electronics,Headphones,3,3000,20,1800,Cash,7200.0,5400,1800.0,Pending
+10876,2025-09-16,1165,Returning,Female,East,Bhubaneswar,Clothing,Jacket,6,3500,15,1900,Cash,17850.0,11400,6450.0,Delivered
+10877,2025-01-05,1186,New,Male,West,Pune,Electronics,Monitor,10,12000,0,8500,Net Banking,120000.0,85000,35000.0,Delivered
+10878,2025-08-06,1054,New,Female,West,Nashik,Furniture,Chair,3,2500,15,1500,UPI,6375.0,4500,1875.0,Delivered
+10879,2025-01-11,1295,New,Female,West,Pune,Electronics,Monitor,8,12000,20,8500,Card,76800.0,68000,8800.0,Cancelled
+10880,2025-11-23,1042,Returning,Female,West,Nashik,Clothing,Shoes,10,2500,15,1300,Cash,21250.0,13000,8250.0,Delivered
+10881,2025-04-27,1285,Returning,Female,West,Pune,Clothing,TShirt,2,500,10,250,Card,900.0,500,400.0,Pending
+10882,2025-07-03,1138,New,Female,North,Chandigarh,Electronics,Monitor,9,12000,10,8500,Cash,97200.0,76500,20700.0,Delivered
+10883,2025-12-28,1187,New,Male,South,Bangalore,Electronics,Keyboard,3,1200,20,600,Net Banking,2880.0,1800,1080.0,Delivered
+10884,2025-04-26,1204,New,Male,West,Mumbai,Electronics,Mouse,5,500,0,200,UPI,2500.0,1000,1500.0,Delivered
+10885,2025-06-11,1042,New,Female,West,Mumbai,Electronics,Mouse,10,500,0,200,Card,5000.0,2000,3000.0,Delivered
+10886,2025-03-08,1288,Returning,Male,East,Kolkata,Electronics,Keyboard,8,1200,5,600,Cash,9120.0,4800,4320.0,Delivered
+10887,2025-07-19,1026,Returning,Female,North,Chandigarh,Clothing,Shirt,2,800,20,400,Net Banking,1280.0,800,480.0,Delivered
+10888,2025-01-31,1056,New,Male,North,Delhi,Electronics,Mobile,6,20000,15,14000,Net Banking,102000.0,84000,18000.0,Delivered
+10889,2025-03-16,1253,New,Male,South,Chennai,Clothing,Jacket,5,3500,20,1900,Cash,14000.0,9500,4500.0,Delivered
+10890,2025-08-25,1122,Returning,Female,North,Delhi,Clothing,Shirt,10,800,5,400,Cash,7600.0,4000,3600.0,Pending
+10891,2025-11-23,1106,New,Female,East,Kolkata,Electronics,Laptop,9,50000,20,38000,Cash,360000.0,342000,18000.0,Cancelled
+10892,2025-03-07,1130,Returning,Male,East,Kolkata,Furniture,Bookshelf,5,4500,20,2800,UPI,18000.0,14000,4000.0,Delivered
+10893,2025-03-11,1158,New,Male,South,Hyderabad,Clothing,Jacket,2,3500,5,1900,Cash,6650.0,3800,2850.0,Delivered
+10894,2025-10-24,1231,Returning,Female,East,Kolkata,Clothing,Jacket,5,3500,0,1900,Cash,17500.0,9500,8000.0,Delivered
+10895,2025-01-20,1091,New,Male,West,Pune,Electronics,Laptop,4,50000,15,38000,UPI,170000.0,152000,18000.0,Delivered
+10896,2025-08-14,1022,New,Male,West,Mumbai,Electronics,Monitor,7,12000,5,8500,Net Banking,79800.0,59500,20300.0,Cancelled
+10897,2025-07-18,1290,Returning,Female,East,Kolkata,Furniture,Chair,6,2500,10,1500,Cash,13500.0,9000,4500.0,Delivered
+10898,2025-02-08,1110,Returning,Male,South,Bangalore,Furniture,Chair,2,2500,0,1500,Card,5000.0,3000,2000.0,Pending
+10899,2025-05-25,1049,New,Female,North,Jaipur,Electronics,Mouse,5,500,10,200,Net Banking,2250.0,1000,1250.0,Cancelled
+10900,2025-02-14,1129,New,Female,South,Bangalore,Furniture,Table,7,6000,0,3500,Card,42000.0,24500,17500.0,Pending
+10901,2025-11-22,1073,Returning,Female,North,Jaipur,Clothing,Shirt,7,800,15,400,Cash,4760.0,2800,1960.0,Delivered
+10902,2025-04-01,1053,Returning,Male,East,Patna,Clothing,Shoes,5,2500,15,1300,UPI,10625.0,6500,4125.0,Delivered
+10903,2025-08-26,1168,New,Male,East,Kolkata,Clothing,TShirt,9,500,20,250,UPI,3600.0,2250,1350.0,Delivered
+10904,2025-03-11,1045,New,Female,West,Pune,Clothing,Jeans,4,1500,10,800,UPI,5400.0,3200,2200.0,Delivered
+10905,2025-06-15,1105,Returning,Female,North,Chandigarh,Furniture,Sofa,3,25000,0,18000,Cash,75000.0,54000,21000.0,Delivered
+10906,2025-05-10,1150,Returning,Male,South,Bangalore,Furniture,Chair,4,2500,15,1500,Cash,8500.0,6000,2500.0,Delivered
+10907,2025-08-02,1146,Returning,Male,East,Kolkata,Clothing,TShirt,5,500,5,250,Card,2375.0,1250,1125.0,Delivered
+10908,2025-12-06,1204,Returning,Male,South,Chennai,Furniture,Sofa,6,25000,15,18000,UPI,127500.0,108000,19500.0,Delivered
+10909,2025-03-30,1299,Returning,Female,West,Pune,Clothing,TShirt,3,500,5,250,Cash,1425.0,750,675.0,Delivered
+10910,2025-12-01,1167,New,Female,North,Delhi,Electronics,Monitor,2,12000,0,8500,Net Banking,24000.0,17000,7000.0,Delivered
+10911,2025-09-09,1201,New,Male,North,Chandigarh,Furniture,Sofa,4,25000,15,18000,Cash,85000.0,72000,13000.0,Delivered
+10912,2025-12-15,1134,Returning,Male,East,Patna,Clothing,Jeans,5,1500,15,800,Cash,6375.0,4000,2375.0,Delivered
+10913,2025-03-13,1211,New,Male,North,Jaipur,Clothing,TShirt,4,500,0,250,Net Banking,2000.0,1000,1000.0,Delivered
+10914,2025-06-14,1048,New,Female,East,Bhubaneswar,Electronics,Keyboard,3,1200,15,600,UPI,3060.0,1800,1260.0,Delivered
+10915,2025-02-18,1126,Returning,Female,West,Nashik,Clothing,Jeans,8,1500,5,800,Net Banking,11400.0,6400,5000.0,Delivered
+10916,2025-02-21,1239,New,Male,North,Delhi,Furniture,Sofa,10,25000,15,18000,UPI,212500.0,180000,32500.0,Delivered
+10917,2025-10-16,1007,New,Male,East,Bhubaneswar,Clothing,Jeans,4,1500,10,800,Net Banking,5400.0,3200,2200.0,Delivered
+10918,2025-10-05,1272,New,Female,South,Bangalore,Clothing,TShirt,2,500,20,250,Card,800.0,500,300.0,Delivered
+10919,2025-04-24,1037,Returning,Female,East,Bhubaneswar,Electronics,Mobile,2,20000,5,14000,UPI,38000.0,28000,10000.0,Delivered
+10920,2025-08-27,1211,Returning,Male,North,Jaipur,Clothing,TShirt,1,500,10,250,Cash,450.0,250,200.0,Delivered
+10921,2025-05-13,1165,New,Male,West,Mumbai,Clothing,TShirt,4,500,0,250,Card,2000.0,1000,1000.0,Delivered
+10922,2025-10-01,1125,New,Male,North,Delhi,Electronics,Monitor,10,12000,5,8500,UPI,114000.0,85000,29000.0,Delivered
+10923,2025-06-15,1192,New,Female,North,Delhi,Clothing,Shirt,9,800,20,400,UPI,5760.0,3600,2160.0,Pending
+10924,2025-10-20,1218,New,Male,East,Bhubaneswar,Electronics,Keyboard,7,1200,20,600,UPI,6720.0,4200,2520.0,Delivered
+10925,2025-08-31,1214,New,Female,South,Chennai,Clothing,Shoes,10,2500,0,1300,Net Banking,25000.0,13000,12000.0,Cancelled
+10926,2025-11-16,1062,New,Female,North,Delhi,Furniture,Chair,7,2500,0,1500,UPI,17500.0,10500,7000.0,Delivered
+10927,2025-05-18,1161,Returning,Male,South,Bangalore,Clothing,Jacket,7,3500,5,1900,Cash,23275.0,13300,9975.0,Delivered
+10928,2025-03-20,1066,New,Male,East,Kolkata,Electronics,Laptop,8,50000,15,38000,UPI,340000.0,304000,36000.0,Delivered
+10929,2025-06-19,1286,New,Female,South,Bangalore,Clothing,Shirt,1,800,0,400,Cash,800.0,400,400.0,Delivered
+10930,2025-05-03,1239,Returning,Male,East,Patna,Electronics,Laptop,10,50000,15,38000,Cash,425000.0,380000,45000.0,Delivered
+10931,2025-06-25,1020,New,Female,West,Nashik,Electronics,Monitor,10,12000,10,8500,Cash,108000.0,85000,23000.0,Delivered
+10932,2025-10-27,1188,New,Male,South,Chennai,Electronics,Keyboard,8,1200,20,600,Card,7680.0,4800,2880.0,Delivered
+10933,2025-03-23,1082,New,Male,South,Bangalore,Electronics,Headphones,4,3000,15,1800,Cash,10200.0,7200,3000.0,Delivered
+10934,2025-03-28,1202,New,Male,West,Pune,Clothing,TShirt,4,500,20,250,Net Banking,1600.0,1000,600.0,Delivered
+10935,2025-08-13,1132,Returning,Male,South,Bangalore,Electronics,Headphones,4,3000,15,1800,UPI,10200.0,7200,3000.0,Pending
+10936,2025-01-16,1037,New,Female,West,Nashik,Electronics,Headphones,6,3000,10,1800,Net Banking,16200.0,10800,5400.0,Delivered
+10937,2025-11-06,1132,Returning,Female,North,Chandigarh,Furniture,Bookshelf,7,4500,0,2800,Card,31500.0,19600,11900.0,Delivered
+10938,2025-12-24,1077,New,Female,East,Bhubaneswar,Electronics,Mouse,6,500,10,200,UPI,2700.0,1200,1500.0,Delivered
+10939,2025-06-12,1089,New,Male,West,Mumbai,Electronics,Headphones,1,3000,0,1800,Cash,3000.0,1800,1200.0,Delivered
+10940,2025-04-08,1253,Returning,Female,South,Chennai,Furniture,Chair,8,2500,0,1500,UPI,20000.0,12000,8000.0,Pending
+10941,2025-06-05,1194,New,Female,West,Nashik,Electronics,Mobile,10,20000,20,14000,Card,160000.0,140000,20000.0,Delivered
+10942,2025-01-02,1176,Returning,Female,South,Bangalore,Electronics,Mouse,7,500,10,200,Card,3150.0,1400,1750.0,Delivered
+10943,2025-12-16,1033,Returning,Male,North,Delhi,Electronics,Monitor,6,12000,15,8500,Net Banking,61200.0,51000,10200.0,Delivered
+10944,2025-06-18,1058,Returning,Female,West,Pune,Clothing,Jacket,6,3500,10,1900,UPI,18900.0,11400,7500.0,Delivered
+10945,2025-11-11,1201,New,Male,North,Chandigarh,Clothing,Shirt,5,800,20,400,UPI,3200.0,2000,1200.0,Delivered
+10946,2025-11-21,1028,New,Male,East,Kolkata,Electronics,Mobile,6,20000,0,14000,UPI,120000.0,84000,36000.0,Pending
+10947,2025-04-02,1035,New,Female,South,Chennai,Clothing,Jeans,9,1500,20,800,Net Banking,10800.0,7200,3600.0,Delivered
+10948,2025-06-30,1125,New,Male,South,Hyderabad,Furniture,Sofa,10,25000,5,18000,Card,237500.0,180000,57500.0,Cancelled
+10949,2025-08-19,1042,Returning,Female,North,Jaipur,Furniture,Bookshelf,9,4500,5,2800,Cash,38475.0,25200,13275.0,Pending
+10950,2025-10-28,1085,New,Female,East,Patna,Electronics,Mobile,10,20000,15,14000,UPI,170000.0,140000,30000.0,Delivered
+10951,2025-05-28,1188,New,Female,West,Mumbai,Clothing,Shoes,8,2500,20,1300,Net Banking,16000.0,10400,5600.0,Delivered
+10952,2025-10-07,1111,Returning,Female,West,Mumbai,Electronics,Headphones,10,3000,15,1800,Net Banking,25500.0,18000,7500.0,Delivered
+10953,2025-07-08,1271,Returning,Female,South,Bangalore,Electronics,Monitor,9,12000,15,8500,Cash,91800.0,76500,15300.0,Delivered
+10954,2025-12-13,1105,New,Male,North,Jaipur,Furniture,Table,10,6000,5,3500,Card,57000.0,35000,22000.0,Delivered
+10955,2025-12-16,1041,Returning,Female,North,Delhi,Furniture,Sofa,8,25000,15,18000,UPI,170000.0,144000,26000.0,Cancelled
+10956,2025-11-10,1215,Returning,Male,West,Pune,Electronics,Laptop,8,50000,5,38000,UPI,380000.0,304000,76000.0,Delivered
+10957,2025-05-08,1071,Returning,Female,East,Patna,Furniture,Chair,1,2500,0,1500,Net Banking,2500.0,1500,1000.0,Delivered
+10958,2025-01-07,1056,Returning,Female,East,Kolkata,Electronics,Laptop,10,50000,20,38000,Card,400000.0,380000,20000.0,Delivered
+10959,2025-02-16,1236,Returning,Female,West,Nashik,Electronics,Mobile,5,20000,15,14000,UPI,85000.0,70000,15000.0,Delivered
+10960,2025-02-22,1281,New,Male,West,Nashik,Clothing,Jacket,4,3500,5,1900,Cash,13300.0,7600,5700.0,Pending
+10961,2025-07-06,1105,New,Male,North,Chandigarh,Electronics,Laptop,2,50000,10,38000,Card,90000.0,76000,14000.0,Delivered
+10962,2025-02-07,1162,New,Male,East,Patna,Clothing,Shoes,8,2500,15,1300,Card,17000.0,10400,6600.0,Delivered
+10963,2025-08-14,1191,New,Male,West,Pune,Electronics,Monitor,3,12000,0,8500,Net Banking,36000.0,25500,10500.0,Delivered
+10964,2025-02-22,1009,New,Female,West,Pune,Clothing,Jeans,4,1500,0,800,Net Banking,6000.0,3200,2800.0,Pending
+10965,2025-08-12,1060,New,Female,South,Bangalore,Clothing,Jacket,7,3500,10,1900,UPI,22050.0,13300,8750.0,Delivered
+10966,2025-06-03,1225,New,Male,West,Pune,Clothing,Shirt,10,800,5,400,Net Banking,7600.0,4000,3600.0,Cancelled
+10967,2025-02-17,1188,Returning,Male,West,Mumbai,Furniture,Chair,9,2500,15,1500,Card,19125.0,13500,5625.0,Delivered
+10968,2025-12-17,1070,New,Male,East,Kolkata,Clothing,Shoes,2,2500,5,1300,UPI,4750.0,2600,2150.0,Delivered
+10969,2025-05-27,1293,New,Female,North,Chandigarh,Clothing,Shoes,3,2500,0,1300,UPI,7500.0,3900,3600.0,Delivered
+10970,2025-03-05,1287,New,Male,East,Bhubaneswar,Electronics,Laptop,4,50000,5,38000,Card,190000.0,152000,38000.0,Delivered
+10971,2025-12-15,1169,Returning,Male,North,Chandigarh,Electronics,Headphones,10,3000,0,1800,UPI,30000.0,18000,12000.0,Delivered
+10972,2025-07-01,1062,New,Female,South,Bangalore,Electronics,Laptop,1,50000,5,38000,Cash,47500.0,38000,9500.0,Delivered
+10973,2025-05-05,1014,New,Male,West,Mumbai,Electronics,Mobile,7,20000,10,14000,Cash,126000.0,98000,28000.0,Delivered
+10974,2025-06-28,1164,Returning,Female,South,Bangalore,Clothing,Shirt,2,800,20,400,UPI,1280.0,800,480.0,Delivered
+10975,2025-02-08,1245,New,Female,North,Jaipur,Electronics,Mouse,5,500,10,200,Net Banking,2250.0,1000,1250.0,Delivered
+10976,2025-09-17,1008,New,Female,East,Kolkata,Clothing,Jacket,1,3500,10,1900,Cash,3150.0,1900,1250.0,Delivered
+10977,2025-01-03,1154,Returning,Female,East,Bhubaneswar,Electronics,Laptop,3,50000,20,38000,UPI,120000.0,114000,6000.0,Delivered
+10978,2025-03-05,1036,New,Female,South,Hyderabad,Electronics,Monitor,2,12000,20,8500,Cash,19200.0,17000,2200.0,Delivered
+10979,2025-01-29,1048,Returning,Male,North,Delhi,Furniture,Table,1,6000,15,3500,Net Banking,5100.0,3500,1600.0,Delivered
+10980,2025-01-11,1085,New,Male,South,Bangalore,Furniture,Chair,7,2500,15,1500,Card,14875.0,10500,4375.0,Delivered
+10981,2025-04-07,1028,New,Female,South,Hyderabad,Clothing,TShirt,5,500,10,250,UPI,2250.0,1250,1000.0,Delivered
+10982,2025-12-24,1196,New,Female,West,Mumbai,Electronics,Laptop,1,50000,10,38000,UPI,45000.0,38000,7000.0,Pending
+10983,2025-07-22,1208,Returning,Male,South,Hyderabad,Electronics,Monitor,6,12000,0,8500,UPI,72000.0,51000,21000.0,Delivered
+10984,2025-01-21,1204,Returning,Male,West,Pune,Clothing,Jacket,5,3500,0,1900,UPI,17500.0,9500,8000.0,Delivered
+10985,2025-02-08,1104,Returning,Female,West,Nashik,Electronics,Monitor,3,12000,15,8500,UPI,30600.0,25500,5100.0,Pending
+10986,2025-08-11,1230,New,Male,East,Patna,Furniture,Chair,7,2500,15,1500,UPI,14875.0,10500,4375.0,Cancelled
+10987,2025-04-12,1101,New,Male,West,Mumbai,Electronics,Mouse,10,500,0,200,Net Banking,5000.0,2000,3000.0,Delivered
+10988,2025-02-15,1029,Returning,Female,West,Mumbai,Electronics,Monitor,9,12000,0,8500,Card,108000.0,76500,31500.0,Cancelled
+10989,2025-03-07,1127,Returning,Male,East,Patna,Furniture,Table,9,6000,5,3500,Net Banking,51300.0,31500,19800.0,Delivered
+10990,2025-04-01,1010,New,Male,South,Bangalore,Electronics,Monitor,9,12000,5,8500,Net Banking,102600.0,76500,26100.0,Delivered
+10991,2025-06-13,1106,New,Male,North,Jaipur,Electronics,Monitor,2,12000,0,8500,Card,24000.0,17000,7000.0,Delivered
+10992,2025-04-21,1167,New,Male,North,Delhi,Electronics,Monitor,3,12000,5,8500,Net Banking,34200.0,25500,8700.0,Delivered
+10993,2025-12-04,1257,New,Female,North,Chandigarh,Clothing,Jeans,7,1500,20,800,Cash,8400.0,5600,2800.0,Delivered
+10994,2025-05-03,1295,Returning,Male,South,Bangalore,Clothing,Jeans,5,1500,15,800,Net Banking,6375.0,4000,2375.0,Pending
+10995,2025-07-12,1277,New,Female,West,Nashik,Electronics,Mouse,2,500,15,200,UPI,850.0,400,450.0,Cancelled
+10996,2025-04-09,1065,New,Male,North,Chandigarh,Electronics,Laptop,3,50000,0,38000,Cash,150000.0,114000,36000.0,Delivered
+10997,2025-10-18,1271,New,Female,South,Chennai,Electronics,Monitor,10,12000,10,8500,Cash,108000.0,85000,23000.0,Delivered
+10998,2025-06-08,1188,New,Female,West,Mumbai,Furniture,Bookshelf,6,4500,0,2800,Card,27000.0,16800,10200.0,Delivered
+10999,2025-04-13,1138,New,Male,East,Patna,Clothing,Shirt,7,800,5,400,Net Banking,5320.0,2800,2520.0,Delivered
+11000,2025-10-08,1105,New,Female,North,Delhi,Furniture,Bookshelf,9,4500,10,2800,Net Banking,36450.0,25200,11250.0,Delivered
+11001,2025-02-12,1034,New,Female,West,Nashik,Electronics,Laptop,1,50000,5,38000,Cash,47500.0,38000,9500.0,Delivered
+11002,2025-03-25,1110,Returning,Female,North,Chandigarh,Electronics,Mouse,7,500,20,200,Net Banking,2800.0,1400,1400.0,Cancelled
+11003,2025-07-10,1033,Returning,Female,North,Delhi,Electronics,Headphones,8,3000,5,1800,Net Banking,22800.0,14400,8400.0,Delivered
+11004,2025-02-20,1231,Returning,Female,North,Delhi,Electronics,Headphones,3,3000,20,1800,Card,7200.0,5400,1800.0,Delivered
+11005,2025-07-29,1266,New,Male,West,Pune,Electronics,Keyboard,4,1200,20,600,Cash,3840.0,2400,1440.0,Delivered
+11006,2025-05-06,1182,Returning,Female,South,Bangalore,Furniture,Bookshelf,10,4500,5,2800,UPI,42750.0,28000,14750.0,Delivered
+11007,2025-03-10,1065,New,Female,West,Mumbai,Electronics,Laptop,6,50000,5,38000,Cash,285000.0,228000,57000.0,Pending
+11008,2025-09-22,1001,New,Male,North,Delhi,Electronics,Laptop,10,50000,20,38000,Card,400000.0,380000,20000.0,Delivered
+11009,2025-09-15,1133,New,Male,West,Pune,Furniture,Sofa,7,25000,10,18000,Card,157500.0,126000,31500.0,Delivered
+11010,2025-07-07,1080,New,Female,East,Kolkata,Electronics,Mobile,4,20000,20,14000,Card,64000.0,56000,8000.0,Delivered
+11011,2025-08-18,1271,Returning,Male,South,Hyderabad,Clothing,TShirt,8,500,15,250,Net Banking,3400.0,2000,1400.0,Delivered
+11012,2025-07-08,1241,New,Male,West,Pune,Clothing,Jacket,5,3500,20,1900,Cash,14000.0,9500,4500.0,Delivered
+11013,2025-01-10,1028,New,Male,East,Patna,Furniture,Sofa,1,25000,10,18000,Net Banking,22500.0,18000,4500.0,Delivered
+11014,2025-04-24,1223,Returning,Male,South,Hyderabad,Furniture,Table,4,6000,15,3500,Net Banking,20400.0,14000,6400.0,Delivered
+11015,2025-03-17,1023,Returning,Male,East,Bhubaneswar,Clothing,Jeans,3,1500,0,800,Cash,4500.0,2400,2100.0,Delivered
+11016,2025-06-13,1109,Returning,Male,South,Hyderabad,Clothing,Jeans,9,1500,0,800,Card,13500.0,7200,6300.0,Delivered
+11017,2025-03-26,1107,New,Female,West,Mumbai,Electronics,Mobile,8,20000,10,14000,UPI,144000.0,112000,32000.0,Delivered
+11018,2025-02-18,1145,Returning,Female,East,Bhubaneswar,Furniture,Chair,1,2500,20,1500,UPI,2000.0,1500,500.0,Delivered
+11019,2025-11-22,1139,New,Male,North,Delhi,Furniture,Chair,6,2500,5,1500,Cash,14250.0,9000,5250.0,Delivered
+11020,2025-06-26,1284,New,Male,East,Patna,Electronics,Mouse,9,500,10,200,Cash,4050.0,1800,2250.0,Cancelled
+11021,2025-08-06,1298,Returning,Female,South,Chennai,Clothing,Shoes,7,2500,15,1300,Card,14875.0,9100,5775.0,Delivered
+11022,2025-07-08,1099,Returning,Male,West,Nashik,Electronics,Mobile,4,20000,15,14000,Cash,68000.0,56000,12000.0,Delivered
+11023,2025-12-12,1123,Returning,Female,South,Bangalore,Clothing,TShirt,1,500,0,250,Cash,500.0,250,250.0,Delivered
+11024,2025-08-18,1287,New,Male,East,Bhubaneswar,Electronics,Laptop,2,50000,15,38000,Card,85000.0,76000,9000.0,Delivered
+11025,2025-09-12,1081,New,Female,East,Bhubaneswar,Furniture,Chair,5,2500,10,1500,Card,11250.0,7500,3750.0,Delivered
+11026,2025-08-24,1010,New,Female,North,Delhi,Clothing,TShirt,5,500,15,250,Net Banking,2125.0,1250,875.0,Pending
+11027,2025-01-26,1008,New,Male,West,Nashik,Electronics,Monitor,8,12000,10,8500,Cash,86400.0,68000,18400.0,Delivered
+11028,2025-03-13,1205,New,Male,West,Pune,Furniture,Bookshelf,6,4500,5,2800,UPI,25650.0,16800,8850.0,Delivered
+11029,2025-09-18,1197,New,Male,East,Bhubaneswar,Furniture,Bookshelf,8,4500,0,2800,Cash,36000.0,22400,13600.0,Delivered
+11030,2025-09-11,1198,Returning,Male,West,Mumbai,Clothing,Shoes,2,2500,15,1300,UPI,4250.0,2600,1650.0,Pending
+11031,2025-09-28,1030,New,Female,North,Delhi,Clothing,Shirt,3,800,10,400,UPI,2160.0,1200,960.0,Delivered
+11032,2025-05-03,1020,Returning,Male,South,Chennai,Electronics,Laptop,6,50000,20,38000,UPI,240000.0,228000,12000.0,Delivered
+11033,2025-05-24,1048,Returning,Female,West,Mumbai,Clothing,Jacket,10,3500,0,1900,Net Banking,35000.0,19000,16000.0,Cancelled
+11034,2025-09-14,1130,Returning,Male,East,Kolkata,Clothing,Jacket,3,3500,5,1900,Card,9975.0,5700,4275.0,Delivered
+11035,2025-05-24,1293,Returning,Female,South,Chennai,Furniture,Table,6,6000,10,3500,Card,32400.0,21000,11400.0,Delivered
+11036,2025-09-16,1132,Returning,Male,South,Hyderabad,Clothing,Jacket,6,3500,5,1900,Net Banking,19950.0,11400,8550.0,Delivered
+11037,2025-02-16,1054,New,Male,North,Jaipur,Electronics,Monitor,2,12000,5,8500,Card,22800.0,17000,5800.0,Delivered
+11038,2025-12-17,1281,New,Female,East,Bhubaneswar,Electronics,Monitor,7,12000,15,8500,Net Banking,71400.0,59500,11900.0,Delivered
+11039,2025-01-13,1265,New,Male,West,Pune,Furniture,Bookshelf,2,4500,15,2800,Cash,7650.0,5600,2050.0,Delivered
+11040,2025-07-27,1215,New,Male,East,Bhubaneswar,Electronics,Mobile,6,20000,10,14000,Net Banking,108000.0,84000,24000.0,Delivered
+11041,2025-11-07,1290,Returning,Male,South,Chennai,Clothing,Shoes,1,2500,20,1300,Card,2000.0,1300,700.0,Pending
+11042,2025-08-23,1043,Returning,Male,East,Bhubaneswar,Electronics,Mouse,3,500,10,200,Card,1350.0,600,750.0,Pending
+11043,2025-05-29,1074,Returning,Male,West,Pune,Furniture,Table,2,6000,20,3500,Cash,9600.0,7000,2600.0,Delivered
+11044,2025-11-18,1278,New,Female,West,Nashik,Furniture,Chair,7,2500,5,1500,Net Banking,16625.0,10500,6125.0,Delivered
+11045,2025-06-04,1242,New,Male,North,Jaipur,Clothing,TShirt,4,500,0,250,Cash,2000.0,1000,1000.0,Delivered
+11046,2025-06-15,1130,New,Female,West,Mumbai,Electronics,Mobile,8,20000,10,14000,UPI,144000.0,112000,32000.0,Delivered
+11047,2025-03-31,1194,New,Male,West,Nashik,Furniture,Chair,6,2500,10,1500,Net Banking,13500.0,9000,4500.0,Delivered
+11048,2025-07-05,1032,Returning,Male,East,Patna,Electronics,Mobile,10,20000,20,14000,Cash,160000.0,140000,20000.0,Delivered
+11049,2025-11-14,1106,Returning,Female,East,Bhubaneswar,Electronics,Mobile,4,20000,5,14000,Cash,76000.0,56000,20000.0,Delivered
+11050,2025-12-24,1204,New,Female,South,Hyderabad,Electronics,Mobile,5,20000,5,14000,Card,95000.0,70000,25000.0,Delivered
+11051,2025-06-23,1001,New,Female,North,Jaipur,Furniture,Bookshelf,9,4500,20,2800,Net Banking,32400.0,25200,7200.0,Delivered
+11052,2025-08-05,1245,Returning,Female,East,Bhubaneswar,Clothing,Jacket,7,3500,5,1900,UPI,23275.0,13300,9975.0,Delivered
+11053,2025-09-21,1072,Returning,Female,West,Pune,Clothing,Shoes,10,2500,15,1300,UPI,21250.0,13000,8250.0,Delivered
+11054,2025-04-07,1015,Returning,Male,South,Bangalore,Electronics,Mouse,9,500,0,200,Net Banking,4500.0,1800,2700.0,Delivered
+11055,2025-04-27,1053,Returning,Female,East,Bhubaneswar,Clothing,Jacket,7,3500,10,1900,Net Banking,22050.0,13300,8750.0,Delivered
+11056,2025-07-18,1008,New,Female,North,Delhi,Electronics,Mobile,1,20000,0,14000,Cash,20000.0,14000,6000.0,Delivered
+11057,2025-11-16,1046,Returning,Male,North,Chandigarh,Electronics,Keyboard,8,1200,10,600,Card,8640.0,4800,3840.0,Delivered
+11058,2025-01-21,1114,Returning,Male,South,Hyderabad,Clothing,Shirt,4,800,15,400,Card,2720.0,1600,1120.0,Delivered
+11059,2025-07-19,1147,Returning,Female,South,Hyderabad,Furniture,Chair,3,2500,5,1500,Card,7125.0,4500,2625.0,Delivered
+11060,2025-12-07,1166,Returning,Female,South,Chennai,Electronics,Laptop,7,50000,20,38000,Net Banking,280000.0,266000,14000.0,Delivered
+11061,2025-09-05,1139,New,Female,South,Bangalore,Furniture,Sofa,3,25000,15,18000,Card,63750.0,54000,9750.0,Pending
+11062,2025-10-03,1117,New,Male,South,Hyderabad,Clothing,Jacket,8,3500,0,1900,Cash,28000.0,15200,12800.0,Delivered
+11063,2025-09-21,1299,New,Female,West,Pune,Clothing,TShirt,6,500,20,250,Net Banking,2400.0,1500,900.0,Delivered
+11064,2025-02-27,1276,New,Male,West,Nashik,Furniture,Bookshelf,5,4500,5,2800,Net Banking,21375.0,14000,7375.0,Delivered
+11065,2025-10-29,1277,New,Male,East,Patna,Furniture,Table,4,6000,15,3500,Card,20400.0,14000,6400.0,Pending
+11066,2025-01-31,1178,New,Male,North,Chandigarh,Clothing,Jeans,8,1500,20,800,UPI,9600.0,6400,3200.0,Delivered
+11067,2025-09-06,1154,Returning,Male,West,Mumbai,Electronics,Mouse,8,500,15,200,UPI,3400.0,1600,1800.0,Delivered
+11068,2025-04-03,1201,Returning,Female,West,Mumbai,Electronics,Laptop,1,50000,15,38000,Cash,42500.0,38000,4500.0,Delivered
+11069,2025-09-22,1115,Returning,Male,West,Nashik,Electronics,Monitor,9,12000,5,8500,Card,102600.0,76500,26100.0,Delivered
+11070,2025-09-28,1159,Returning,Male,East,Patna,Electronics,Headphones,5,3000,10,1800,Card,13500.0,9000,4500.0,Delivered
+11071,2025-04-04,1042,New,Female,South,Hyderabad,Electronics,Keyboard,4,1200,20,600,Net Banking,3840.0,2400,1440.0,Delivered
+11072,2025-06-03,1247,Returning,Male,East,Patna,Clothing,Jeans,6,1500,5,800,Net Banking,8550.0,4800,3750.0,Pending
+11073,2025-10-12,1068,New,Female,North,Chandigarh,Furniture,Sofa,6,25000,15,18000,Card,127500.0,108000,19500.0,Delivered
+11074,2025-03-21,1196,Returning,Male,North,Jaipur,Electronics,Laptop,2,50000,5,38000,Net Banking,95000.0,76000,19000.0,Cancelled
+11075,2025-10-19,1090,Returning,Female,North,Delhi,Clothing,Jeans,8,1500,10,800,Card,10800.0,6400,4400.0,Delivered
+11076,2025-03-25,1111,Returning,Male,North,Chandigarh,Electronics,Laptop,7,50000,20,38000,Cash,280000.0,266000,14000.0,Cancelled
+11077,2025-12-31,1145,New,Male,West,Mumbai,Clothing,TShirt,1,500,10,250,Net Banking,450.0,250,200.0,Delivered
+11078,2025-02-06,1275,Returning,Female,West,Mumbai,Electronics,Keyboard,5,1200,0,600,Card,6000.0,3000,3000.0,Delivered
+11079,2025-12-08,1179,New,Male,East,Bhubaneswar,Furniture,Sofa,6,25000,20,18000,Net Banking,120000.0,108000,12000.0,Pending
+11080,2025-11-23,1241,New,Male,South,Hyderabad,Electronics,Monitor,4,12000,10,8500,Cash,43200.0,34000,9200.0,Pending
+11081,2025-08-20,1153,Returning,Female,North,Jaipur,Electronics,Mobile,2,20000,15,14000,Net Banking,34000.0,28000,6000.0,Delivered
+11082,2025-04-03,1104,New,Male,East,Patna,Furniture,Chair,4,2500,20,1500,Card,8000.0,6000,2000.0,Delivered
+11083,2025-12-02,1075,New,Male,West,Mumbai,Electronics,Monitor,1,12000,20,8500,Net Banking,9600.0,8500,1100.0,Pending
+11084,2025-04-12,1128,Returning,Female,West,Pune,Electronics,Mobile,7,20000,5,14000,Net Banking,133000.0,98000,35000.0,Delivered
+11085,2025-06-15,1199,Returning,Female,South,Chennai,Electronics,Headphones,2,3000,15,1800,Card,5100.0,3600,1500.0,Delivered
+11086,2025-06-08,1154,Returning,Female,South,Hyderabad,Furniture,Bookshelf,2,4500,0,2800,UPI,9000.0,5600,3400.0,Pending
+11087,2025-01-14,1056,Returning,Female,South,Chennai,Clothing,Shoes,9,2500,10,1300,Net Banking,20250.0,11700,8550.0,Delivered
+11088,2025-08-13,1278,Returning,Female,East,Kolkata,Clothing,Shoes,5,2500,5,1300,Net Banking,11875.0,6500,5375.0,Delivered
+11089,2025-03-14,1019,Returning,Male,West,Pune,Clothing,Shoes,2,2500,10,1300,Cash,4500.0,2600,1900.0,Delivered
+11090,2025-09-06,1159,New,Female,West,Mumbai,Electronics,Mouse,9,500,0,200,UPI,4500.0,1800,2700.0,Delivered
+11091,2025-04-01,1026,Returning,Male,South,Hyderabad,Clothing,Jacket,9,3500,0,1900,Cash,31500.0,17100,14400.0,Delivered
+11092,2025-08-04,1169,Returning,Female,North,Delhi,Clothing,Shirt,1,800,20,400,Card,640.0,400,240.0,Cancelled
+11093,2025-03-31,1023,New,Male,South,Chennai,Furniture,Table,3,6000,0,3500,Card,18000.0,10500,7500.0,Delivered
+11094,2025-01-29,1047,Returning,Male,East,Bhubaneswar,Furniture,Table,4,6000,10,3500,Cash,21600.0,14000,7600.0,Pending
+11095,2025-11-01,1013,New,Female,South,Chennai,Clothing,Jacket,7,3500,15,1900,Net Banking,20825.0,13300,7525.0,Pending
+11096,2025-08-08,1217,Returning,Male,South,Hyderabad,Clothing,Shoes,10,2500,15,1300,UPI,21250.0,13000,8250.0,Delivered
+11097,2025-11-24,1194,Returning,Male,East,Bhubaneswar,Furniture,Chair,4,2500,20,1500,Cash,8000.0,6000,2000.0,Delivered
+11098,2025-08-03,1144,New,Female,South,Chennai,Furniture,Sofa,2,25000,10,18000,Cash,45000.0,36000,9000.0,Delivered
+11099,2025-08-09,1073,Returning,Female,West,Pune,Electronics,Keyboard,7,1200,10,600,Card,7560.0,4200,3360.0,Delivered
+11100,2025-02-11,1156,New,Female,North,Chandigarh,Furniture,Sofa,6,25000,0,18000,Net Banking,150000.0,108000,42000.0,Delivered
+11101,2025-05-15,1077,Returning,Female,South,Hyderabad,Electronics,Keyboard,3,1200,10,600,UPI,3240.0,1800,1440.0,Delivered
+11102,2025-02-11,1169,Returning,Male,East,Patna,Furniture,Sofa,6,25000,5,18000,Cash,142500.0,108000,34500.0,Delivered
+11103,2025-06-13,1287,New,Male,North,Delhi,Clothing,Shirt,6,800,0,400,UPI,4800.0,2400,2400.0,Delivered
+11104,2025-12-27,1085,Returning,Male,East,Patna,Electronics,Mouse,5,500,5,200,UPI,2375.0,1000,1375.0,Delivered
+11105,2025-10-10,1182,Returning,Male,North,Chandigarh,Electronics,Mouse,4,500,20,200,Cash,1600.0,800,800.0,Delivered
+11106,2025-02-27,1297,New,Male,North,Jaipur,Clothing,Shoes,10,2500,15,1300,UPI,21250.0,13000,8250.0,Delivered
+11107,2025-10-29,1112,Returning,Male,South,Bangalore,Electronics,Headphones,1,3000,20,1800,Card,2400.0,1800,600.0,Delivered
+11108,2025-11-18,1230,New,Female,West,Pune,Electronics,Mobile,10,20000,15,14000,Net Banking,170000.0,140000,30000.0,Delivered
+11109,2025-01-25,1096,Returning,Male,South,Hyderabad,Electronics,Headphones,6,3000,20,1800,Net Banking,14400.0,10800,3600.0,Delivered
+11110,2025-03-14,1168,New,Male,East,Patna,Clothing,Jeans,2,1500,10,800,Net Banking,2700.0,1600,1100.0,Delivered
+11111,2025-05-09,1156,Returning,Male,East,Bhubaneswar,Electronics,Mouse,3,500,5,200,Card,1425.0,600,825.0,Delivered
+11112,2025-03-28,1105,New,Female,North,Chandigarh,Electronics,Mouse,8,500,15,200,Card,3400.0,1600,1800.0,Delivered
+11113,2025-11-26,1193,New,Female,North,Jaipur,Electronics,Monitor,10,12000,0,8500,Card,120000.0,85000,35000.0,Delivered
+11114,2025-06-02,1132,Returning,Female,West,Nashik,Electronics,Monitor,6,12000,5,8500,Net Banking,68400.0,51000,17400.0,Delivered
+11115,2025-07-01,1138,Returning,Female,South,Hyderabad,Electronics,Mobile,3,20000,0,14000,UPI,60000.0,42000,18000.0,Delivered
+11116,2025-05-05,1270,New,Male,East,Kolkata,Clothing,TShirt,7,500,5,250,Card,3325.0,1750,1575.0,Delivered
+11117,2025-03-08,1038,Returning,Male,North,Delhi,Clothing,Jeans,4,1500,5,800,Cash,5700.0,3200,2500.0,Cancelled
+11118,2025-01-06,1045,New,Male,West,Mumbai,Electronics,Headphones,9,3000,20,1800,Card,21600.0,16200,5400.0,Delivered
+11119,2025-05-05,1163,Returning,Female,East,Kolkata,Furniture,Chair,5,2500,15,1500,Cash,10625.0,7500,3125.0,Cancelled
+11120,2025-11-10,1253,Returning,Male,North,Chandigarh,Electronics,Monitor,3,12000,15,8500,Net Banking,30600.0,25500,5100.0,Delivered
+11121,2025-11-22,1169,New,Male,East,Patna,Furniture,Chair,2,2500,5,1500,Cash,4750.0,3000,1750.0,Delivered
+11122,2025-02-22,1285,New,Male,West,Nashik,Electronics,Laptop,2,50000,10,38000,Card,90000.0,76000,14000.0,Delivered
+11123,2025-03-07,1274,Returning,Female,West,Nashik,Electronics,Monitor,3,12000,10,8500,Card,32400.0,25500,6900.0,Delivered
+11124,2025-11-10,1020,Returning,Female,East,Bhubaneswar,Clothing,Shirt,2,800,0,400,UPI,1600.0,800,800.0,Delivered
+11125,2025-03-23,1239,Returning,Female,South,Chennai,Clothing,TShirt,4,500,0,250,Net Banking,2000.0,1000,1000.0,Delivered
+11126,2025-03-28,1270,Returning,Male,East,Kolkata,Clothing,Jeans,2,1500,20,800,Cash,2400.0,1600,800.0,Delivered
+11127,2025-01-02,1031,Returning,Male,North,Chandigarh,Furniture,Bookshelf,10,4500,5,2800,Net Banking,42750.0,28000,14750.0,Delivered
+11128,2025-07-23,1104,New,Male,South,Hyderabad,Electronics,Mobile,9,20000,0,14000,Card,180000.0,126000,54000.0,Delivered
+11129,2025-05-30,1170,Returning,Male,North,Delhi,Electronics,Laptop,2,50000,0,38000,UPI,100000.0,76000,24000.0,Delivered
+11130,2025-10-20,1186,Returning,Female,East,Bhubaneswar,Furniture,Bookshelf,9,4500,5,2800,Card,38475.0,25200,13275.0,Delivered
+11131,2025-04-13,1128,New,Male,South,Chennai,Clothing,Jeans,6,1500,20,800,Card,7200.0,4800,2400.0,Delivered
+11132,2025-01-24,1210,New,Female,North,Chandigarh,Electronics,Headphones,1,3000,0,1800,Card,3000.0,1800,1200.0,Pending
+11133,2025-07-31,1281,New,Male,East,Bhubaneswar,Clothing,Shoes,4,2500,20,1300,Cash,8000.0,5200,2800.0,Delivered
+11134,2025-03-06,1253,Returning,Female,East,Kolkata,Clothing,Shirt,1,800,15,400,Card,680.0,400,280.0,Delivered
+11135,2025-07-28,1019,New,Male,South,Hyderabad,Clothing,Jeans,6,1500,20,800,Net Banking,7200.0,4800,2400.0,Delivered
+11136,2025-09-08,1200,New,Male,East,Bhubaneswar,Clothing,Shirt,4,800,10,400,Net Banking,2880.0,1600,1280.0,Pending
+11137,2025-04-27,1220,New,Female,West,Pune,Clothing,Jacket,3,3500,10,1900,UPI,9450.0,5700,3750.0,Delivered
+11138,2025-04-26,1136,New,Female,North,Delhi,Clothing,Shirt,3,800,20,400,Net Banking,1920.0,1200,720.0,Delivered
+11139,2025-08-25,1223,Returning,Male,North,Delhi,Furniture,Chair,9,2500,10,1500,Card,20250.0,13500,6750.0,Delivered
+11140,2025-04-15,1003,Returning,Male,East,Patna,Clothing,Jacket,6,3500,15,1900,Card,17850.0,11400,6450.0,Delivered
+11141,2025-09-16,1236,Returning,Male,East,Bhubaneswar,Furniture,Sofa,9,25000,5,18000,Net Banking,213750.0,162000,51750.0,Delivered
+11142,2025-02-15,1228,New,Female,West,Mumbai,Furniture,Bookshelf,5,4500,10,2800,UPI,20250.0,14000,6250.0,Delivered
+11143,2025-11-07,1142,New,Male,South,Bangalore,Clothing,Shoes,2,2500,10,1300,UPI,4500.0,2600,1900.0,Pending
+11144,2025-11-27,1009,New,Female,East,Bhubaneswar,Clothing,Jacket,8,3500,20,1900,Net Banking,22400.0,15200,7200.0,Delivered
+11145,2025-08-04,1190,New,Male,East,Bhubaneswar,Electronics,Headphones,5,3000,15,1800,Cash,12750.0,9000,3750.0,Delivered
+11146,2025-10-28,1165,New,Male,East,Kolkata,Electronics,Laptop,2,50000,5,38000,Cash,95000.0,76000,19000.0,Delivered
+11147,2025-11-29,1139,New,Male,East,Bhubaneswar,Clothing,Jeans,4,1500,20,800,Cash,4800.0,3200,1600.0,Delivered
+11148,2025-01-24,1276,Returning,Male,North,Delhi,Electronics,Keyboard,9,1200,20,600,Cash,8640.0,5400,3240.0,Delivered
+11149,2025-02-04,1291,Returning,Female,East,Bhubaneswar,Electronics,Laptop,4,50000,15,38000,Net Banking,170000.0,152000,18000.0,Delivered
+11150,2025-01-24,1053,New,Female,North,Chandigarh,Furniture,Sofa,4,25000,5,18000,UPI,95000.0,72000,23000.0,Delivered
+11151,2025-01-28,1175,Returning,Male,East,Patna,Electronics,Laptop,2,50000,15,38000,Card,85000.0,76000,9000.0,Delivered
+11152,2025-01-16,1110,New,Male,South,Hyderabad,Electronics,Mouse,6,500,5,200,Card,2850.0,1200,1650.0,Delivered
+11153,2025-02-28,1203,New,Male,West,Pune,Electronics,Headphones,2,3000,15,1800,Net Banking,5100.0,3600,1500.0,Delivered
+11154,2025-08-31,1136,Returning,Female,South,Hyderabad,Electronics,Keyboard,7,1200,20,600,Card,6720.0,4200,2520.0,Delivered
+11155,2025-07-26,1004,New,Male,East,Kolkata,Clothing,Jacket,3,3500,20,1900,Cash,8400.0,5700,2700.0,Delivered
+11156,2025-09-28,1155,Returning,Female,East,Kolkata,Clothing,Jacket,3,3500,0,1900,UPI,10500.0,5700,4800.0,Cancelled
+11157,2025-09-06,1172,New,Female,East,Bhubaneswar,Clothing,Jacket,5,3500,10,1900,Net Banking,15750.0,9500,6250.0,Delivered
+11158,2025-09-24,1047,New,Female,South,Hyderabad,Furniture,Sofa,3,25000,15,18000,UPI,63750.0,54000,9750.0,Delivered
+11159,2025-07-12,1094,Returning,Female,East,Kolkata,Furniture,Chair,2,2500,0,1500,Net Banking,5000.0,3000,2000.0,Cancelled
+11160,2025-12-01,1048,New,Male,South,Hyderabad,Furniture,Bookshelf,10,4500,10,2800,Net Banking,40500.0,28000,12500.0,Delivered
+11161,2025-08-06,1240,New,Male,North,Jaipur,Clothing,Jeans,9,1500,15,800,Net Banking,11475.0,7200,4275.0,Cancelled
+11162,2025-04-25,1213,New,Female,West,Pune,Clothing,TShirt,2,500,5,250,Net Banking,950.0,500,450.0,Delivered
+11163,2025-03-09,1139,Returning,Male,West,Pune,Furniture,Table,2,6000,10,3500,UPI,10800.0,7000,3800.0,Delivered
+11164,2025-10-26,1205,New,Male,South,Chennai,Furniture,Bookshelf,8,4500,20,2800,Card,28800.0,22400,6400.0,Delivered
+11165,2025-11-21,1073,New,Male,North,Jaipur,Furniture,Sofa,9,25000,0,18000,Net Banking,225000.0,162000,63000.0,Pending
+11166,2025-03-16,1004,New,Female,South,Hyderabad,Electronics,Mobile,7,20000,10,14000,Cash,126000.0,98000,28000.0,Delivered
+11167,2025-04-13,1076,Returning,Male,North,Chandigarh,Electronics,Headphones,3,3000,10,1800,Net Banking,8100.0,5400,2700.0,Cancelled
+11168,2025-10-24,1077,Returning,Male,East,Patna,Clothing,Jeans,9,1500,20,800,UPI,10800.0,7200,3600.0,Delivered
+11169,2025-06-27,1256,Returning,Male,North,Chandigarh,Furniture,Bookshelf,3,4500,15,2800,Net Banking,11475.0,8400,3075.0,Pending
+11170,2025-08-03,1102,Returning,Male,North,Chandigarh,Clothing,Shoes,5,2500,5,1300,Cash,11875.0,6500,5375.0,Delivered
+11171,2025-11-11,1106,Returning,Male,North,Jaipur,Furniture,Sofa,9,25000,20,18000,UPI,180000.0,162000,18000.0,Delivered
+11172,2025-02-08,1039,New,Male,West,Nashik,Electronics,Mouse,3,500,5,200,Net Banking,1425.0,600,825.0,Pending
+11173,2025-09-16,1275,Returning,Male,North,Chandigarh,Furniture,Table,7,6000,15,3500,Cash,35700.0,24500,11200.0,Cancelled
+11174,2025-07-23,1088,Returning,Male,East,Bhubaneswar,Electronics,Mouse,1,500,10,200,UPI,450.0,200,250.0,Delivered
+11175,2025-01-07,1211,New,Male,East,Patna,Clothing,Jacket,4,3500,5,1900,Net Banking,13300.0,7600,5700.0,Delivered
+11176,2025-02-18,1077,Returning,Male,East,Bhubaneswar,Furniture,Table,4,6000,0,3500,Cash,24000.0,14000,10000.0,Delivered
+11177,2025-01-26,1077,New,Female,North,Delhi,Furniture,Bookshelf,7,4500,0,2800,UPI,31500.0,19600,11900.0,Delivered
+11178,2025-06-10,1028,Returning,Male,South,Bangalore,Clothing,Shoes,8,2500,20,1300,Net Banking,16000.0,10400,5600.0,Delivered
+11179,2025-12-23,1245,New,Female,South,Chennai,Clothing,Jacket,1,3500,15,1900,UPI,2975.0,1900,1075.0,Delivered
+11180,2025-06-25,1066,New,Male,East,Kolkata,Clothing,TShirt,5,500,20,250,Cash,2000.0,1250,750.0,Delivered
+11181,2025-03-20,1266,Returning,Female,West,Pune,Electronics,Headphones,7,3000,20,1800,Net Banking,16800.0,12600,4200.0,Delivered
+11182,2025-01-02,1205,Returning,Female,South,Bangalore,Electronics,Mobile,4,20000,20,14000,Net Banking,64000.0,56000,8000.0,Delivered
+11183,2025-05-12,1058,New,Male,North,Delhi,Clothing,Jeans,4,1500,0,800,Net Banking,6000.0,3200,2800.0,Delivered
+11184,2025-10-03,1201,New,Female,South,Bangalore,Furniture,Chair,4,2500,0,1500,Cash,10000.0,6000,4000.0,Delivered
+11185,2025-04-27,1225,New,Female,East,Patna,Electronics,Mouse,6,500,20,200,Card,2400.0,1200,1200.0,Delivered
+11186,2025-06-13,1142,New,Female,West,Pune,Electronics,Mouse,7,500,0,200,Net Banking,3500.0,1400,2100.0,Delivered
+11187,2025-10-15,1084,New,Male,South,Hyderabad,Clothing,Jacket,2,3500,15,1900,Cash,5950.0,3800,2150.0,Delivered
+11188,2025-01-28,1143,New,Female,South,Chennai,Clothing,Shirt,5,800,20,400,UPI,3200.0,2000,1200.0,Delivered
+11189,2025-11-29,1033,New,Female,East,Kolkata,Furniture,Table,4,6000,0,3500,UPI,24000.0,14000,10000.0,Pending
+11190,2025-01-01,1152,Returning,Male,West,Mumbai,Electronics,Monitor,3,12000,5,8500,Cash,34200.0,25500,8700.0,Delivered
+11191,2025-07-07,1158,New,Female,West,Pune,Clothing,TShirt,7,500,20,250,Card,2800.0,1750,1050.0,Cancelled
+11192,2025-02-25,1141,Returning,Female,East,Patna,Clothing,Jeans,6,1500,20,800,Cash,7200.0,4800,2400.0,Delivered
+11193,2025-02-04,1251,Returning,Female,North,Jaipur,Furniture,Table,7,6000,15,3500,UPI,35700.0,24500,11200.0,Delivered
+11194,2025-04-22,1112,New,Male,South,Hyderabad,Clothing,Shirt,5,800,10,400,UPI,3600.0,2000,1600.0,Delivered
+11195,2025-10-13,1144,New,Female,North,Delhi,Electronics,Laptop,6,50000,10,38000,Net Banking,270000.0,228000,42000.0,Delivered
+11196,2025-11-06,1209,Returning,Male,South,Hyderabad,Furniture,Table,5,6000,15,3500,Card,25500.0,17500,8000.0,Delivered
+11197,2025-02-05,1224,New,Female,South,Hyderabad,Furniture,Chair,7,2500,15,1500,Cash,14875.0,10500,4375.0,Delivered
+11198,2025-08-05,1043,New,Female,North,Delhi,Clothing,Jeans,2,1500,15,800,UPI,2550.0,1600,950.0,Delivered
+11199,2025-03-21,1264,Returning,Female,East,Kolkata,Furniture,Bookshelf,5,4500,10,2800,UPI,20250.0,14000,6250.0,Delivered
+11200,2025-11-10,1244,Returning,Female,East,Patna,Clothing,TShirt,6,500,15,250,UPI,2550.0,1500,1050.0,Delivered
+11201,2025-03-24,1003,Returning,Male,South,Chennai,Clothing,Shirt,6,800,0,400,Cash,4800.0,2400,2400.0,Delivered
+11202,2025-03-06,1125,New,Female,East,Bhubaneswar,Electronics,Laptop,5,50000,20,38000,Cash,200000.0,190000,10000.0,Delivered
+11203,2025-11-21,1268,New,Male,South,Chennai,Electronics,Headphones,10,3000,20,1800,Card,24000.0,18000,6000.0,Cancelled
+11204,2025-05-08,1084,Returning,Female,East,Patna,Electronics,Keyboard,7,1200,5,600,Net Banking,7980.0,4200,3780.0,Delivered
+11205,2025-11-03,1016,New,Male,South,Bangalore,Clothing,Shirt,10,800,5,400,Net Banking,7600.0,4000,3600.0,Delivered
+11206,2025-01-22,1059,Returning,Female,East,Kolkata,Electronics,Keyboard,8,1200,20,600,Net Banking,7680.0,4800,2880.0,Delivered
+11207,2025-08-04,1177,New,Female,West,Pune,Clothing,Jeans,7,1500,0,800,UPI,10500.0,5600,4900.0,Pending
+11208,2025-04-17,1063,Returning,Male,North,Delhi,Electronics,Mouse,5,500,10,200,Net Banking,2250.0,1000,1250.0,Delivered
+11209,2025-04-19,1049,New,Male,West,Pune,Clothing,Shirt,1,800,10,400,UPI,720.0,400,320.0,Delivered
+11210,2025-12-23,1246,Returning,Male,North,Delhi,Electronics,Headphones,5,3000,0,1800,Card,15000.0,9000,6000.0,Delivered
+11211,2025-06-30,1289,New,Male,North,Delhi,Electronics,Mobile,10,20000,10,14000,UPI,180000.0,140000,40000.0,Delivered
+11212,2025-12-22,1286,New,Female,South,Bangalore,Clothing,Jacket,2,3500,15,1900,Card,5950.0,3800,2150.0,Delivered
+11213,2025-06-13,1015,Returning,Male,North,Delhi,Electronics,Keyboard,5,1200,20,600,Card,4800.0,3000,1800.0,Delivered
+11214,2025-03-09,1255,New,Male,West,Pune,Clothing,Jacket,5,3500,20,1900,Net Banking,14000.0,9500,4500.0,Pending
+11215,2025-10-19,1092,New,Male,West,Nashik,Furniture,Chair,2,2500,0,1500,Net Banking,5000.0,3000,2000.0,Delivered
+11216,2025-06-29,1279,Returning,Female,East,Kolkata,Electronics,Mobile,5,20000,10,14000,UPI,90000.0,70000,20000.0,Delivered
+11217,2025-06-30,1206,New,Female,West,Pune,Clothing,Jacket,4,3500,5,1900,Cash,13300.0,7600,5700.0,Delivered
+11218,2025-06-18,1094,New,Female,East,Patna,Furniture,Sofa,1,25000,5,18000,Net Banking,23750.0,18000,5750.0,Delivered
+11219,2025-01-22,1225,New,Female,North,Delhi,Furniture,Sofa,3,25000,10,18000,Net Banking,67500.0,54000,13500.0,Delivered
+11220,2025-03-07,1199,Returning,Male,West,Nashik,Electronics,Laptop,1,50000,5,38000,Cash,47500.0,38000,9500.0,Delivered
+11221,2025-01-21,1271,Returning,Female,North,Delhi,Clothing,TShirt,5,500,0,250,Cash,2500.0,1250,1250.0,Delivered
+11222,2025-04-10,1234,Returning,Male,West,Pune,Electronics,Mouse,4,500,0,200,Net Banking,2000.0,800,1200.0,Delivered
+11223,2025-10-27,1046,Returning,Female,West,Nashik,Clothing,Jeans,7,1500,10,800,Cash,9450.0,5600,3850.0,Delivered
+11224,2025-04-13,1064,Returning,Male,East,Patna,Clothing,Shirt,5,800,5,400,UPI,3800.0,2000,1800.0,Delivered
+11225,2025-02-16,1230,New,Male,North,Delhi,Electronics,Monitor,10,12000,0,8500,Card,120000.0,85000,35000.0,Delivered
+11226,2025-02-08,1249,New,Male,West,Nashik,Furniture,Chair,4,2500,0,1500,Card,10000.0,6000,4000.0,Delivered
+11227,2025-10-12,1246,Returning,Male,South,Chennai,Electronics,Keyboard,2,1200,15,600,Net Banking,2040.0,1200,840.0,Delivered
+11228,2025-11-06,1075,New,Male,North,Jaipur,Clothing,Jeans,4,1500,15,800,Net Banking,5100.0,3200,1900.0,Delivered
+11229,2025-03-31,1157,New,Female,North,Jaipur,Electronics,Mobile,2,20000,0,14000,UPI,40000.0,28000,12000.0,Delivered
+11230,2025-03-26,1223,New,Male,North,Delhi,Clothing,Shoes,8,2500,10,1300,Cash,18000.0,10400,7600.0,Delivered
+11231,2025-09-30,1190,New,Male,East,Bhubaneswar,Furniture,Sofa,3,25000,20,18000,Net Banking,60000.0,54000,6000.0,Delivered
+11232,2025-12-02,1052,Returning,Male,South,Bangalore,Clothing,Shoes,9,2500,20,1300,Card,18000.0,11700,6300.0,Delivered
+11233,2025-07-07,1088,Returning,Male,North,Delhi,Electronics,Headphones,4,3000,0,1800,UPI,12000.0,7200,4800.0,Cancelled
+11234,2025-06-08,1066,New,Female,West,Mumbai,Furniture,Chair,6,2500,0,1500,UPI,15000.0,9000,6000.0,Delivered
+11235,2025-08-31,1150,New,Female,West,Nashik,Electronics,Monitor,10,12000,0,8500,Cash,120000.0,85000,35000.0,Delivered
+11236,2025-03-14,1020,Returning,Male,East,Kolkata,Clothing,Shirt,5,800,10,400,Net Banking,3600.0,2000,1600.0,Delivered
+11237,2025-02-18,1033,New,Male,West,Mumbai,Electronics,Laptop,10,50000,15,38000,Net Banking,425000.0,380000,45000.0,Delivered
+11238,2025-04-11,1281,New,Male,North,Delhi,Electronics,Monitor,1,12000,0,8500,UPI,12000.0,8500,3500.0,Cancelled
+11239,2025-01-02,1046,New,Male,West,Mumbai,Furniture,Chair,9,2500,0,1500,Card,22500.0,13500,9000.0,Delivered
+11240,2025-09-01,1073,Returning,Female,North,Jaipur,Electronics,Monitor,1,12000,5,8500,Net Banking,11400.0,8500,2900.0,Delivered
+11241,2025-06-25,1133,Returning,Female,West,Mumbai,Furniture,Chair,8,2500,10,1500,Card,18000.0,12000,6000.0,Delivered
+11242,2025-08-26,1055,New,Male,South,Chennai,Furniture,Chair,9,2500,0,1500,UPI,22500.0,13500,9000.0,Pending
+11243,2025-02-28,1061,New,Male,East,Kolkata,Furniture,Table,9,6000,5,3500,Net Banking,51300.0,31500,19800.0,Delivered
+11244,2025-12-19,1008,New,Male,East,Bhubaneswar,Electronics,Keyboard,1,1200,20,600,Card,960.0,600,360.0,Cancelled
+11245,2025-04-09,1272,New,Male,South,Chennai,Furniture,Bookshelf,2,4500,0,2800,UPI,9000.0,5600,3400.0,Delivered
+11246,2025-12-25,1246,New,Male,South,Chennai,Clothing,Shoes,1,2500,0,1300,Card,2500.0,1300,1200.0,Delivered
+11247,2025-01-02,1176,New,Female,East,Patna,Furniture,Bookshelf,10,4500,5,2800,Net Banking,42750.0,28000,14750.0,Delivered
+11248,2025-08-31,1116,Returning,Female,South,Chennai,Furniture,Bookshelf,2,4500,10,2800,Cash,8100.0,5600,2500.0,Pending
+11249,2025-10-24,1271,Returning,Male,North,Chandigarh,Furniture,Bookshelf,10,4500,0,2800,Card,45000.0,28000,17000.0,Pending
+11250,2025-07-30,1193,New,Female,West,Mumbai,Clothing,Jacket,8,3500,20,1900,Cash,22400.0,15200,7200.0,Delivered
+11251,2025-05-03,1150,Returning,Female,East,Patna,Furniture,Sofa,5,25000,0,18000,Net Banking,125000.0,90000,35000.0,Delivered
+11252,2025-08-17,1131,New,Female,South,Hyderabad,Furniture,Table,7,6000,20,3500,Cash,33600.0,24500,9100.0,Delivered
+11253,2025-03-23,1102,New,Male,North,Jaipur,Clothing,Shirt,2,800,15,400,UPI,1360.0,800,560.0,Delivered
+11254,2025-05-24,1270,Returning,Female,East,Kolkata,Furniture,Table,8,6000,15,3500,Cash,40800.0,28000,12800.0,Delivered
+11255,2025-05-20,1292,Returning,Female,South,Chennai,Electronics,Mouse,6,500,20,200,Card,2400.0,1200,1200.0,Delivered
+11256,2025-01-29,1210,New,Male,East,Bhubaneswar,Electronics,Mouse,8,500,10,200,Card,3600.0,1600,2000.0,Delivered
+11257,2025-09-27,1067,New,Female,South,Bangalore,Clothing,Jacket,1,3500,0,1900,Cash,3500.0,1900,1600.0,Delivered
+11258,2025-09-04,1010,Returning,Male,East,Bhubaneswar,Furniture,Sofa,1,25000,0,18000,UPI,25000.0,18000,7000.0,Delivered
+11259,2025-01-12,1049,Returning,Female,North,Delhi,Electronics,Monitor,7,12000,15,8500,Net Banking,71400.0,59500,11900.0,Delivered
+11260,2025-12-21,1111,New,Male,North,Delhi,Electronics,Keyboard,8,1200,20,600,Cash,7680.0,4800,2880.0,Pending
+11261,2025-12-03,1219,New,Male,West,Mumbai,Furniture,Sofa,3,25000,0,18000,Card,75000.0,54000,21000.0,Delivered
+11262,2025-04-16,1057,New,Female,East,Patna,Clothing,Jacket,5,3500,0,1900,Card,17500.0,9500,8000.0,Delivered
+11263,2025-02-01,1283,Returning,Female,West,Nashik,Furniture,Chair,1,2500,10,1500,Cash,2250.0,1500,750.0,Delivered
+11264,2025-03-15,1113,New,Male,East,Bhubaneswar,Electronics,Mobile,7,20000,5,14000,Cash,133000.0,98000,35000.0,Delivered
+11265,2025-06-20,1133,Returning,Male,South,Hyderabad,Electronics,Keyboard,5,1200,15,600,Cash,5100.0,3000,2100.0,Delivered
+11266,2025-12-03,1071,New,Female,South,Bangalore,Clothing,TShirt,8,500,15,250,Net Banking,3400.0,2000,1400.0,Delivered
+11267,2025-03-10,1083,Returning,Female,West,Pune,Clothing,Shoes,8,2500,5,1300,Card,19000.0,10400,8600.0,Delivered
+11268,2025-10-28,1057,Returning,Female,East,Kolkata,Electronics,Keyboard,9,1200,0,600,Card,10800.0,5400,5400.0,Pending
+11269,2025-12-28,1271,Returning,Female,West,Nashik,Clothing,Jacket,7,3500,10,1900,Card,22050.0,13300,8750.0,Delivered
+11270,2025-05-17,1111,Returning,Male,North,Jaipur,Furniture,Chair,1,2500,10,1500,Net Banking,2250.0,1500,750.0,Delivered
+11271,2025-04-10,1076,New,Male,West,Pune,Furniture,Chair,3,2500,15,1500,UPI,6375.0,4500,1875.0,Cancelled
+11272,2025-05-26,1158,Returning,Male,West,Pune,Electronics,Laptop,8,50000,10,38000,Card,360000.0,304000,56000.0,Delivered
+11273,2025-01-09,1020,Returning,Female,South,Hyderabad,Furniture,Bookshelf,3,4500,5,2800,Card,12825.0,8400,4425.0,Delivered
+11274,2025-03-03,1131,Returning,Female,West,Pune,Furniture,Sofa,8,25000,0,18000,UPI,200000.0,144000,56000.0,Cancelled
+11275,2025-07-04,1122,New,Male,East,Patna,Furniture,Chair,1,2500,5,1500,Net Banking,2375.0,1500,875.0,Delivered
+11276,2025-01-29,1041,New,Male,South,Bangalore,Electronics,Mouse,5,500,20,200,UPI,2000.0,1000,1000.0,Delivered
+11277,2025-04-24,1167,New,Male,West,Mumbai,Furniture,Bookshelf,4,4500,15,2800,UPI,15300.0,11200,4100.0,Cancelled
+11278,2025-05-23,1130,New,Male,North,Jaipur,Clothing,Shirt,5,800,10,400,UPI,3600.0,2000,1600.0,Delivered
+11279,2025-04-30,1023,New,Male,West,Pune,Electronics,Mobile,8,20000,20,14000,UPI,128000.0,112000,16000.0,Pending
+11280,2025-06-19,1279,New,Male,West,Mumbai,Clothing,Jacket,10,3500,10,1900,Net Banking,31500.0,19000,12500.0,Delivered
+11281,2025-06-06,1251,Returning,Female,West,Mumbai,Clothing,Shoes,4,2500,0,1300,Net Banking,10000.0,5200,4800.0,Delivered
+11282,2025-12-01,1009,Returning,Male,South,Bangalore,Furniture,Sofa,4,25000,0,18000,UPI,100000.0,72000,28000.0,Delivered
+11283,2025-12-15,1013,Returning,Male,East,Bhubaneswar,Clothing,Jeans,3,1500,0,800,Cash,4500.0,2400,2100.0,Cancelled
+11284,2025-09-17,1052,New,Male,North,Chandigarh,Electronics,Mouse,7,500,10,200,Cash,3150.0,1400,1750.0,Delivered
+11285,2025-03-23,1209,Returning,Male,West,Mumbai,Electronics,Headphones,3,3000,20,1800,Cash,7200.0,5400,1800.0,Delivered
+11286,2025-08-30,1038,Returning,Male,East,Patna,Clothing,TShirt,3,500,0,250,Cash,1500.0,750,750.0,Delivered
+11287,2025-06-21,1100,New,Male,East,Kolkata,Electronics,Monitor,10,12000,20,8500,Card,96000.0,85000,11000.0,Delivered
+11288,2025-08-19,1193,Returning,Male,South,Hyderabad,Furniture,Chair,5,2500,10,1500,Net Banking,11250.0,7500,3750.0,Delivered
+11289,2025-07-27,1191,New,Female,North,Jaipur,Clothing,Jeans,5,1500,20,800,Net Banking,6000.0,4000,2000.0,Pending
+11290,2025-03-16,1051,Returning,Male,South,Hyderabad,Furniture,Chair,6,2500,10,1500,UPI,13500.0,9000,4500.0,Delivered
+11291,2025-09-27,1141,New,Female,East,Patna,Electronics,Keyboard,8,1200,10,600,Card,8640.0,4800,3840.0,Delivered
+11292,2025-04-24,1168,New,Female,East,Bhubaneswar,Electronics,Mouse,10,500,15,200,UPI,4250.0,2000,2250.0,Delivered
+11293,2025-03-03,1109,New,Female,East,Patna,Electronics,Keyboard,6,1200,10,600,UPI,6480.0,3600,2880.0,Delivered
+11294,2025-12-28,1207,Returning,Male,South,Chennai,Electronics,Laptop,1,50000,10,38000,Net Banking,45000.0,38000,7000.0,Delivered
+11295,2025-11-16,1300,Returning,Male,North,Jaipur,Electronics,Keyboard,8,1200,5,600,Card,9120.0,4800,4320.0,Delivered
+11296,2025-04-12,1110,New,Male,West,Pune,Electronics,Laptop,8,50000,0,38000,Cash,400000.0,304000,96000.0,Delivered
+11297,2025-12-28,1196,New,Male,South,Hyderabad,Clothing,TShirt,9,500,15,250,Net Banking,3825.0,2250,1575.0,Delivered
+11298,2025-07-29,1152,Returning,Male,East,Bhubaneswar,Clothing,Jacket,9,3500,15,1900,Card,26775.0,17100,9675.0,Delivered
+11299,2025-09-12,1243,Returning,Male,South,Chennai,Electronics,Laptop,2,50000,15,38000,Card,85000.0,76000,9000.0,Delivered
+11300,2025-01-20,1128,New,Male,East,Patna,Clothing,Jeans,2,1500,5,800,Net Banking,2850.0,1600,1250.0,Delivered
+11301,2025-02-27,1105,Returning,Male,West,Nashik,Furniture,Bookshelf,3,4500,10,2800,Net Banking,12150.0,8400,3750.0,Pending
+11302,2025-04-22,1010,Returning,Male,West,Pune,Furniture,Chair,1,2500,0,1500,UPI,2500.0,1500,1000.0,Delivered
+11303,2025-11-09,1148,Returning,Male,North,Jaipur,Electronics,Monitor,4,12000,20,8500,UPI,38400.0,34000,4400.0,Delivered
+11304,2025-07-15,1140,New,Female,East,Patna,Furniture,Bookshelf,4,4500,10,2800,UPI,16200.0,11200,5000.0,Delivered
+11305,2025-12-19,1190,New,Male,North,Delhi,Clothing,Shoes,9,2500,5,1300,Cash,21375.0,11700,9675.0,Delivered
+11306,2025-04-02,1094,Returning,Male,North,Jaipur,Clothing,Jacket,9,3500,10,1900,Net Banking,28350.0,17100,11250.0,Delivered
+11307,2025-02-21,1229,New,Male,West,Mumbai,Electronics,Keyboard,9,1200,10,600,Card,9720.0,5400,4320.0,Delivered
+11308,2025-10-20,1063,Returning,Female,South,Chennai,Electronics,Headphones,10,3000,5,1800,Net Banking,28500.0,18000,10500.0,Delivered
+11309,2025-01-08,1025,Returning,Male,South,Hyderabad,Clothing,Shoes,7,2500,15,1300,Card,14875.0,9100,5775.0,Delivered
+11310,2025-10-27,1268,New,Male,North,Delhi,Electronics,Mouse,2,500,15,200,Cash,850.0,400,450.0,Delivered
+11311,2025-04-08,1281,New,Female,West,Mumbai,Electronics,Laptop,10,50000,0,38000,Net Banking,500000.0,380000,120000.0,Delivered
+11312,2025-08-24,1011,New,Male,East,Patna,Furniture,Chair,5,2500,0,1500,Card,12500.0,7500,5000.0,Delivered
+11313,2025-03-10,1201,Returning,Female,South,Chennai,Electronics,Mobile,4,20000,15,14000,Card,68000.0,56000,12000.0,Delivered
+11314,2025-02-14,1126,Returning,Female,North,Delhi,Furniture,Sofa,8,25000,20,18000,UPI,160000.0,144000,16000.0,Delivered
+11315,2025-05-17,1190,New,Female,South,Hyderabad,Clothing,Jeans,2,1500,10,800,Cash,2700.0,1600,1100.0,Cancelled
+11316,2025-08-22,1089,New,Female,South,Hyderabad,Electronics,Monitor,6,12000,20,8500,Net Banking,57600.0,51000,6600.0,Cancelled
+11317,2025-02-01,1116,New,Male,East,Patna,Furniture,Table,5,6000,10,3500,UPI,27000.0,17500,9500.0,Delivered
+11318,2025-10-16,1177,Returning,Female,West,Nashik,Clothing,Jeans,2,1500,15,800,Cash,2550.0,1600,950.0,Delivered
+11319,2025-05-06,1014,Returning,Female,East,Bhubaneswar,Clothing,TShirt,10,500,0,250,UPI,5000.0,2500,2500.0,Delivered
+11320,2025-03-08,1257,Returning,Male,West,Pune,Electronics,Mobile,1,20000,0,14000,Net Banking,20000.0,14000,6000.0,Delivered
+11321,2025-01-30,1209,New,Male,South,Hyderabad,Electronics,Headphones,8,3000,20,1800,Card,19200.0,14400,4800.0,Delivered
+11322,2025-04-24,1281,New,Male,North,Jaipur,Furniture,Sofa,2,25000,0,18000,Net Banking,50000.0,36000,14000.0,Cancelled
+11323,2025-07-23,1105,Returning,Female,East,Kolkata,Electronics,Mobile,7,20000,15,14000,Cash,119000.0,98000,21000.0,Delivered
+11324,2025-01-29,1147,New,Male,West,Pune,Electronics,Keyboard,9,1200,20,600,Net Banking,8640.0,5400,3240.0,Cancelled
+11325,2025-05-11,1279,New,Female,South,Bangalore,Electronics,Laptop,9,50000,10,38000,Cash,405000.0,342000,63000.0,Delivered
+11326,2025-07-04,1009,New,Female,West,Mumbai,Clothing,Jacket,8,3500,0,1900,UPI,28000.0,15200,12800.0,Delivered
+11327,2025-09-10,1118,New,Male,West,Nashik,Electronics,Monitor,10,12000,5,8500,Cash,114000.0,85000,29000.0,Delivered
+11328,2025-10-13,1094,Returning,Male,West,Nashik,Clothing,Shirt,9,800,0,400,Card,7200.0,3600,3600.0,Pending
+11329,2025-03-03,1144,New,Male,South,Hyderabad,Electronics,Laptop,2,50000,10,38000,Card,90000.0,76000,14000.0,Delivered
+11330,2025-01-03,1289,Returning,Male,North,Jaipur,Clothing,Shirt,6,800,20,400,Card,3840.0,2400,1440.0,Delivered
+11331,2025-03-09,1014,Returning,Male,North,Chandigarh,Clothing,Shoes,4,2500,10,1300,UPI,9000.0,5200,3800.0,Pending
+11332,2025-01-25,1257,New,Male,North,Delhi,Clothing,Jacket,4,3500,5,1900,Cash,13300.0,7600,5700.0,Delivered
+11333,2025-06-28,1186,Returning,Female,West,Nashik,Furniture,Sofa,5,25000,15,18000,UPI,106250.0,90000,16250.0,Delivered
+11334,2025-05-21,1207,Returning,Female,South,Hyderabad,Furniture,Chair,3,2500,0,1500,Net Banking,7500.0,4500,3000.0,Delivered
+11335,2025-08-19,1172,New,Male,West,Pune,Furniture,Table,1,6000,20,3500,Net Banking,4800.0,3500,1300.0,Delivered
+11336,2025-10-27,1270,Returning,Female,North,Jaipur,Electronics,Mouse,8,500,15,200,Net Banking,3400.0,1600,1800.0,Delivered
+11337,2025-06-12,1221,Returning,Female,North,Delhi,Furniture,Bookshelf,5,4500,10,2800,Net Banking,20250.0,14000,6250.0,Delivered
+11338,2025-11-07,1152,Returning,Female,South,Chennai,Clothing,Jacket,3,3500,20,1900,Card,8400.0,5700,2700.0,Delivered
+11339,2025-05-10,1111,Returning,Female,West,Nashik,Electronics,Laptop,10,50000,15,38000,Cash,425000.0,380000,45000.0,Delivered
+11340,2025-09-03,1183,Returning,Female,East,Patna,Electronics,Monitor,7,12000,20,8500,Card,67200.0,59500,7700.0,Delivered
+11341,2025-10-24,1072,Returning,Female,East,Kolkata,Furniture,Bookshelf,7,4500,5,2800,Cash,29925.0,19600,10325.0,Delivered
+11342,2025-06-21,1283,Returning,Male,North,Chandigarh,Clothing,TShirt,1,500,5,250,Cash,475.0,250,225.0,Pending
+11343,2025-03-05,1074,Returning,Male,South,Bangalore,Clothing,TShirt,9,500,0,250,UPI,4500.0,2250,2250.0,Pending
+11344,2025-01-31,1215,New,Male,West,Pune,Electronics,Mobile,2,20000,0,14000,Net Banking,40000.0,28000,12000.0,Delivered
+11345,2025-02-16,1023,New,Female,West,Pune,Furniture,Bookshelf,5,4500,5,2800,Cash,21375.0,14000,7375.0,Delivered
+11346,2025-05-10,1068,New,Male,North,Delhi,Electronics,Monitor,5,12000,20,8500,Net Banking,48000.0,42500,5500.0,Delivered
+11347,2025-12-18,1093,Returning,Male,North,Chandigarh,Furniture,Sofa,8,25000,5,18000,Net Banking,190000.0,144000,46000.0,Delivered
+11348,2025-11-29,1063,Returning,Male,West,Pune,Clothing,Shoes,8,2500,0,1300,Net Banking,20000.0,10400,9600.0,Delivered
+11349,2025-04-20,1224,Returning,Female,West,Pune,Clothing,Shirt,7,800,5,400,Card,5320.0,2800,2520.0,Delivered
+11350,2025-03-10,1225,New,Male,North,Chandigarh,Electronics,Mobile,7,20000,5,14000,Net Banking,133000.0,98000,35000.0,Delivered
+11351,2025-02-27,1103,New,Female,West,Pune,Clothing,TShirt,6,500,20,250,Cash,2400.0,1500,900.0,Delivered
+11352,2025-04-16,1215,New,Male,East,Kolkata,Electronics,Mouse,6,500,15,200,Card,2550.0,1200,1350.0,Delivered
+11353,2025-10-27,1192,Returning,Male,North,Jaipur,Electronics,Mouse,9,500,0,200,Net Banking,4500.0,1800,2700.0,Delivered
+11354,2025-11-26,1160,New,Male,West,Pune,Electronics,Laptop,6,50000,20,38000,UPI,240000.0,228000,12000.0,Delivered
+11355,2025-09-13,1207,New,Female,North,Chandigarh,Furniture,Sofa,2,25000,5,18000,Net Banking,47500.0,36000,11500.0,Delivered
+11356,2025-11-08,1269,Returning,Female,South,Bangalore,Furniture,Chair,2,2500,5,1500,Net Banking,4750.0,3000,1750.0,Delivered
+11357,2025-06-20,1194,New,Female,North,Chandigarh,Clothing,TShirt,5,500,15,250,Card,2125.0,1250,875.0,Cancelled
+11358,2025-06-11,1152,Returning,Female,North,Jaipur,Electronics,Headphones,4,3000,0,1800,Cash,12000.0,7200,4800.0,Delivered
+11359,2025-10-13,1237,New,Female,South,Chennai,Furniture,Sofa,2,25000,0,18000,Net Banking,50000.0,36000,14000.0,Delivered
+11360,2025-03-12,1088,Returning,Male,East,Bhubaneswar,Clothing,Shoes,3,2500,10,1300,Card,6750.0,3900,2850.0,Delivered
+11361,2025-09-12,1011,Returning,Male,West,Nashik,Clothing,Shirt,7,800,0,400,Card,5600.0,2800,2800.0,Delivered
+11362,2025-02-24,1187,Returning,Female,South,Hyderabad,Electronics,Monitor,8,12000,15,8500,Cash,81600.0,68000,13600.0,Delivered
+11363,2025-11-19,1214,Returning,Female,North,Delhi,Furniture,Bookshelf,6,4500,10,2800,Card,24300.0,16800,7500.0,Delivered
+11364,2025-01-03,1015,Returning,Male,West,Pune,Clothing,TShirt,5,500,10,250,Cash,2250.0,1250,1000.0,Delivered
+11365,2025-01-26,1266,New,Female,South,Hyderabad,Furniture,Bookshelf,1,4500,5,2800,UPI,4275.0,2800,1475.0,Delivered
+11366,2025-11-09,1297,Returning,Male,West,Pune,Electronics,Mouse,8,500,5,200,Net Banking,3800.0,1600,2200.0,Delivered
+11367,2025-05-06,1073,Returning,Female,West,Mumbai,Electronics,Monitor,3,12000,0,8500,Card,36000.0,25500,10500.0,Delivered
+11368,2025-02-22,1052,Returning,Male,South,Bangalore,Electronics,Monitor,6,12000,10,8500,UPI,64800.0,51000,13800.0,Delivered
+11369,2025-07-17,1128,Returning,Female,West,Mumbai,Electronics,Monitor,3,12000,5,8500,Card,34200.0,25500,8700.0,Cancelled
+11370,2025-10-26,1028,New,Female,East,Kolkata,Electronics,Mouse,7,500,15,200,Card,2975.0,1400,1575.0,Delivered
+11371,2025-07-07,1065,Returning,Male,South,Chennai,Clothing,Shoes,7,2500,5,1300,UPI,16625.0,9100,7525.0,Delivered
+11372,2025-07-05,1017,New,Male,East,Kolkata,Furniture,Bookshelf,9,4500,5,2800,Card,38475.0,25200,13275.0,Delivered
+11373,2025-11-01,1138,Returning,Female,North,Delhi,Clothing,Jeans,5,1500,10,800,Card,6750.0,4000,2750.0,Delivered
+11374,2025-10-25,1229,Returning,Female,West,Nashik,Furniture,Bookshelf,8,4500,10,2800,UPI,32400.0,22400,10000.0,Delivered
+11375,2025-07-23,1254,New,Male,North,Delhi,Electronics,Keyboard,10,1200,20,600,Card,9600.0,6000,3600.0,Delivered
+11376,2025-01-11,1210,New,Female,North,Chandigarh,Clothing,Shirt,10,800,15,400,Cash,6800.0,4000,2800.0,Delivered
+11377,2025-12-25,1294,New,Male,West,Mumbai,Electronics,Headphones,8,3000,10,1800,Card,21600.0,14400,7200.0,Delivered
+11378,2025-12-20,1231,Returning,Male,South,Bangalore,Clothing,Jeans,1,1500,0,800,Net Banking,1500.0,800,700.0,Pending
+11379,2025-05-26,1241,New,Female,West,Nashik,Clothing,Shirt,5,800,15,400,Card,3400.0,2000,1400.0,Delivered
+11380,2025-03-26,1070,Returning,Male,North,Delhi,Electronics,Mobile,3,20000,15,14000,Net Banking,51000.0,42000,9000.0,Delivered
+11381,2025-04-10,1104,New,Male,North,Jaipur,Furniture,Sofa,1,25000,10,18000,Net Banking,22500.0,18000,4500.0,Delivered
+11382,2025-04-14,1204,New,Female,South,Chennai,Furniture,Sofa,4,25000,15,18000,Card,85000.0,72000,13000.0,Delivered
+11383,2025-02-15,1053,Returning,Male,West,Mumbai,Furniture,Table,8,6000,10,3500,UPI,43200.0,28000,15200.0,Delivered
+11384,2025-02-13,1054,New,Male,North,Jaipur,Furniture,Sofa,3,25000,5,18000,Cash,71250.0,54000,17250.0,Cancelled
+11385,2025-10-05,1276,New,Male,East,Bhubaneswar,Furniture,Bookshelf,10,4500,20,2800,Cash,36000.0,28000,8000.0,Delivered
+11386,2025-06-30,1031,Returning,Male,North,Delhi,Electronics,Mouse,2,500,5,200,Card,950.0,400,550.0,Delivered
+11387,2025-07-06,1135,Returning,Female,North,Delhi,Electronics,Headphones,9,3000,10,1800,UPI,24300.0,16200,8100.0,Cancelled
+11388,2025-04-24,1058,Returning,Male,South,Hyderabad,Furniture,Chair,10,2500,10,1500,UPI,22500.0,15000,7500.0,Delivered
+11389,2025-09-12,1105,New,Female,East,Bhubaneswar,Electronics,Laptop,5,50000,5,38000,Cash,237500.0,190000,47500.0,Delivered
+11390,2025-01-30,1266,New,Male,North,Chandigarh,Furniture,Table,7,6000,0,3500,UPI,42000.0,24500,17500.0,Delivered
+11391,2025-09-21,1010,New,Female,North,Delhi,Clothing,Jacket,2,3500,0,1900,Card,7000.0,3800,3200.0,Delivered
+11392,2025-04-08,1253,New,Male,East,Bhubaneswar,Clothing,Jacket,9,3500,0,1900,Card,31500.0,17100,14400.0,Delivered
+11393,2025-11-09,1295,New,Female,West,Nashik,Electronics,Laptop,9,50000,10,38000,UPI,405000.0,342000,63000.0,Delivered
+11394,2025-11-25,1156,Returning,Male,West,Pune,Clothing,Shirt,4,800,15,400,Card,2720.0,1600,1120.0,Delivered
+11395,2025-04-25,1158,New,Male,North,Jaipur,Electronics,Laptop,4,50000,10,38000,Net Banking,180000.0,152000,28000.0,Delivered
+11396,2025-10-03,1037,Returning,Male,North,Delhi,Electronics,Laptop,6,50000,15,38000,Cash,255000.0,228000,27000.0,Delivered
+11397,2025-10-08,1119,New,Male,West,Pune,Clothing,Jacket,10,3500,5,1900,Card,33250.0,19000,14250.0,Delivered
+11398,2025-10-02,1067,Returning,Female,South,Chennai,Furniture,Table,10,6000,20,3500,UPI,48000.0,35000,13000.0,Delivered
+11399,2025-09-18,1242,New,Female,East,Bhubaneswar,Electronics,Mobile,10,20000,15,14000,Cash,170000.0,140000,30000.0,Delivered
+11400,2025-11-27,1299,New,Male,East,Bhubaneswar,Furniture,Bookshelf,6,4500,0,2800,Card,27000.0,16800,10200.0,Delivered
+11401,2025-07-26,1213,Returning,Female,South,Chennai,Electronics,Monitor,1,12000,10,8500,Cash,10800.0,8500,2300.0,Delivered
+11402,2025-11-24,1101,New,Male,South,Chennai,Furniture,Sofa,9,25000,5,18000,UPI,213750.0,162000,51750.0,Delivered
+11403,2025-07-30,1056,Returning,Male,South,Chennai,Furniture,Sofa,2,25000,0,18000,Net Banking,50000.0,36000,14000.0,Cancelled
+11404,2025-08-03,1239,New,Female,South,Bangalore,Electronics,Mouse,5,500,5,200,Net Banking,2375.0,1000,1375.0,Delivered
+11405,2025-02-09,1231,New,Female,South,Bangalore,Furniture,Table,9,6000,20,3500,Card,43200.0,31500,11700.0,Delivered
+11406,2025-01-26,1092,Returning,Female,South,Bangalore,Electronics,Mouse,4,500,10,200,Net Banking,1800.0,800,1000.0,Pending
+11407,2025-01-27,1279,New,Male,East,Patna,Furniture,Chair,3,2500,10,1500,Card,6750.0,4500,2250.0,Delivered
+11408,2025-07-09,1109,Returning,Male,South,Chennai,Furniture,Chair,7,2500,20,1500,Cash,14000.0,10500,3500.0,Delivered
+11409,2025-03-24,1168,New,Female,West,Mumbai,Electronics,Mouse,6,500,10,200,Card,2700.0,1200,1500.0,Delivered
+11410,2025-06-19,1300,New,Male,South,Bangalore,Furniture,Table,8,6000,15,3500,Card,40800.0,28000,12800.0,Delivered
+11411,2025-06-16,1218,New,Female,South,Chennai,Electronics,Mouse,3,500,5,200,Card,1425.0,600,825.0,Delivered
+11412,2025-07-07,1222,New,Female,East,Bhubaneswar,Furniture,Sofa,5,25000,0,18000,Net Banking,125000.0,90000,35000.0,Delivered
+11413,2025-06-18,1161,New,Female,East,Kolkata,Clothing,Jeans,10,1500,20,800,Card,12000.0,8000,4000.0,Delivered
+11414,2025-10-16,1016,New,Female,South,Chennai,Electronics,Keyboard,4,1200,15,600,UPI,4080.0,2400,1680.0,Delivered
+11415,2025-08-17,1278,New,Female,East,Patna,Clothing,Jacket,4,3500,0,1900,Card,14000.0,7600,6400.0,Delivered
+11416,2025-04-07,1057,Returning,Female,North,Chandigarh,Clothing,Jacket,4,3500,0,1900,Cash,14000.0,7600,6400.0,Delivered
+11417,2025-01-16,1062,New,Male,East,Patna,Electronics,Headphones,10,3000,20,1800,UPI,24000.0,18000,6000.0,Delivered
+11418,2025-10-06,1242,New,Male,East,Patna,Electronics,Laptop,8,50000,15,38000,Cash,340000.0,304000,36000.0,Delivered
+11419,2025-05-15,1090,New,Female,East,Kolkata,Electronics,Keyboard,6,1200,0,600,Cash,7200.0,3600,3600.0,Pending
+11420,2025-01-26,1072,Returning,Female,East,Kolkata,Furniture,Bookshelf,3,4500,0,2800,Cash,13500.0,8400,5100.0,Delivered
+11421,2025-12-18,1030,Returning,Female,West,Nashik,Furniture,Table,10,6000,15,3500,UPI,51000.0,35000,16000.0,Delivered
+11422,2025-01-12,1288,New,Male,West,Nashik,Clothing,Shoes,5,2500,10,1300,UPI,11250.0,6500,4750.0,Delivered
+11423,2025-03-13,1086,New,Female,West,Pune,Electronics,Keyboard,6,1200,0,600,Net Banking,7200.0,3600,3600.0,Pending
+11424,2025-05-13,1234,New,Female,South,Bangalore,Electronics,Headphones,5,3000,5,1800,UPI,14250.0,9000,5250.0,Delivered
+11425,2025-04-16,1235,Returning,Female,South,Hyderabad,Furniture,Chair,6,2500,15,1500,Card,12750.0,9000,3750.0,Delivered
+11426,2025-08-08,1265,New,Male,North,Chandigarh,Clothing,Shirt,8,800,0,400,Cash,6400.0,3200,3200.0,Cancelled
+11427,2025-06-26,1287,Returning,Female,West,Nashik,Electronics,Laptop,7,50000,20,38000,Net Banking,280000.0,266000,14000.0,Cancelled
+11428,2025-10-09,1269,New,Male,South,Chennai,Electronics,Headphones,5,3000,5,1800,UPI,14250.0,9000,5250.0,Delivered
+11429,2025-05-13,1186,Returning,Male,East,Kolkata,Electronics,Monitor,10,12000,0,8500,Cash,120000.0,85000,35000.0,Delivered
+11430,2025-01-22,1131,Returning,Female,East,Bhubaneswar,Clothing,Shoes,6,2500,5,1300,UPI,14250.0,7800,6450.0,Delivered
+11431,2025-09-26,1291,New,Male,West,Mumbai,Furniture,Table,4,6000,5,3500,Net Banking,22800.0,14000,8800.0,Pending
+11432,2025-06-10,1277,New,Male,North,Chandigarh,Electronics,Laptop,9,50000,10,38000,UPI,405000.0,342000,63000.0,Delivered
+11433,2025-04-17,1180,New,Male,North,Chandigarh,Furniture,Bookshelf,4,4500,5,2800,UPI,17100.0,11200,5900.0,Cancelled
+11434,2025-10-06,1290,New,Female,East,Kolkata,Electronics,Keyboard,1,1200,10,600,Cash,1080.0,600,480.0,Delivered
+11435,2025-12-19,1163,New,Male,North,Delhi,Furniture,Chair,7,2500,15,1500,Card,14875.0,10500,4375.0,Delivered
+11436,2025-08-23,1271,New,Female,West,Mumbai,Electronics,Mobile,7,20000,10,14000,UPI,126000.0,98000,28000.0,Delivered
+11437,2025-01-18,1096,New,Female,East,Patna,Clothing,Jeans,4,1500,20,800,Net Banking,4800.0,3200,1600.0,Delivered
+11438,2025-08-30,1262,Returning,Female,South,Hyderabad,Electronics,Monitor,3,12000,0,8500,UPI,36000.0,25500,10500.0,Delivered
+11439,2025-04-27,1288,New,Male,South,Chennai,Clothing,Shoes,8,2500,15,1300,UPI,17000.0,10400,6600.0,Delivered
+11440,2025-10-13,1083,New,Female,North,Delhi,Clothing,Jeans,5,1500,15,800,Card,6375.0,4000,2375.0,Delivered
+11441,2025-10-09,1225,Returning,Male,East,Bhubaneswar,Electronics,Laptop,10,50000,20,38000,Cash,400000.0,380000,20000.0,Delivered
+11442,2025-05-24,1223,New,Male,East,Patna,Furniture,Chair,7,2500,10,1500,Net Banking,15750.0,10500,5250.0,Delivered
+11443,2025-07-24,1118,New,Male,South,Hyderabad,Furniture,Chair,4,2500,0,1500,Cash,10000.0,6000,4000.0,Delivered
+11444,2025-02-08,1192,New,Male,East,Patna,Electronics,Headphones,4,3000,10,1800,Cash,10800.0,7200,3600.0,Delivered
+11445,2025-06-03,1079,New,Female,East,Kolkata,Clothing,Jacket,8,3500,5,1900,Cash,26600.0,15200,11400.0,Delivered
+11446,2025-06-25,1078,Returning,Female,East,Patna,Clothing,Jacket,8,3500,10,1900,UPI,25200.0,15200,10000.0,Delivered
+11447,2025-08-29,1147,Returning,Male,North,Chandigarh,Electronics,Keyboard,2,1200,15,600,Card,2040.0,1200,840.0,Pending
+11448,2025-05-14,1107,New,Female,East,Bhubaneswar,Electronics,Headphones,2,3000,0,1800,UPI,6000.0,3600,2400.0,Delivered
+11449,2025-02-15,1271,New,Female,West,Nashik,Furniture,Sofa,3,25000,10,18000,Net Banking,67500.0,54000,13500.0,Delivered
+11450,2025-02-19,1244,Returning,Female,North,Chandigarh,Electronics,Keyboard,3,1200,0,600,Card,3600.0,1800,1800.0,Delivered
+11451,2025-06-15,1073,New,Male,East,Kolkata,Furniture,Sofa,1,25000,0,18000,Cash,25000.0,18000,7000.0,Delivered
+11452,2025-04-16,1026,Returning,Female,East,Patna,Clothing,Jacket,3,3500,5,1900,Card,9975.0,5700,4275.0,Delivered
+11453,2025-08-04,1210,Returning,Male,West,Mumbai,Electronics,Headphones,6,3000,5,1800,Net Banking,17100.0,10800,6300.0,Cancelled
+11454,2025-05-26,1092,Returning,Female,North,Delhi,Furniture,Sofa,8,25000,15,18000,UPI,170000.0,144000,26000.0,Pending
+11455,2025-03-13,1125,New,Male,South,Bangalore,Electronics,Monitor,10,12000,20,8500,UPI,96000.0,85000,11000.0,Delivered
+11456,2025-11-26,1073,New,Male,South,Hyderabad,Electronics,Headphones,6,3000,0,1800,Cash,18000.0,10800,7200.0,Delivered
+11457,2025-09-30,1123,New,Male,North,Chandigarh,Clothing,Jacket,5,3500,20,1900,UPI,14000.0,9500,4500.0,Delivered
+11458,2025-09-04,1184,Returning,Female,East,Bhubaneswar,Electronics,Keyboard,4,1200,15,600,UPI,4080.0,2400,1680.0,Delivered
+11459,2025-07-05,1187,New,Male,East,Patna,Clothing,TShirt,3,500,0,250,Net Banking,1500.0,750,750.0,Delivered
+11460,2025-03-11,1198,New,Female,South,Hyderabad,Electronics,Headphones,4,3000,0,1800,Card,12000.0,7200,4800.0,Delivered
+11461,2025-05-30,1078,Returning,Male,South,Chennai,Electronics,Mobile,7,20000,20,14000,UPI,112000.0,98000,14000.0,Delivered
+11462,2025-09-03,1186,New,Female,South,Hyderabad,Clothing,Shoes,1,2500,10,1300,Net Banking,2250.0,1300,950.0,Cancelled
+11463,2025-09-19,1253,New,Male,West,Nashik,Clothing,Jacket,7,3500,5,1900,Net Banking,23275.0,13300,9975.0,Delivered
+11464,2025-01-26,1013,New,Female,South,Bangalore,Electronics,Mouse,1,500,10,200,Cash,450.0,200,250.0,Delivered
+11465,2025-05-20,1299,Returning,Male,West,Mumbai,Electronics,Mouse,2,500,20,200,Net Banking,800.0,400,400.0,Delivered
+11466,2025-04-09,1076,New,Male,North,Delhi,Electronics,Keyboard,4,1200,5,600,Cash,4560.0,2400,2160.0,Pending
+11467,2025-10-05,1051,Returning,Male,East,Patna,Electronics,Keyboard,1,1200,10,600,UPI,1080.0,600,480.0,Delivered
+11468,2025-02-20,1275,Returning,Female,South,Chennai,Clothing,Jeans,9,1500,5,800,Cash,12825.0,7200,5625.0,Delivered
+11469,2025-05-31,1149,Returning,Male,East,Bhubaneswar,Clothing,Shoes,6,2500,0,1300,Net Banking,15000.0,7800,7200.0,Delivered
+11470,2025-04-14,1219,New,Male,East,Patna,Clothing,Shoes,1,2500,10,1300,Card,2250.0,1300,950.0,Delivered
+11471,2025-03-30,1122,New,Male,South,Hyderabad,Electronics,Monitor,1,12000,5,8500,Card,11400.0,8500,2900.0,Delivered
+11472,2025-05-21,1211,New,Male,South,Chennai,Electronics,Keyboard,6,1200,5,600,UPI,6840.0,3600,3240.0,Delivered
+11473,2025-08-01,1280,Returning,Female,North,Jaipur,Clothing,Shoes,4,2500,5,1300,UPI,9500.0,5200,4300.0,Delivered
+11474,2025-08-21,1026,Returning,Male,West,Pune,Furniture,Bookshelf,4,4500,10,2800,Card,16200.0,11200,5000.0,Delivered
+11475,2025-07-02,1173,New,Male,West,Mumbai,Clothing,Jeans,6,1500,15,800,Cash,7650.0,4800,2850.0,Cancelled
+11476,2025-09-08,1156,Returning,Female,East,Patna,Furniture,Sofa,7,25000,10,18000,UPI,157500.0,126000,31500.0,Delivered
+11477,2025-01-09,1238,New,Female,South,Bangalore,Furniture,Chair,9,2500,20,1500,Net Banking,18000.0,13500,4500.0,Delivered
+11478,2025-03-20,1082,New,Female,North,Delhi,Furniture,Chair,10,2500,10,1500,UPI,22500.0,15000,7500.0,Delivered
+11479,2025-02-21,1273,New,Male,North,Jaipur,Furniture,Sofa,5,25000,5,18000,Cash,118750.0,90000,28750.0,Delivered
+11480,2025-09-26,1068,New,Female,North,Chandigarh,Furniture,Table,9,6000,0,3500,UPI,54000.0,31500,22500.0,Delivered
+11481,2025-08-14,1044,New,Female,North,Chandigarh,Clothing,Jacket,4,3500,10,1900,Net Banking,12600.0,7600,5000.0,Cancelled
+11482,2025-02-20,1061,New,Female,North,Chandigarh,Clothing,Jeans,10,1500,10,800,Net Banking,13500.0,8000,5500.0,Pending
+11483,2025-07-05,1123,New,Male,West,Pune,Furniture,Bookshelf,2,4500,5,2800,Net Banking,8550.0,5600,2950.0,Delivered
+11484,2025-02-03,1196,Returning,Male,West,Nashik,Clothing,Shoes,3,2500,0,1300,Cash,7500.0,3900,3600.0,Delivered
+11485,2025-10-18,1111,New,Male,West,Mumbai,Clothing,TShirt,1,500,0,250,Cash,500.0,250,250.0,Delivered
+11486,2025-08-18,1258,Returning,Female,South,Hyderabad,Clothing,Jeans,6,1500,20,800,Net Banking,7200.0,4800,2400.0,Delivered
+11487,2025-05-11,1089,Returning,Male,East,Patna,Electronics,Headphones,6,3000,10,1800,Net Banking,16200.0,10800,5400.0,Delivered
+11488,2025-04-30,1198,New,Female,North,Chandigarh,Furniture,Sofa,1,25000,0,18000,Cash,25000.0,18000,7000.0,Delivered
+11489,2025-11-22,1282,Returning,Female,South,Bangalore,Furniture,Bookshelf,3,4500,0,2800,Cash,13500.0,8400,5100.0,Cancelled
+11490,2025-09-04,1200,Returning,Female,North,Jaipur,Electronics,Mobile,5,20000,15,14000,Cash,85000.0,70000,15000.0,Delivered
+11491,2025-07-11,1099,Returning,Male,West,Nashik,Clothing,Shirt,3,800,15,400,Card,2040.0,1200,840.0,Delivered
+11492,2025-11-19,1027,New,Female,South,Chennai,Electronics,Laptop,10,50000,0,38000,Cash,500000.0,380000,120000.0,Pending
+11493,2025-07-29,1089,New,Female,West,Pune,Clothing,Jacket,3,3500,20,1900,Net Banking,8400.0,5700,2700.0,Delivered
+11494,2025-04-13,1146,New,Male,North,Jaipur,Furniture,Sofa,10,25000,0,18000,Card,250000.0,180000,70000.0,Delivered
+11495,2025-11-25,1182,New,Female,North,Chandigarh,Clothing,TShirt,3,500,5,250,Cash,1425.0,750,675.0,Delivered
+11496,2025-05-13,1257,New,Female,East,Patna,Clothing,Shoes,5,2500,10,1300,Net Banking,11250.0,6500,4750.0,Delivered
+11497,2025-11-19,1189,Returning,Female,North,Chandigarh,Clothing,TShirt,5,500,20,250,UPI,2000.0,1250,750.0,Cancelled
+11498,2025-05-19,1240,Returning,Male,West,Mumbai,Clothing,TShirt,4,500,5,250,Card,1900.0,1000,900.0,Pending
+11499,2025-05-01,1196,New,Female,North,Chandigarh,Electronics,Keyboard,1,1200,20,600,Net Banking,960.0,600,360.0,Cancelled
+11500,2025-04-04,1297,Returning,Male,East,Kolkata,Electronics,Keyboard,5,1200,5,600,UPI,5700.0,3000,2700.0,Pending
